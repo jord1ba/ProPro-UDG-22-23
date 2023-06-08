@@ -1,0 +1,4 @@
+<map id="VirusReader.readFamilies" name="VirusReader.readFamilies">
+<area shape="rect" id="node1" title="Llegeix a través de read la informació sobre les famílies fins a llegir &quot;virus&quot;." alt="" coords="236,5,423,32"/>
+<area shape="rect" id="node2" href="$class_virus_reader.html#ac022f1ec962523333cfffd959fba8979" title="Llegeix el fitxer FILE_NAME i guarda les dades llegides." alt="" coords="5,5,188,32"/>
+</map>

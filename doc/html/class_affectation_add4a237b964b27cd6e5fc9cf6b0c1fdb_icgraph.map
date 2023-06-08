@@ -1,0 +1,32 @@
+<map id="Affectation.applyVaccine" name="Affectation.applyVaccine">
+<area shape="rect" id="node1" title="Aplica la vacuna a l&#39;afectació, substituïnt l&#39;anterior." alt="" coords="2187,284,2369,311"/>
+<area shape="rect" id="node2" href="$class_region.html#a94249884b5c17e75ffb388b1007616b3" title="Comprova si hi ha alguna vacuna que afectaria aquesta afectació, i si es dona el cas,..." alt="" coords="1972,284,2139,311"/>
+<area shape="rect" id="node3" href="$class_region.html#a69de0438019ba358a8c35e4e9c6b27de" title="Si no existeix crea l&#39;afectació" alt="" coords="1783,284,1924,311"/>
+<area shape="rect" id="node4" href="$class_region.html#aa1ef0f7a40fcea11f56ad2ee09909c97" title="Filtra les afectacions per família." alt="" coords="1525,157,1733,184"/>
+<area shape="rect" id="node5" href="$class_virus.html#abacf900e1b27a0c42953c33252e2e868" title="Comprova si hi ha coincidències de virus de la mateixa família en un grup de persones." alt="" coords="1279,107,1460,133"/>
+<area shape="rect" id="node9" href="$class_region.html#a4d94a3fb6214962bdf5fbdd09edad438" title="Distribueix la proporció de persones malaltes uniformement en la duració dels símptomes del virus en ..." alt="" coords="485,49,672,90"/>
+<area shape="rect" id="node12" href="$class_region.html#adfc1d0c1fd17d13ddb070e5bed408517" title="Propaga els virus en aquesta regió." alt="" coords="510,161,647,188"/>
+<area shape="rect" id="node13" href="$class_data.html#a7aaf71685440d631ee52fb67e080bc27" title="Constructor que rep un virus i una regió afectada per aquest i carrega i guarda les dades de l&#39;afecta..." alt="" coords="1585,259,1673,285"/>
+<area shape="rect" id="node14" href="$class_virus.html#a3ea5bb0cb867aeefac7bc1c3278b928e" title="Genera un nou AffectedGroup a la regió especificada." alt="" coords="1264,56,1475,83"/>
+<area shape="rect" id="node15" href="$class_region.html#a6052f3a22228217ba7b7569bc5fc8055" title="Acaba d&#39;afegir els grups a les afectacions." alt="" coords="1575,309,1683,336"/>
+<area shape="rect" id="node16" href="$class_mutable_virus.html#aae72ceb7254d92851e6cf481b39599f7" title="Determina el funcionament en cas de coincidència de virus de la mateixa família en un grup de persone..." alt="" coords="1523,360,1735,387"/>
+<area shape="rect" id="node17" href="$class_data.html#a64ecd336fa2b1addf90f43a941c6703b" title="Retorna en format String les dades més rellevants de l&#39;objecte actual." alt="" coords="1569,411,1688,437"/>
+<area shape="rect" id="node25" href="$class_data.html#a7c190e5a2f3f11629a13a90d05e9e1cf" title="Retorna en format String totes les dades de l&#39;objecte actual ordenades." alt="" coords="1575,461,1683,488"/>
+<area shape="rect" id="node26" href="$class_region.html#a41d1153d04b5ee6829b9a0479ef5b072" title="Transfereix una proporció de persones afectades de la regió from a la regió to." alt="" coords="1567,512,1690,539"/>
+<area shape="rect" id="node30" href="$class_data.html#a544295f9ec81e74daaa7b5df8e1e8508" title="Actualitza la informació actual per la generada en el següent tick." alt="" coords="1562,563,1695,589"/>
+<area shape="rect" id="node6" href="$class_mutable_virus.html#a08408424d9af878eeaedf078d037f454" title="Propaga el virus en una regió específica." alt="" coords="1005,56,1216,83"/>
+<area shape="rect" id="node7" href="$class_virus.html#af29bb5e900728d4a6534a63823791642" title="Propaga el virus en una regió específica." alt="" coords="1031,107,1190,133"/>
+<area shape="rect" id="node8" href="$class_affectation.html#a52bac94fadac45ee7ed7891fc737a56d" title="Propaga el virus dins l&#39;afectació." alt="" coords="744,107,940,133"/>
+<area shape="rect" id="node10" href="$class_simulation.html#a25ce209560f3f2ae23643a6d4fe96198" title="A partir de les dades de les families crea la llista d&#39;objectes de tipus Region." alt="" coords="220,56,431,83"/>
+<area shape="rect" id="node11" href="$class_simulation.html#a84d2e11489e9d0c719e5e2a0bf39e636" title="Constructor de la simulació." alt="" coords="5,56,172,83"/>
+<area shape="rect" id="node18" href="$class_writer.html#a3db7795a469ac328a599bffcfa4f57f2" title="Mostra per pantalla un resum de l&#39;estat actual i acumulat." alt="" coords="1289,411,1450,437"/>
+<area shape="rect" id="node19" href="$class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="1013,411,1208,437"/>
+<area shape="rect" id="node20" href="$class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="739,512,945,539"/>
+<area shape="rect" id="node21" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="479,411,679,437"/>
+<area shape="rect" id="node22" href="$class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="754,309,930,336"/>
+<area shape="rect" id="node23" href="$class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="752,360,932,387"/>
+<area shape="rect" id="node24" href="$class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="727,411,957,437"/>
+<area shape="rect" id="node27" href="$class_region.html#ad753e4cc4a905670730726a7a9c432d0" title="Mou les persones a les regions veïnes." alt="" coords="1295,461,1444,488"/>
+<area shape="rect" id="node28" href="$class_region.html#ab5019c94ac9d442b01756e3d82aa53b9" title="Retorna els habitants que s&#39;han mogut." alt="" coords="1304,512,1435,539"/>
+<area shape="rect" id="node29" href="$class_region.html#a5f04bf2c6b11e9cfb7c803ef686de6f1" title="Transfereix una proporció de persones afectades de la regió from a la regió to." alt="" coords="1308,563,1431,589"/>
+</map>

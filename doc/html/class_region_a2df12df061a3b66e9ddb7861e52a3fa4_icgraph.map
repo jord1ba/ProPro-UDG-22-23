@@ -1,0 +1,5 @@
+<map id="Region.addNeighbour" name="Region.addNeighbour">
+<area shape="rect" id="node1" title="Afegeix un veí a la regió." alt="" coords="479,5,641,32"/>
+<area shape="rect" id="node2" href="$class_simulation.html#a25ce209560f3f2ae23643a6d4fe96198" title="A partir de les dades de les families crea la llista d&#39;objectes de tipus Region." alt="" coords="220,5,431,32"/>
+<area shape="rect" id="node3" href="$class_simulation.html#a84d2e11489e9d0c719e5e2a0bf39e636" title="Constructor de la simulació." alt="" coords="5,5,172,32"/>
+</map>

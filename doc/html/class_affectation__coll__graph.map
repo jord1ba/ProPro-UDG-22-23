@@ -1,0 +1,15 @@
+<map id="Affectation" name="Affectation">
+<area shape="rect" id="node1" title="Classe que engloba tots els grups d&#39;afectats d&#39;un sol virus en una sola regió." alt="" coords="1188,265,1281,291"/>
+<area shape="rect" id="node2" href="$class_region.html" title="Classe que conté tots els mètodes i atributs per gestionar una regió." alt="" coords="900,137,967,163"/>
+<area shape="rect" id="node3" title=" " alt="" coords="430,5,630,47"/>
+<area shape="rect" id="node4" href="$class_region_1_1_neighbour.html" title="Classe que encapsula el funcionament del veïnat. Emmagatzema la proporció de moviment,..." alt="" coords="461,71,599,98"/>
+<area shape="rect" id="node5" title=" " alt="" coords="417,122,643,149"/>
+<area shape="rect" id="node6" title=" " alt="" coords="437,173,623,215"/>
+<area shape="rect" id="node7" title=" " alt="" coords="457,239,603,266"/>
+<area shape="rect" id="node8" title=" " alt="" coords="828,239,1039,266"/>
+<area shape="rect" id="node9" href="$class_virus.html" title="Conté tota la informació relacionada amb els virus i permet gestionar&#45;ne el comportament i la propaga..." alt="" coords="271,315,325,342"/>
+<area shape="rect" id="node13" href="$class_vaccine.html" title="Vacunes que disminueixen l&#39;efectivitat dels virus." alt="" coords="494,341,566,367"/>
+<area shape="rect" id="node10" title=" " alt="" coords="5,290,169,317"/>
+<area shape="rect" id="node11" href="$class_virus_family.html" title="Família que agrupa diferents virus de la simulació." alt="" coords="38,341,137,367"/>
+<area shape="rect" id="node12" href="$class_affectation_1_1_vaccine_stepper.html" title="Classe que encapsula el funcionament a temps real d&#39;una vacuna. És a dir, la classe Vaccine designa l..." alt="" coords="835,341,1032,367"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="Affectation.addGroup" name="Affectation.addGroup">
+<area shape="rect" id="node1" title="Afegeix un grup d&#39;afectats a l&#39;afectació." alt="" coords="2019,68,2179,95"/>
+<area shape="rect" id="node2" href="$class_region.html#a4d94a3fb6214962bdf5fbdd09edad438" title="Distribueix la proporció de persones malaltes uniformement en la duració dels símptomes del virus en ..." alt="" coords="479,31,665,73"/>
+<area shape="rect" id="node5" href="$class_virus.html#a3ea5bb0cb867aeefac7bc1c3278b928e" title="Genera un nou AffectedGroup a la regió especificada." alt="" coords="1216,43,1427,69"/>
+<area shape="rect" id="node10" href="$class_affected_group.html#aae549c7c45705f28947317f14f1ebd4d" title="Callback que es crida quan el període de malaltia canvia d&#39;estat. Bifurca els afectats quan arriben a..." alt="" coords="1752,195,1971,221"/>
+<area shape="rect" id="node14" href="$class_affectation.html#a373263bcbe4525c1ecaa8a0d932b4e95" title="Transfereix el nombre de persones afectades people de l&#39;afectació from a l&#39;afectació to...." alt="" coords="1787,119,1935,145"/>
+<area shape="rect" id="node3" href="$class_simulation.html#a25ce209560f3f2ae23643a6d4fe96198" title="A partir de les dades de les families crea la llista d&#39;objectes de tipus Region." alt="" coords="220,39,431,65"/>
+<area shape="rect" id="node4" href="$class_simulation.html#a84d2e11489e9d0c719e5e2a0bf39e636" title="Constructor de la simulació." alt="" coords="5,39,172,65"/>
+<area shape="rect" id="node6" href="$class_mutable_virus.html#a08408424d9af878eeaedf078d037f454" title="Propaga el virus en una regió específica." alt="" coords="957,93,1168,120"/>
+<area shape="rect" id="node7" href="$class_virus.html#af29bb5e900728d4a6534a63823791642" title="Propaga el virus en una regió específica." alt="" coords="983,43,1142,69"/>
+<area shape="rect" id="node8" href="$class_affectation.html#a52bac94fadac45ee7ed7891fc737a56d" title="Propaga el virus dins l&#39;afectació." alt="" coords="713,43,909,69"/>
+<area shape="rect" id="node9" href="$class_region.html#adfc1d0c1fd17d13ddb070e5bed408517" title="Propaga els virus en aquesta regió." alt="" coords="503,97,641,124"/>
+<area shape="rect" id="node11" href="$class_affected_group.html#a8fc2cb4c7c0e679472e97d2901e4f0c1" title="Si escau, avança un tic en el període de malaltia." alt="" coords="1475,271,1704,297"/>
+<area shape="rect" id="node12" href="$class_affected_group.html#a54c6b1cb7d0eb92b5ea8ba6e30da47f2" title="Contagious actualitza la quantitat de persones emmalaltides, per tant, sempre haurà d&#39;anar abans que ..." alt="" coords="974,220,1151,247"/>
+<area shape="rect" id="node13" href="$class_affectation.html#af5f7026da3080fbe20295dee50e4eee8" title="Avança steps a tots els grups d&#39;afectats. Si un grup d&#39;afectats acaba tots els períodes,..." alt="" coords="734,97,889,124"/>
+<area shape="rect" id="node15" href="$class_mutable_virus.html#aae72ceb7254d92851e6cf481b39599f7" title="Determina el funcionament en cas de coincidència de virus de la mateixa família en un grup de persone..." alt="" coords="1483,195,1695,221"/>
+<area shape="rect" id="node16" href="$class_virus.html#a1864309492e8cc1afecc7071e23369e4" title="Determina el funcionament en cas de coincidència de virus de la mateixa família en un grup de persone..." alt="" coords="1510,93,1669,120"/>
+<area shape="rect" id="node18" href="$class_region.html#a41d1153d04b5ee6829b9a0479ef5b072" title="Transfereix una proporció de persones afectades de la regió from a la regió to." alt="" coords="1528,144,1651,171"/>
+<area shape="rect" id="node17" href="$class_virus.html#abacf900e1b27a0c42953c33252e2e868" title="Comprova si hi ha coincidències de virus de la mateixa família en un grup de persones." alt="" coords="1231,93,1412,120"/>
+<area shape="rect" id="node19" href="$class_region.html#ad753e4cc4a905670730726a7a9c432d0" title="Mou les persones a les regions veïnes." alt="" coords="1247,144,1396,171"/>
+<area shape="rect" id="node20" href="$class_region.html#ab5019c94ac9d442b01756e3d82aa53b9" title="Retorna els habitants que s&#39;han mogut." alt="" coords="1256,195,1387,221"/>
+<area shape="rect" id="node21" href="$class_region.html#a5f04bf2c6b11e9cfb7c803ef686de6f1" title="Transfereix una proporció de persones afectades de la regió from a la regió to." alt="" coords="1260,245,1383,272"/>
+</map>

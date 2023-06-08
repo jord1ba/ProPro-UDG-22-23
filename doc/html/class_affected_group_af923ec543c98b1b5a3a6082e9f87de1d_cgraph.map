@@ -1,0 +1,5 @@
+<map id="AffectedGroup.diseaseNextTime" name="AffectedGroup.diseaseNextTime">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,239,57"/>
+<area shape="rect" id="node2" href="$class_virus.html#a2a8d16a122f19b0bfdbdb26906133f4d" title="Retorna la durada en ticks que es tarda a incubar el virus." alt="" coords="295,5,455,32"/>
+<area shape="rect" id="node3" href="$class_virus.html#acf31eb9fd53d1bac8f6f2da768c5434d" title="Retorna la durada en ticks dels símptomes." alt="" coords="287,56,464,83"/>
+</map>

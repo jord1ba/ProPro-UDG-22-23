@@ -1,0 +1,12 @@
+<map id="Writer.list" name="Writer.list">
+<area shape="rect" id="node1" title="Mostra enumeradament o no els ítems d&#39;un contenidor iterable." alt="" coords="1009,132,1095,159"/>
+<area shape="rect" id="node2" href="$class_interact.html#aadb512864f26fe45c34796c87720a5fa" title="Mostra una llista d&#39;elements numerada i en retorna el corresponent al número entrat per l&#39;usuari." alt="" coords="811,157,961,184"/>
+<area shape="rect" id="node9" href="$class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="550,56,745,83"/>
+<area shape="rect" id="node3" href="$class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="265,107,472,133"/>
+<area shape="rect" id="node5" href="$class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="253,157,484,184"/>
+<area shape="rect" id="node6" href="$class_command_line.html#a30049051db2a658426551808e9d46bd7" title="Actualitza el filtre de regions." alt="" coords="542,209,753,250"/>
+<area shape="rect" id="node8" href="$class_command_line.html#a52d036b5d24efc7a74a835fd19ad6d76" title="Actualitza el filtre de virus." alt="" coords="532,275,763,301"/>
+<area shape="rect" id="node4" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,107,205,133"/>
+<area shape="rect" id="node7" href="$class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="279,212,459,239"/>
+<area shape="rect" id="node10" href="$class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="281,5,457,32"/>
+</map>

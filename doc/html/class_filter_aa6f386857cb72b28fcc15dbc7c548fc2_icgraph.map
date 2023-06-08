@@ -1,0 +1,6 @@
+<map id="Filter.updateDataNextTick" name="Filter.updateDataNextTick">
+<area shape="rect" id="node1" title="Actualitza els objectes Data d&#39;aquest objecte al nou tick generat, i afegeix el de les noves afectaci..." alt="" coords="772,31,964,57"/>
+<area shape="rect" id="node2" href="$class_command_line.html#aafb78e1fccdec0e66c1db71a1149fb5e" title="Si encara és útil, genera el següent tick." alt="" coords="548,31,724,57"/>
+<area shape="rect" id="node3" href="$class_command_line.html#a70b02fa539ac3680151621307af1dd6d" title="Si encara és útil, genera tants ticks com determini l&#39;usuari." alt="" coords="253,5,500,32"/>
+<area shape="rect" id="node4" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,31,205,57"/>
+</map>

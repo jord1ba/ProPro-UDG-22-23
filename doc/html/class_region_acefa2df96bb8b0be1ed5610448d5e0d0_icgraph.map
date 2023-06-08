@@ -1,0 +1,6 @@
+<map id="Region.setHarshLockdown" name="Region.setHarshLockdown">
+<area shape="rect" id="node1" title="Determina el confinament intern, si state és fals, la mobilitat es redueix segons new_rate." alt="" coords="799,5,993,32"/>
+<area shape="rect" id="node2" href="$class_simulation.html#ae29d66057deeae8f06110fd6595b1bcc" title="Estableix el confinament estricte de la regió a l&#39;estat desitjat." alt="" coords="532,5,751,32"/>
+<area shape="rect" id="node3" href="$class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="253,5,484,32"/>
+<area shape="rect" id="node4" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,5,205,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="VirusFamily.name" name="VirusFamily.name">
+<area shape="rect" id="node1" title="Retorna el nom de la família." alt="" coords="741,31,879,57"/>
+<area shape="rect" id="node2" href="$class_simulation.html#a102302e9a68933730f7e5c89016bac21" title="Retorna l&#39;objecte VirusFamily de la llista de families donat el nom de la família." alt="" coords="475,5,693,32"/>
+<area shape="rect" id="node5" href="$class_virus_family.html#a0c50d3115953a040f62fdeac4f76bd6e" title="Constructor." alt="" coords="496,56,672,83"/>
+<area shape="rect" id="node3" href="$class_simulation.html#ab4fd38cefd1e27d6d822246db979ab68" title="A partir de les dades dels virus crea la llista d&#39;objectes de tipus Virus o MutableVirus." alt="" coords="220,5,427,32"/>
+<area shape="rect" id="node4" href="$class_simulation.html#a84d2e11489e9d0c719e5e2a0bf39e636" title="Constructor de la simulació." alt="" coords="5,5,172,32"/>
+</map>

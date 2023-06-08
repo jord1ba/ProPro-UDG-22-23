@@ -1,0 +1,4 @@
+<map id="Filter.summary" name="Filter.summary">
+<area shape="rect" id="node1" title="Genera un objecte de tipus Data amb el conjunt de totes les dades resultants d&#39;aplicar els filtres." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node2" href="$class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr..." alt="" coords="173,5,252,32"/>
+</map>

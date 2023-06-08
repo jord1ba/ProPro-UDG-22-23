@@ -1,0 +1,7 @@
+<map id="Writer.showFilterMenu" name="Writer.showFilterMenu">
+<area shape="rect" id="node1" title="Mostra el menú de filtres." alt="" coords="5,81,173,108"/>
+<area shape="rect" id="node2" href="$class_region.html#ab978540cf53242fccf6e88078e8d56eb" title=" " alt="" coords="221,5,329,32"/>
+<area shape="rect" id="node3" href="$class_virus.html#af2300113b3c2068f7957e1cf31203182" title="Retorna el nom del virus." alt="" coords="227,56,323,83"/>
+<area shape="rect" id="node4" href="$class_filter.html#a1212c15cf864647f9936e60f7aee4d8b" title="Getter del filtre de regió." alt="" coords="226,107,325,133"/>
+<area shape="rect" id="node5" href="$class_filter.html#a65094c8001e6b36dab6ae4139df3a15f" title="Getter del filtre de virus." alt="" coords="230,157,321,184"/>
+</map>

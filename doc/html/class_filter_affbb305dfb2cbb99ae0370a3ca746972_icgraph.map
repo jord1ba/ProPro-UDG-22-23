@@ -1,0 +1,13 @@
+<map id="Filter.summary" name="Filter.summary">
+<area shape="rect" id="node1" title="Genera un objecte de tipus Data amb el conjunt de totes les dades resultants d&#39;aplicar els filtres." alt="" coords="1296,132,1416,159"/>
+<area shape="rect" id="node2" href="$class_filter.html#a2a2530a787f940ba4830b395e982f8f4" title="Retorna si encara queda algú contagiat o immune a alguna malaltia independentment dels filtres establ..." alt="" coords="1049,81,1248,108"/>
+<area shape="rect" id="node6" href="$class_command_line.html#ae27c25cec300bc847095b5c1f2922083" title="envia la informació generada pels filtres a la UI per fer els PieCharts." alt="" coords="791,132,1001,159"/>
+<area shape="rect" id="node7" href="$class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="548,183,743,209"/>
+<area shape="rect" id="node3" href="$class_command_line.html#aafb78e1fccdec0e66c1db71a1149fb5e" title="Si encara és útil, genera el següent tick." alt="" coords="557,56,733,83"/>
+<area shape="rect" id="node4" href="$class_command_line.html#a70b02fa539ac3680151621307af1dd6d" title="Si encara és útil, genera tants ticks com determini l&#39;usuari." alt="" coords="253,5,500,32"/>
+<area shape="rect" id="node5" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,157,205,184"/>
+<area shape="rect" id="node8" href="$class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="273,157,480,184"/>
+<area shape="rect" id="node9" href="$class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="289,208,465,235"/>
+<area shape="rect" id="node10" href="$class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="287,259,467,285"/>
+<area shape="rect" id="node11" href="$class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="261,309,492,336"/>
+</map>

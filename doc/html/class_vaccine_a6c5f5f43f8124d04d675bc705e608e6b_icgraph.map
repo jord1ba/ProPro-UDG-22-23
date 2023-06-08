@@ -1,0 +1,5 @@
+<map id="Vaccine.name" name="Vaccine.name">
+<area shape="rect" id="node1" title="Retorna el nom de la vacuna." alt="" coords="241,31,355,57"/>
+<area shape="rect" id="node2" href="$class_hard_vaccine.html#a0f768474aaa53fe790d27a07e1356536" title="Constructor." alt="" coords="5,5,193,32"/>
+<area shape="rect" id="node3" href="$class_soft_vaccine.html#a8b11d88de53d4324323f3514bb067197" title="Constructor." alt="" coords="11,56,187,83"/>
+</map>

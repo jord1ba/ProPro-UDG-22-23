@@ -1,0 +1,5 @@
+<map id="RegionReader.RegionReader" name="RegionReader.RegionReader">
+<area shape="rect" id="node1" title="Llegeix el fitxer FILE_NAME i guarda les dades llegides." alt="" coords="5,31,212,57"/>
+<area shape="rect" id="node2" href="$class_region_reader.html#ab117ace802f9ce0801ec4d42ae566a16" title="Llegeix a través de read la informació sobre les relacions de veïnatge fins a acabar el fitxer." alt="" coords="260,5,479,32"/>
+<area shape="rect" id="node3" href="$class_region_reader.html#a204199d212cf64a7c33e1a87b99cb9ee" title="Llegeix a través de read la informació sobre les regions fins a llegir &quot;limits_i_mobilitat&quot;." alt="" coords="271,56,468,83"/>
+</map>

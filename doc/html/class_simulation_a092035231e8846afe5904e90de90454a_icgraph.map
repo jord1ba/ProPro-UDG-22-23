@@ -1,0 +1,5 @@
+<map id="Simulation.applyVaccine" name="Simulation.applyVaccine">
+<area shape="rect" id="node1" title="Aplica una vacuna a un percentatge de població d&#39;una regió." alt="" coords="508,5,691,32"/>
+<area shape="rect" id="node2" href="$class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="253,5,460,32"/>
+<area shape="rect" id="node3" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,5,205,32"/>
+</map>

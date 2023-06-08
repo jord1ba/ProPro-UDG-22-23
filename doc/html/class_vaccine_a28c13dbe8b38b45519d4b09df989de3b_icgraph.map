@@ -1,0 +1,13 @@
+<map id="Vaccine.modifier" name="Vaccine.modifier">
+<area shape="rect" id="node1" title="Retorna el valor value modificat segons la vacuna i el paràmetre de la vacuna que es vulgui saber mit..." alt="" coords="2029,42,2160,69"/>
+<area shape="rect" id="node2" href="$class_affectation_1_1_vaccine_stepper.html#a48568c3d66f73fdb48bab135c3d92b32" title="Calcula el valor modificat segons la vacuna i la proporció de persones afectades. No cal comprovar si..." alt="" coords="1727,42,1981,69"/>
+<area shape="rect" id="node3" href="$class_affected_group.html#aae549c7c45705f28947317f14f1ebd4d" title="Callback que es crida quan el període de malaltia canvia d&#39;estat. Bifurca els afectats quan arriben a..." alt="" coords="1460,17,1679,43"/>
+<area shape="rect" id="node11" href="$class_affectation.html#a52bac94fadac45ee7ed7891fc737a56d" title="Propaga el virus dins l&#39;afectació." alt="" coords="713,67,909,94"/>
+<area shape="rect" id="node4" href="$class_affected_group.html#a8fc2cb4c7c0e679472e97d2901e4f0c1" title="Si escau, avança un tic en el període de malaltia." alt="" coords="1183,17,1412,43"/>
+<area shape="rect" id="node5" href="$class_affected_group.html#a54c6b1cb7d0eb92b5ea8ba6e30da47f2" title="Contagious actualitza la quantitat de persones emmalaltides, per tant, sempre haurà d&#39;anar abans que ..." alt="" coords="957,17,1135,43"/>
+<area shape="rect" id="node6" href="$class_affectation.html#af5f7026da3080fbe20295dee50e4eee8" title="Avança steps a tots els grups d&#39;afectats. Si un grup d&#39;afectats acaba tots els períodes,..." alt="" coords="734,17,889,43"/>
+<area shape="rect" id="node7" href="$class_region.html#a4d94a3fb6214962bdf5fbdd09edad438" title="Distribueix la proporció de persones malaltes uniformement en la duració dels símptomes del virus en ..." alt="" coords="479,5,665,47"/>
+<area shape="rect" id="node10" href="$class_region.html#adfc1d0c1fd17d13ddb070e5bed408517" title="Propaga els virus en aquesta regió." alt="" coords="503,71,641,98"/>
+<area shape="rect" id="node8" href="$class_simulation.html#a25ce209560f3f2ae23643a6d4fe96198" title="A partir de les dades de les families crea la llista d&#39;objectes de tipus Region." alt="" coords="220,13,431,39"/>
+<area shape="rect" id="node9" href="$class_simulation.html#a84d2e11489e9d0c719e5e2a0bf39e636" title="Constructor de la simulació." alt="" coords="5,13,172,39"/>
+</map>

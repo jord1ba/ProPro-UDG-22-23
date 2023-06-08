@@ -1,0 +1,6 @@
+regions
+nom A
+habitants 1000000
+mob_interna 3
+*
+limits_i_mobilitat    # regions limítrofes i % d'habitats que hi van per unitat de temps (en mitjana)

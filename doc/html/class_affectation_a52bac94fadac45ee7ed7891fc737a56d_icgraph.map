@@ -1,0 +1,7 @@
+<map id="Affectation.propagateVirus" name="Affectation.propagateVirus">
+<area shape="rect" id="node1" title="Propaga el virus dins l&#39;afectació." alt="" coords="713,42,909,69"/>
+<area shape="rect" id="node2" href="$class_region.html#a4d94a3fb6214962bdf5fbdd09edad438" title="Distribueix la proporció de persones malaltes uniformement en la duració dels símptomes del virus en ..." alt="" coords="479,5,665,47"/>
+<area shape="rect" id="node5" href="$class_region.html#adfc1d0c1fd17d13ddb070e5bed408517" title="Propaga els virus en aquesta regió." alt="" coords="503,71,641,98"/>
+<area shape="rect" id="node3" href="$class_simulation.html#a25ce209560f3f2ae23643a6d4fe96198" title="A partir de les dades de les families crea la llista d&#39;objectes de tipus Region." alt="" coords="220,13,431,39"/>
+<area shape="rect" id="node4" href="$class_simulation.html#a84d2e11489e9d0c719e5e2a0bf39e636" title="Constructor de la simulació." alt="" coords="5,13,172,39"/>
+</map>

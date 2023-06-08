@@ -1,0 +1,7 @@
+<map id="Affectation.pushGroups" name="Affectation.pushGroups">
+<area shape="rect" id="node1" title="Acaba d&#39;afegir tots els grups que estaven preparats per afegir." alt="" coords="5,31,180,57"/>
+<area shape="rect" id="node2" href="$class_affected_group.html#ac57992f3a651b5bf34219cedb8b56d72" title="Suma dos grups d&#39;afectats en un de sol." alt="" coords="237,5,379,32"/>
+<area shape="rect" id="node4" href="$class_affectation.html#a4a6611eff1571b1ec535718ed74cf9b2" title="Cerca un grup d&#39;afectats de les mateixes característiques que el grup passat per paràmetre." alt="" coords="228,56,388,83"/>
+<area shape="rect" id="node3" href="$class_affectation.html#af908477cd600397c9cdfc20fee41280a" title="Avisa a l&#39;afectació que el nombre d&#39;afectats ha canviat." alt="" coords="436,5,615,32"/>
+<area shape="rect" id="node5" href="$class_affected_group.html#a2823fc9737f9a359087e2367386ed7ec" title="Determina si ambdós grups són iguals en termes d&#39;estats i períodes." alt="" coords="444,56,607,83"/>
+</map>

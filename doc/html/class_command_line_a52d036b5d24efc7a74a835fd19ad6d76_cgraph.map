@@ -1,0 +1,11 @@
+<map id="CommandLine.updateVirusFilter" name="CommandLine.updateVirusFilter">
+<area shape="rect" id="node1" title="Actualitza el filtre de virus." alt="" coords="5,107,236,133"/>
+<area shape="rect" id="node2" href="$class_filter.html#a42e3688b4b608e9d5e3152d321126c4f" title="Setter per suprimir el filtre per virus (n&#39;hi hagi o no)." alt="" coords="284,5,449,32"/>
+<area shape="rect" id="node3" href="$class_interact.html#aadb512864f26fe45c34796c87720a5fa" title="Mostra una llista d&#39;elements numerada i en retorna el corresponent al número entrat per l&#39;usuari." alt="" coords="291,56,442,83"/>
+<area shape="rect" id="node6" href="$class_filter.html#aebeddff04642f45bb03dfbee5e75d8d7" title="Setter del filtre per regió." alt="" coords="299,107,435,133"/>
+<area shape="rect" id="node8" href="$class_filter.html#a65094c8001e6b36dab6ae4139df3a15f" title="Getter del filtre de virus." alt="" coords="321,157,412,184"/>
+<area shape="rect" id="node9" href="$class_simulation.html#acaca8a75e0de8c622079f8b9e7fc00ec" title="Getter de la llista de virus." alt="" coords="291,208,442,235"/>
+<area shape="rect" id="node4" href="$class_interact.html#ab332e97d962d037b3268cfd193a4927f" title="Demana a l&#39;usuari que triï una opció (o entri un enter) per mitjà de text, els llegeix i el retorna...." alt="" coords="497,5,637,32"/>
+<area shape="rect" id="node5" href="$class_writer.html#a35ecf1539253c9a4de1293715ec6214c" title="Mostra enumeradament o no els ítems d&#39;un contenidor iterable." alt="" coords="525,56,610,83"/>
+<area shape="rect" id="node7" href="$class_filter.html#a1212c15cf864647f9936e60f7aee4d8b" title="Getter del filtre de regió." alt="" coords="518,107,617,133"/>
+</map>

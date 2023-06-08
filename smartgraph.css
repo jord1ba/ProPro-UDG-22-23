@@ -1,0 +1,53 @@
+/*
+STYLESHEET FOR JAVAFXGRAPH VISUALIZATION
+*/
+
+.graph {
+    -fx-background-color: #FFFFFF;    
+}
+
+.vertex {
+    -fx-stroke-width: 3;
+    -fx-stroke: green;
+    -fx-stroke-type: inside; /* you should keep this if using arrows */
+    -fx-fill: yellowgreen;
+}
+
+.locked-vertex {
+    -fx-stroke-width: 5;
+    -fx-stroke: #b30000;
+    -fx-stroke-type: inside; /* you should keep this if using arrows */
+    -fx-fill: #ff0000;
+}
+
+.vertex-label {
+    -fx-font: bold 6pt "sans-serif";
+}
+
+.edge {
+    -fx-stroke-width: 2;
+    -fx-stroke: #4169e1;  
+    -fx-stroke-dash-array: 2 5 2 5; /* remove for clean edges */  
+    -fx-fill: transparent; /*important for curved edges */
+    -fx-stroke-line-cap: round;
+    -fx-opacity: 0.8;
+}
+
+.locked-edge {
+    -fx-stroke-width: 2;
+    -fx-stroke: #ff0000;
+    -fx-stroke-dash-array: 2 5 2 5; /* remove for clean edges */  
+    -fx-fill: transparent; /*important for curved edges */
+    -fx-stroke-line-cap: round;
+    -fx-opacity: 0.8;
+}
+
+.edge-label {
+    -fx-font: normal 5pt "sans-serif";
+}
+
+.arrow {
+    -fx-stroke-width: 2;
+    -fx-stroke: #4169e1;
+    -fx-opacity: 0.8;
+}

@@ -1,0 +1,4 @@
+<map id="Affectation.addGroup" name="Affectation.addGroup">
+<area shape="rect" id="node1" title="Afegeix un grup d&#39;afectats a l&#39;afectació." alt="" coords="5,5,165,32"/>
+<area shape="rect" id="node2" href="$class_affectation.html#af908477cd600397c9cdfc20fee41280a" title="Avisa a l&#39;afectació que el nombre d&#39;afectats ha canviat." alt="" coords="213,5,392,32"/>
+</map>

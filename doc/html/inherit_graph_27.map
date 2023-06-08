@@ -1,0 +1,5 @@
+<map id="Jerarquia Gràfica de la Classe" name="Jerarquia Gràfica de la Classe">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node2" href="$class_virus.html" title="Conté tota la informació relacionada amb els virus i permet gestionar&#45;ne el comportament i la propaga..." alt="" coords="155,5,209,32"/>
+<area shape="rect" id="node3" href="$class_mutable_virus.html" title="Extensió de la classe Virus que permet al Virus mutar." alt="" coords="257,5,365,32"/>
+</map>

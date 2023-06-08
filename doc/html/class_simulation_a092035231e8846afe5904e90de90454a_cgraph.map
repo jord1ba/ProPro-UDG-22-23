@@ -1,0 +1,6 @@
+<map id="Simulation.applyVaccine" name="Simulation.applyVaccine">
+<area shape="rect" id="node1" title="Aplica una vacuna a un percentatge de població d&#39;una regió." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$class_region.html#a4ee89117aff95d0d415a08f1d51b3ba7" title="Aplica la vacuna a la regió." alt="" coords="236,5,381,32"/>
+<area shape="rect" id="node3" href="$class_vaccine.html#acec8a2f01cfddfcc1097cc62426d6649" title=" " alt="" coords="429,5,573,32"/>
+<area shape="rect" id="node4" href="$class_virus.html#a65eb950b1331b5d3c410e55c34dadf8f" title="Retorna si v és pare del virus actual." alt="" coords="621,5,732,32"/>
+</map>

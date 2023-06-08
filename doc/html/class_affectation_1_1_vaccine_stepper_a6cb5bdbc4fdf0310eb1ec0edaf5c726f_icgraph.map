@@ -1,0 +1,5 @@
+<map id="Affectation.VaccineStepper.nextStep" name="Affectation.VaccineStepper.nextStep">
+<area shape="rect" id="node1" title="Avança un tic de la vacuna." alt="" coords="437,5,696,32"/>
+<area shape="rect" id="node2" href="$class_region.html#a69e2a93ca72d7fd7fabe496cfbdf2ad5" title="Avança un tic a les vacunes i, si escau, les esborra." alt="" coords="203,5,389,32"/>
+<area shape="rect" id="node3" href="$class_region.html#ad753e4cc4a905670730726a7a9c432d0" title="Mou les persones a les regions veïnes." alt="" coords="5,5,155,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Region.affectation" name="Region.affectation">
+<area shape="rect" id="node1" title="Si no existeix crea l&#39;afectació" alt="" coords="5,31,147,57"/>
+<area shape="rect" id="node2" href="$class_region.html#a94249884b5c17e75ffb388b1007616b3" title="Comprova si hi ha alguna vacuna que afectaria aquesta afectació, i si es dona el cas,..." alt="" coords="195,31,361,57"/>
+<area shape="rect" id="node3" href="$class_affectation.html#add4a237b964b27cd6e5fc9cf6b0c1fdb" title="Aplica la vacuna a l&#39;afectació, substituïnt l&#39;anterior." alt="" coords="409,5,592,32"/>
+<area shape="rect" id="node5" href="$class_affectation.html#a145faada1c1ef6ab363dc12b73a6f88a" title=" " alt="" coords="436,56,565,83"/>
+<area shape="rect" id="node4" href="$class_affectation.html#a06e4ebe2c8b3bd3c528396d7b9fac61f" title=" " alt="" coords="640,5,787,32"/>
+</map>

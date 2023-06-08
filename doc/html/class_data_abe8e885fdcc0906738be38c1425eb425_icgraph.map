@@ -1,0 +1,17 @@
+<map id="Data.contagiated" name="Data.contagiated">
+<area shape="rect" id="node1" title="Retorna el total d&#39;infectats actual (sense els immunes)." alt="" coords="1503,107,1637,133"/>
+<area shape="rect" id="node2" href="$class_data.html#a2e3b419c39fbdedc1f523055cb464e60" title="Retorna un TreeMap de la informació dels contagiosos de l&#39;objecte actual. Indexa enters per concepte ..." alt="" coords="1296,5,1455,32"/>
+<area shape="rect" id="node3" href="$class_data.html#ac8dd6b2fe64f52d60acff543ca591f6a" title="Retorna un TreeMap de la informació dels malalts de l&#39;objecte actual. Indexa enters per concepte (Str..." alt="" coords="1306,56,1445,83"/>
+<area shape="rect" id="node4" href="$class_data.html#a651da29844a408737601321861f67f49" title="Retorna un TreeMap de la informació general de l&#39;objecte actual. Indexa enters per concepte (String)." alt="" coords="1307,107,1444,133"/>
+<area shape="rect" id="node5" href="$class_command_line.html#ae27c25cec300bc847095b5c1f2922083" title="envia la informació generada pels filtres a la UI per fer els PieCharts." alt="" coords="791,157,1001,184"/>
+<area shape="rect" id="node12" href="$class_data.html#a4edeec45dec987afa33c460e0e75a769" title="Retorna el total d&#39;infectats actual (inclosos els immunes)." alt="" coords="1301,208,1449,235"/>
+<area shape="rect" id="node6" href="$class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="548,145,743,172"/>
+<area shape="rect" id="node7" href="$class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="273,19,480,45"/>
+<area shape="rect" id="node8" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,171,205,197"/>
+<area shape="rect" id="node9" href="$class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="289,120,465,147"/>
+<area shape="rect" id="node10" href="$class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="287,171,467,197"/>
+<area shape="rect" id="node11" href="$class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="261,221,492,248"/>
+<area shape="rect" id="node13" href="$class_filter.html#a2a2530a787f940ba4830b395e982f8f4" title="Retorna si encara queda algú contagiat o immune a alguna malaltia independentment dels filtres establ..." alt="" coords="1049,208,1248,235"/>
+<area shape="rect" id="node14" href="$class_command_line.html#aafb78e1fccdec0e66c1db71a1149fb5e" title="Si encara és útil, genera el següent tick." alt="" coords="557,272,733,299"/>
+<area shape="rect" id="node15" href="$class_command_line.html#a70b02fa539ac3680151621307af1dd6d" title="Si encara és útil, genera tants ticks com determini l&#39;usuari." alt="" coords="253,323,500,349"/>
+</map>

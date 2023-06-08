@@ -1,0 +1,5 @@
+<map id="AffectedGroup.contagiousNextTime" name="AffectedGroup.contagiousNextTime">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,196,65"/>
+<area shape="rect" id="node2" href="$class_virus.html#ab2cb17638d5c9f7851997d1ede032af5" title="Retorna la durada en ticks de la infecció." alt="" coords="244,5,416,32"/>
+<area shape="rect" id="node3" href="$class_virus.html#ac140513e7ebb7b877bb9d6ffccd7eba5" title="Retorna la durada en ticks del període de latència." alt="" coords="260,56,400,83"/>
+</map>

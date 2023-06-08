@@ -1,0 +1,4 @@
+<map id="UI.changeLeftPieChartTitle" name="UI.changeLeftPieChartTitle">
+<area shape="rect" id="node1" title="Canvia el títol del PieChart esquerre." alt="" coords="5,13,200,39"/>
+<area shape="rect" id="node2" href="$class_graph_chart_data.html#aee7c49514da404a3134b5e7504241e35" title="Canvia el títol del PieChart." alt="" coords="248,5,451,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Region.recentlyAddedAffectations" name="Region.recentlyAddedAffectations">
+<area shape="rect" id="node1" title="Funciona com el pop d&#39;un stack, cada crida a aquesta funció esborra les entrades que són retornades." alt="" coords="1012,31,1255,57"/>
+<area shape="rect" id="node2" href="$class_filter.html#a90110521c124eae7f2cd0834edc95ac6" title="Constructor principal que crea a partir de les llistes de regions i virus de simulation,..." alt="" coords="823,5,913,32"/>
+<area shape="rect" id="node3" href="$class_filter.html#aa6f386857cb72b28fcc15dbc7c548fc2" title="Actualitza els objectes Data d&#39;aquest objecte al nou tick generat, i afegeix el de les noves afectaci..." alt="" coords="772,56,964,83"/>
+<area shape="rect" id="node4" href="$class_command_line.html#aafb78e1fccdec0e66c1db71a1149fb5e" title="Si encara és útil, genera el següent tick." alt="" coords="548,56,724,83"/>
+<area shape="rect" id="node5" href="$class_command_line.html#a70b02fa539ac3680151621307af1dd6d" title="Si encara és útil, genera tants ticks com determini l&#39;usuari." alt="" coords="253,31,500,57"/>
+<area shape="rect" id="node6" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,56,205,83"/>
+</map>

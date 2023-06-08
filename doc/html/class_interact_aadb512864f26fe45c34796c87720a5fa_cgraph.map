@@ -1,0 +1,5 @@
+<map id="Interact.getElement" name="Interact.getElement">
+<area shape="rect" id="node1" title="Mostra una llista d&#39;elements numerada i en retorna el corresponent al número entrat per l&#39;usuari." alt="" coords="5,31,156,57"/>
+<area shape="rect" id="node2" href="$class_interact.html#ab332e97d962d037b3268cfd193a4927f" title="Demana a l&#39;usuari que triï una opció (o entri un enter) per mitjà de text, els llegeix i el retorna...." alt="" coords="204,5,344,32"/>
+<area shape="rect" id="node3" href="$class_writer.html#a35ecf1539253c9a4de1293715ec6214c" title="Mostra enumeradament o no els ítems d&#39;un contenidor iterable." alt="" coords="231,56,317,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Simulation.assemblyViruses" name="Simulation.assemblyViruses">
+<area shape="rect" id="node1" title="A partir de les dades dels virus crea la llista d&#39;objectes de tipus Virus o MutableVirus." alt="" coords="5,5,212,32"/>
+<area shape="rect" id="node2" href="$class_simulation.html#a102302e9a68933730f7e5c89016bac21" title="Retorna l&#39;objecte VirusFamily de la llista de families donat el nom de la família." alt="" coords="260,5,479,32"/>
+<area shape="rect" id="node3" href="$class_virus_family.html#abdac526121911a336b7f6da2e1ecd657" title="Retorna el nom de la família." alt="" coords="527,5,664,32"/>
+</map>

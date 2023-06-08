@@ -1,0 +1,5 @@
+<map id="Region.addVaccine" name="Region.addVaccine">
+<area shape="rect" id="node1" title="Aplica la vacuna a la regió." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node2" href="$class_vaccine.html#acec8a2f01cfddfcc1097cc62426d6649" title=" " alt="" coords="199,5,343,32"/>
+<area shape="rect" id="node3" href="$class_virus.html#a65eb950b1331b5d3c410e55c34dadf8f" title="Retorna si v és pare del virus actual." alt="" coords="391,5,501,32"/>
+</map>

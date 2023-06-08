@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['readfamilies_332',['readFamilies',['../class_virus_reader.html#a017a8f7f8b61fff0e04c538096171fb7',1,'VirusReader']]],
+  ['readfiles_333',['readFiles',['../class_launcher.html#a44bcb687390ca0d7e7daa8b39546e51d',1,'Launcher']]],
+  ['readinitialstate_334',['readInitialState',['../class_initial_state_reader.html#a0cde68be04e39f92bfc992f578ed07be',1,'InitialStateReader']]],
+  ['readneighbours_335',['readNeighbours',['../class_region_reader.html#ab117ace802f9ce0801ec4d42ae566a16',1,'RegionReader']]],
+  ['readregions_336',['readRegions',['../class_region_reader.html#a204199d212cf64a7c33e1a87b99cb9ee',1,'RegionReader']]],
+  ['readvaccines_337',['readVaccines',['../class_vaccine_reader.html#a1e91d26e27e873d36c81fb918fc0767c',1,'VaccineReader']]],
+  ['readviruses_338',['readViruses',['../class_virus_reader.html#a3cc77a32777e8f12f05965b4ecd80dee',1,'VirusReader']]],
+  ['recentlyaddedaffectations_339',['recentlyAddedAffectations',['../class_region.html#a3b06470475eed5e73fb865cc0de9928d',1,'Region']]],
+  ['refreshdata_340',['refreshData',['../class_graph_chart_data.html#a2ca5d2cd40da91825039b1415ebf12a0',1,'GraphChartData']]],
+  ['region_341',['Region',['../class_region.html',1,'Region'],['../class_region.html#a673af9eb1e62b2465ef1f3ab020efec8',1,'Region.Region()']]],
+  ['region_342',['region',['../class_filter.html#a1212c15cf864647f9936e60f7aee4d8b',1,'Filter.region()'],['../class_data.html#a86168b4b65c19eb14e7138b62db8cbd9',1,'Data.region()']]],
+  ['region_2ejava_343',['Region.java',['../_region_8java.html',1,'']]],
+  ['region_5flist_344',['REGION_LIST',['../enum_command_line_1_1_output.html#a3136dfa1871fcea6c14f1908c78e1275',1,'CommandLine::Output']]],
+  ['region_5fname_345',['region_name',['../class_initial_state_reader_1_1_initial_state_data.html#a563aa3b05a411310c8456880d75e9955',1,'InitialStateReader.InitialStateData.region_name()'],['../class_region_reader_1_1_neighbour_data.html#ab22f5519cd8bce0ff0e5483e454f6c61',1,'RegionReader.NeighbourData.region_name()']]],
+  ['regiondata_346',['RegionData',['../class_region_reader_1_1_region_data.html',1,'RegionReader']]],
+  ['regionlist_347',['regionList',['../class_simulation.html#a02e032008572aeb9e9a220931d2454e0',1,'Simulation.regionList()'],['../class_territory.html#a1fd2a35910162ce925f17a2a79467d20',1,'Territory.regionList()']]],
+  ['regionreader_348',['RegionReader',['../class_region_reader.html',1,'RegionReader'],['../class_region_reader.html#ad2ae648d56d2d2b6b849e008f574d481',1,'RegionReader.RegionReader()']]],
+  ['regionreader_2ejava_349',['RegionReader.java',['../_region_reader_8java.html',1,'']]],
+  ['regions_350',['regions',['../class_region_reader.html#a37ec100bcbbba60ebf96bcf65fd1573e',1,'RegionReader']]],
+  ['rightdatapool_351',['rightDataPool',['../class_graph_chart_data.html#a40253d6fe422f85bad00df4bac43a250',1,'GraphChartData']]],
+  ['rightpiechart_352',['rightPieChart',['../class_graph_chart_data.html#ae8a7a8e71d5d7f3333ed012faa78efcb',1,'GraphChartData']]],
+  ['rightpiechartdata_353',['rightPieChartData',['../class_graph_chart_data.html#a66585f4f38e356f3cc5bf9a266e8863e',1,'GraphChartData']]],
+  ['rollbacks_354',['rollbacks',['../class_region.html#ab5019c94ac9d442b01756e3d82aa53b9',1,'Region']]]
+];

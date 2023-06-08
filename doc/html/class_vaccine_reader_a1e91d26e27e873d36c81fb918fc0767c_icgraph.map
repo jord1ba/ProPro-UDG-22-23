@@ -1,0 +1,4 @@
+<map id="VaccineReader.readVaccines" name="VaccineReader.readVaccines">
+<area shape="rect" id="node1" title="Llegeix a través de read la informació sobre les regions fins a acabar el fitxer." alt="" coords="271,5,477,32"/>
+<area shape="rect" id="node2" href="$class_vaccine_reader.html#a28d1ab367e7502c20cfce6d0c0c62273" title="Llegeix el fitxer FILE_NAME i guarda les dades llegides." alt="" coords="5,5,223,32"/>
+</map>

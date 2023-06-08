@@ -1,0 +1,11 @@
+<map id="UI" name="UI">
+<area shape="rect" id="node1" title="Classe comunicadora encarregada d&#39;actualitzar la interfície gràfica del programa." alt="" coords="591,204,629,231"/>
+<area shape="rect" id="node2" href="$class_graph_chart_data.html" title="Classe encarregada de gestionar tota la interacció externa amb les dades del Graf i dels Charts...." alt="" coords="383,204,509,231"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,217,61"/>
+<area shape="rect" id="node4" title=" " alt="" coords="32,87,191,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="79,153,144,180"/>
+<area shape="rect" id="node6" title=" " alt="" coords="37,204,185,231"/>
+<area shape="rect" id="node7" title=" " alt="" coords="28,255,195,281"/>
+<area shape="rect" id="node8" title=" " alt="" coords="15,317,208,358"/>
+<area shape="rect" id="node9" title=" " alt="" coords="15,382,207,423"/>
+</map>

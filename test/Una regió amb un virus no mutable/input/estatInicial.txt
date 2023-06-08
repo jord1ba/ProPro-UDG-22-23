@@ -1,0 +1,8 @@
+# fitxer que permet establir un punt de partida, per a cada regió, a l'instant zero de la simulació
+# les regions que no apareixen no tenen un nombre de malalts remarcable
+regio B
+virus_presents
+nom_virus Covid
+p_malalts 10
+*
+

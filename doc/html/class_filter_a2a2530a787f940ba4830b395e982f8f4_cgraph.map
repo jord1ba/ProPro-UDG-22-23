@@ -1,0 +1,7 @@
+<map id="Filter.contagiousPopulation" name="Filter.contagiousPopulation">
+<area shape="rect" id="node1" title="Retorna si encara queda algú contagiat o immune a alguna malaltia independentment dels filtres establ..." alt="" coords="5,31,204,57"/>
+<area shape="rect" id="node2" href="$class_filter.html#affbb305dfb2cbb99ae0370a3ca746972" title="Genera un objecte de tipus Data amb el conjunt de totes les dades resultants d&#39;aplicar els filtres." alt="" coords="266,5,386,32"/>
+<area shape="rect" id="node4" href="$class_data.html#a4edeec45dec987afa33c460e0e75a769" title="Retorna el total d&#39;infectats actual (inclosos els immunes)." alt="" coords="252,56,400,83"/>
+<area shape="rect" id="node3" href="$class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr..." alt="" coords="476,5,555,32"/>
+<area shape="rect" id="node5" href="$class_data.html#abe8e885fdcc0906738be38c1425eb425" title="Retorna el total d&#39;infectats actual (sense els immunes)." alt="" coords="448,56,583,83"/>
+</map>

@@ -1,0 +1,26 @@
+vacunes
+nom VC_HepaB_T1
+tipus inhibidora        # evita contreure la malaltia
+virus_desti HepatitisB  # també actuarà sobre les seves variants
+efectivitat 95          # tant per cent
+temps_activacio 4
+durada 150
+*
+nom VCGripA1
+tipus atenuadora    # atenua símptomes de la malaltia
+virus_desti Grip 
+temps_activacio 5
+durada 100 
+tpc_reduccio_mortalitat 70
+tpc_reduccio_durada 30
+tpc_reduccio_malaltia 40    # una inhibidora tindria una reducció de 100%
+tpc_reduccio_contagi 50
+*
+nom HVC_Covid_Delta
+tipus inhibidora 
+virus_desti Covid19 
+efectivitat 70 
+temps_activacio 3
+durada 80 
+*
+

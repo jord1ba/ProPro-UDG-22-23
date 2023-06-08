@@ -1,0 +1,6 @@
+<map id="Filter.deleteVirusFilter" name="Filter.deleteVirusFilter">
+<area shape="rect" id="node1" title="Setter per suprimir el filtre per virus (n&#39;hi hagi o no)." alt="" coords="760,5,925,32"/>
+<area shape="rect" id="node2" href="$class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="253,5,433,32"/>
+<area shape="rect" id="node4" href="$class_command_line.html#a52d036b5d24efc7a74a835fd19ad6d76" title="Actualitza el filtre de virus." alt="" coords="481,31,712,57"/>
+<area shape="rect" id="node3" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,5,205,32"/>
+</map>

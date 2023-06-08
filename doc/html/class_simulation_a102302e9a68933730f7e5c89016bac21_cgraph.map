@@ -1,0 +1,4 @@
+<map id="Simulation.findFamilyByName" name="Simulation.findFamilyByName">
+<area shape="rect" id="node1" title="Retorna l&#39;objecte VirusFamily de la llista de families donat el nom de la família." alt="" coords="5,5,224,32"/>
+<area shape="rect" id="node2" href="$class_virus_family.html#abdac526121911a336b7f6da2e1ecd657" title="Retorna el nom de la família." alt="" coords="272,5,409,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Region.nextStepVaccines" name="Region.nextStepVaccines">
+<area shape="rect" id="node1" title="Avança un tic a les vacunes i, si escau, les esborra." alt="" coords="5,5,192,32"/>
+<area shape="rect" id="node2" href="$class_affectation_1_1_vaccine_stepper.html#a6cb5bdbc4fdf0310eb1ec0edaf5c726f" title="Avança un tic de la vacuna." alt="" coords="240,5,499,32"/>
+</map>

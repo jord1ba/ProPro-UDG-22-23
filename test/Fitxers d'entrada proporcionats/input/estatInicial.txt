@@ -1,0 +1,29 @@
+# fitxer que permet establir un punt de partida, per a cada regió, a l'instant zero de la simulació
+# les regions que no apareixen no tenen un nombre de malalts remarcable
+regio catalunya_central
+virus_presents
+nom_virus Grip
+p_malalts 9 # tant per cent malalts (considereu distr. uniforme dels dies que els resten per curar-se)
+*
+regio metropolitana_nord
+virus_presents
+nom_virus Grip
+p_malalts 15
+nom_virus Covid19
+p_malalts 4
+* 
+regio metropolitana_sud
+virus_presents
+nom_virus Grip
+p_malalts 11
+nom_virus Covid19
+p_malalts 10
+* 
+regio barcelona_ciutat
+virus_presents
+nom_virus Grip
+p_malalts 16
+nom_virus Covid19
+p_malalts 6
+* 
+

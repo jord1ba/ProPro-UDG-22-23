@@ -1,0 +1,5 @@
+<map id="MutableVirus.generateMutateCopyErrorName" name="MutableVirus.generateMutateCopyErrorName">
+<area shape="rect" id="node1" title="Genera el nom del nou virus a causa d&#39;error de còpia." alt="" coords="523,5,739,47"/>
+<area shape="rect" id="node2" href="$class_mutable_virus.html#a1be4bb53d260792e7d49f17a992b7cbc" title="Crea una mutació per error de còpia." alt="" coords="264,5,475,47"/>
+<area shape="rect" id="node3" href="$class_mutable_virus.html#a08408424d9af878eeaedf078d037f454" title="Propaga el virus en una regió específica." alt="" coords="5,13,216,39"/>
+</map>

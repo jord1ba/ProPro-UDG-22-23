@@ -1,0 +1,19 @@
+families
+nom Orthomyxoviridae
+tpc_maxim_variacio 20
+*
+virus
+nom Grip
+tipus ARN
+familia Orthomyxoviridae
+prob_malaltia 0.5
+incubacio 3
+latencia 3
+durada_malaltia 3
+durada_contagi 3
+durada_immunitat 6
+mortalitat 0.05
+taxa_contagi 0.25
+prob_mutacio_copia 0.01
+prob_mutacio_coincidencia 0.005
+*

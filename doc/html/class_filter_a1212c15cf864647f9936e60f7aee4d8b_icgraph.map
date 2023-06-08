@@ -1,0 +1,17 @@
+<map id="Filter.region" name="Filter.region">
+<area shape="rect" id="node1" title="Getter del filtre de regió." alt="" coords="1067,147,1165,174"/>
+<area shape="rect" id="node2" href="$class_filter.html#a90110521c124eae7f2cd0834edc95ac6" title="Constructor principal que crea a partir de les llistes de regions i virus de simulation,..." alt="" coords="877,20,968,47"/>
+<area shape="rect" id="node3" href="$class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="566,92,761,119"/>
+<area shape="rect" id="node9" href="$class_writer.html#a1c3d8d7d4d6cb434a805fe28575f75e2" title="Mostra el menú de filtres." alt="" coords="839,122,1007,148"/>
+<area shape="rect" id="node10" href="$class_filter.html#aa6f386857cb72b28fcc15dbc7c548fc2" title="Actualitza els objectes Data d&#39;aquest objecte al nou tick generat, i afegeix el de les noves afectaci..." alt="" coords="827,274,1019,300"/>
+<area shape="rect" id="node13" href="$class_filter.html#aebeddff04642f45bb03dfbee5e75d8d7" title="Setter del filtre per regió." alt="" coords="855,223,991,250"/>
+<area shape="rect" id="node14" href="$class_command_line.html#a30049051db2a658426551808e9d46bd7" title="Actualitza el filtre de regions." alt="" coords="558,161,769,202"/>
+<area shape="rect" id="node4" href="$class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="273,42,480,68"/>
+<area shape="rect" id="node5" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,143,205,170"/>
+<area shape="rect" id="node6" href="$class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="289,92,465,119"/>
+<area shape="rect" id="node7" href="$class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="287,194,467,220"/>
+<area shape="rect" id="node8" href="$class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="261,143,492,170"/>
+<area shape="rect" id="node11" href="$class_command_line.html#aafb78e1fccdec0e66c1db71a1149fb5e" title="Si encara és útil, genera el següent tick." alt="" coords="575,278,751,304"/>
+<area shape="rect" id="node12" href="$class_command_line.html#a70b02fa539ac3680151621307af1dd6d" title="Si encara és útil, genera tants ticks com determini l&#39;usuari." alt="" coords="253,295,500,322"/>
+<area shape="rect" id="node15" href="$class_command_line.html#a52d036b5d24efc7a74a835fd19ad6d76" title="Actualitza el filtre de virus." alt="" coords="548,227,779,254"/>
+</map>

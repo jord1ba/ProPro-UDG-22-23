@@ -1,0 +1,4 @@
+<map id="Data.contagiousData" name="Data.contagiousData">
+<area shape="rect" id="node1" title="Retorna un TreeMap de la informació dels contagiosos de l&#39;objecte actual. Indexa enters per concepte ..." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$class_data.html#abe8e885fdcc0906738be38c1425eb425" title="Retorna el total d&#39;infectats actual (sense els immunes)." alt="" coords="212,5,347,32"/>
+</map>

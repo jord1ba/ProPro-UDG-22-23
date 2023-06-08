@@ -1,0 +1,7 @@
+<map id="SoftVaccine" name="SoftVaccine">
+<area shape="rect" id="node1" title="Vacunes que redueixen les propietats del virus." alt="" coords="116,260,213,287"/>
+<area shape="rect" id="node2" href="$class_vaccine.html" title="Vacunes que disminueixen l&#39;efectivitat dels virus." alt="" coords="129,184,201,211"/>
+<area shape="rect" id="node3" href="$class_virus.html" title="Conté tota la informació relacionada amb els virus i permet gestionar&#45;ne el comportament i la propaga..." alt="" coords="137,95,192,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,169,32"/>
+<area shape="rect" id="node5" href="$class_virus_family.html" title="Família que agrupa diferents virus de la simulació." alt="" coords="194,5,293,32"/>
+</map>

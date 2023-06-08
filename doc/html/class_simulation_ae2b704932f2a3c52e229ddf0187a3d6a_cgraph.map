@@ -1,0 +1,4 @@
+<map id="Simulation.setBorderState" name="Simulation.setBorderState">
+<area shape="rect" id="node1" title="Estableix l&#39;estat de confinament de la frontera entre dues regions." alt="" coords="5,5,199,32"/>
+<area shape="rect" id="node2" href="$class_region.html#aa781053d4ffe996700e1ebcd7ebe75b9" title="Estableix l&#39;estat de la frontera amb la regió region: si state és true, les fronteres estan obertes,..." alt="" coords="247,5,415,32"/>
+</map>

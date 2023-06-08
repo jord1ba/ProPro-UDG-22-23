@@ -1,0 +1,4 @@
+<map id="Data.virus" name="Data.virus">
+<area shape="rect" id="node1" title="Getter del virus al que corresponen les dades de l&#39;objecte actual." alt="" coords="141,5,231,32"/>
+<area shape="rect" id="node2" href="$class_data.html#a7aaf71685440d631ee52fb67e080bc27" title="Constructor que rep un virus i una regió afectada per aquest i carrega i guarda les dades de l&#39;afecta..." alt="" coords="5,5,93,32"/>
+</map>

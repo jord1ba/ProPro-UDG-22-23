@@ -1,0 +1,4 @@
+<map id="Simulation.findVirusByName" name="Simulation.findVirusByName">
+<area shape="rect" id="node1" title="Retorna l&#39;objecte Virus de la llista de virus donat el nom del virus." alt="" coords="5,5,215,32"/>
+<area shape="rect" id="node2" href="$class_virus.html#af2300113b3c2068f7957e1cf31203182" title="Retorna el nom del virus." alt="" coords="263,5,359,32"/>
+</map>

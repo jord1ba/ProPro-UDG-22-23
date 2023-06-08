@@ -1,0 +1,6 @@
+<map id="GraphChartData.lockEdge" name="GraphChartData.lockEdge">
+<area shape="rect" id="node1" title="Canvia el color de l&#39;aresta que connecta r1 i r2 a vermell (bloquejat)." alt="" coords="679,5,869,32"/>
+<area shape="rect" id="node2" href="$class_u_i.html#a3b3795ec9d9115193ae96a8e2b723b20" title="Tanca visualment una frontera entre dues regions." alt="" coords="532,5,631,32"/>
+<area shape="rect" id="node3" href="$class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="253,5,484,32"/>
+<area shape="rect" id="node4" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,5,205,32"/>
+</map>

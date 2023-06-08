@@ -1,0 +1,3917 @@
+Si us plau, entreu el directori on es troben els fitxers d'entrada:
+inputfiles
+Tick: 0
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 758 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 1635
+                Total de morts: 22
+                Total de malalts: 758
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 1
+Menú de filtres:
+1. Modificar virus: sense filtre
+2. Modificar regió: sense filtre
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 1
+1. Covid (Coronaviridae)
+2. Grip (Orthomyxoviridae)
+
+Número del virus a posar com a filtre (0 per tornar al menú): 1
+Menú de filtres:
+1. Modificar virus: Covid
+2. Modificar regió: sense filtre
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 0
+Tick: 0
+Presència del virus Covid:
+        Situació en aquest moment:
+                Nombre de malalts: 282 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 757
+                Total de morts: 18
+                Total de malalts: 282
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 4
+1. A (2000 inhab.)
+2. B (2000 inhab.)
+3. C (2000 inhab.)
+
+Número de la regió on aplicar la vacuna (0 per tornar al menú): 2
+1. HVC_Covid_Delta (inhibidora)
+
+Número de la vacuna a aplicar (0 per tornar al menú): 1
+Entra el percentatge de població al que aplicar la vacuna (0-100, 0 per tornar al menú): 95
+Tick: 0
+Presència del virus Covid:
+        Situació en aquest moment:
+                Nombre de malalts: 282 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 757
+                Total de morts: 18
+                Total de malalts: 282
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 5
+Menú de confinaments:
+1. Aplicar confinament
+2. Extingir confinament
+3. Aplicar tancament
+4. Extingir tancament
+0. Tornar al menú principal
+Opció: 1
+1. A (2000 inhab.)
+2. B (2000 inhab.)
+3. C (2000 inhab.)
+
+Número de la regió on aplicar un tancament/confinament (0 per tornar al menú): 2
+Nou ratio (0-100, 100 per tornar): 10
+Menú de confinaments:
+1. Aplicar confinament
+2. Extingir confinament
+3. Aplicar tancament
+4. Extingir tancament
+0. Tornar al menú principal
+Opció: 3
+1. A (2000 inhab.)
+2. B (2000 inhab.)
+3. C (2000 inhab.)
+
+Número de la regió on aplicar un tancament/confinament (0 per tornar al menú): 2
+1. C (2000 inhab.)
+2. A (2000 inhab.)
+
+Número de la segona regió amb la que realitzar un tancament (0 per tornar al menú): 1
+Menú de confinaments:
+1. Aplicar confinament
+2. Extingir confinament
+3. Aplicar tancament
+4. Extingir tancament
+0. Tornar al menú principal
+Opció: 3
+1. A (2000 inhab.)
+2. B (2000 inhab.)
+3. C (2000 inhab.)
+
+Número de la regió on aplicar un tancament/confinament (0 per tornar al menú): 2
+1. C (2000 inhab.)
+2. A (2000 inhab.)
+
+Número de la segona regió amb la que realitzar un tancament (0 per tornar al menú): 2
+Menú de confinaments:
+1. Aplicar confinament
+2. Extingir confinament
+3. Aplicar tancament
+4. Extingir tancament
+0. Tornar al menú principal
+Opció: 0
+Tick: 0
+Presència del virus Covid:
+        Situació en aquest moment:
+                Nombre de malalts: 282 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 757
+                Total de morts: 18
+                Total de malalts: 282
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 6
+Tick: 0
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (80 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 188 (+0)
+                Total de contagiosos al llarg de l'execució: 188 (+0)
+                Total de contagiats al llarg de l'execució: 500 (+0)
+                Total de morts al llarg de l'execució: 12 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 112 (+0) (-0)
+                        Simptomàtics: 188 (+0) (-0)
+                        Sense símptomes: 200 (+0) (-0)
+                Grup de contagiosos:
+                        Latència: 312 (+0) (-0)
+                        Contagiosos: 188 (+0) (-0)
+                        No contagiosos: 0 (+0) (-0)
+                Grup d'immunes:
+                        Immunes: 0 (+0) (-0)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 94 (+0)
+                Total de contagiosos al llarg de l'execució: 94 (+0)
+                Total de contagiats al llarg de l'execució: 257 (+0)
+                Total de morts al llarg de l'execució: 6 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 63 (+0) (-0)
+                        Simptomàtics: 94 (+0) (-0)
+                        Sense símptomes: 100 (+0) (-0)
+                Grup de contagiosos:
+                        Latència: 163 (+0) (-0)
+                        Contagiosos: 94 (+0) (-0)
+                        No contagiosos: 0 (+0) (-0)
+                Grup d'immunes:
+                        Immunes: 0 (+0) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 1
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (79 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 188 (+0)
+                Total de contagiosos al llarg de l'execució: 188 (+0)
+                Total de contagiats al llarg de l'execució: 549 (+49)
+                Total de morts al llarg de l'execució: 24 (+12)
+        Dades del tick:
+                Taxa de transmissió: 0.1091314
+                Grup de simptomàtics:
+                        Incubant: 161 (+49) (-0)
+                        Simptomàtics: 88 (+0) (-88)
+                        Sense símptomes: 200 (+88) (-88)
+                Grup de contagiosos:
+                        Latència: 361 (+49) (-0)
+                        Contagiosos: 88 (+0) (-88)
+                        No contagiosos: 0 (+88) (-88)
+                Grup d'immunes:
+                        Immunes: 88 (+88) (-0)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 13 (+0)
+                Total de contagiosos al llarg de l'execució: 42 (+0)
+                Total de contagiats al llarg de l'execució: 89 (+0)
+                Total de morts al llarg de l'execució: 2 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 47 (+0) (-0)
+                        Simptomàtics: 13 (+0) (-0)
+                        Sense símptomes: 29 (+0) (-0)
+                Grup de contagiosos:
+                        Latència: 47 (+0) (-0)
+                        Contagiosos: 42 (+0) (-0)
+                        No contagiosos: 0 (+0) (-0)
+                Grup d'immunes:
+                        Immunes: 13 (+0) (-0)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 94 (+0)
+                Total de contagiosos al llarg de l'execució: 179 (+85)
+                Total de contagiats al llarg de l'execució: 292 (+82)
+                Total de morts al llarg de l'execució: 10 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.38139534
+                Grup de simptomàtics:
+                        Incubant: 113 (+82) (-0)
+                        Simptomàtics: 31 (+0) (-37)
+                        Sense símptomes: 71 (+37) (-37)
+                Grup de contagiosos:
+                        Latència: 113 (+82) (-85)
+                        Contagiosos: 102 (+85) (-37)
+                        No contagiosos: 0 (+37) (-37)
+                Grup d'immunes:
+                        Immunes: 31 (+37) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 2
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (78 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 188 (+0)
+                Total de contagiosos al llarg de l'execució: 388 (+200)
+                Total de contagiats al llarg de l'execució: 656 (+107)
+                Total de morts al llarg de l'execució: 24 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.22863248
+                Grup de simptomàtics:
+                        Incubant: 268 (+107) (-0)
+                        Simptomàtics: 0 (+0) (-88)
+                        Sense símptomes: 200 (+88) (-88)
+                Grup de contagiosos:
+                        Latència: 268 (+107) (-200)
+                        Contagiosos: 200 (+200) (-88)
+                        No contagiosos: 0 (+88) (-88)
+                Grup d'immunes:
+                        Immunes: 176 (+88) (-0)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 24 (+11)
+                Total de contagiosos al llarg de l'execució: 53 (+11)
+                Total de contagiats al llarg de l'execució: 143 (+31)
+                Total de morts al llarg de l'execució: 2 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.21678321
+                Grup de simptomàtics:
+                        Incubant: 77 (+31) (-11)
+                        Simptomàtics: 13 (+11) (-27)
+                        Sense símptomes: 53 (+27) (-16)
+                Grup de contagiosos:
+                        Latència: 90 (+31) (-11)
+                        Contagiosos: 53 (+11) (-16)
+                        No contagiosos: 0 (+16) (-16)
+                Grup d'immunes:
+                        Immunes: 38 (+16) (-0)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 114 (+20)
+                Total de contagiosos al llarg de l'execució: 199 (+20)
+                Total de contagiats al llarg de l'execució: 326 (+57)
+                Total de morts al llarg de l'execució: 10 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.27804878
+                Grup de simptomàtics:
+                        Incubant: 108 (+57) (-20)
+                        Simptomàtics: 18 (+20) (-49)
+                        Sense símptomes: 79 (+49) (-28)
+                Grup de contagiosos:
+                        Latència: 127 (+57) (-20)
+                        Contagiosos: 78 (+20) (-28)
+                        No contagiosos: 0 (+28) (-28)
+                Grup d'immunes:
+                        Immunes: 50 (+28) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 3
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (77 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 268 (+80)
+                Total de contagiosos al llarg de l'execució: 468 (+80)
+                Total de contagiats al llarg de l'execució: 795 (+139)
+                Total de morts al llarg de l'execució: 24 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.22899505
+                Grup de simptomàtics:
+                        Incubant: 246 (+139) (-80)
+                        Simptomàtics: 80 (+80) (-81)
+                        Sense símptomes: 281 (+81) (-0)
+                Grup de contagiosos:
+                        Latència: 327 (+139) (-80)
+                        Contagiosos: 280 (+80) (-0)
+                        No contagiosos: 0 (+0) (-0)
+                Grup d'immunes:
+                        Immunes: 176 (+0) (-0)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 44 (+20)
+                Total de contagiosos al llarg de l'execució: 86 (+33)
+                Total de contagiats al llarg de l'execució: 183 (+30)
+                Total de morts al llarg de l'execució: 5 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.2027027
+                Grup de simptomàtics:
+                        Incubant: 74 (+30) (-20)
+                        Simptomàtics: 36 (+20) (-21)
+                        Sense símptomes: 38 (+21) (-41)
+                Grup de contagiosos:
+                        Latència: 97 (+30) (-33)
+                        Contagiosos: 51 (+33) (-41)
+                        No contagiosos: 0 (+41) (-41)
+                Grup d'immunes:
+                        Immunes: 87 (+41) (-0)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 142 (+28)
+                Total de contagiosos al llarg de l'execució: 246 (+47)
+                Total de contagiats al llarg de l'execució: 357 (+41)
+                Total de morts al llarg de l'execució: 10 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.24404761
+                Grup de simptomàtics:
+                        Incubant: 85 (+41) (-28)
+                        Simptomàtics: 40 (+28) (-28)
+                        Sense símptomes: 43 (+28) (-59)
+                Grup de contagiosos:
+                        Latència: 111 (+41) (-47)
+                        Contagiosos: 57 (+47) (-59)
+                        No contagiosos: 0 (+59) (-59)
+                Grup d'immunes:
+                        Immunes: 101 (+59) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 4
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (76 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 321 (+53)
+                Total de contagiosos al llarg de l'execució: 602 (+134)
+                Total de contagiats al llarg de l'execució: 825 (+30)
+                Total de morts al llarg de l'execució: 34 (+10)
+        Dades del tick:
+                Taxa de transmissió: 0.07025761
+                Grup de simptomàtics:
+                        Incubant: 169 (+30) (-53)
+                        Simptomàtics: 123 (+53) (-54)
+                        Sense símptomes: 135 (+54) (-200)
+                Grup de contagiosos:
+                        Latència: 223 (+30) (-134)
+                        Contagiosos: 204 (+134) (-200)
+                        No contagiosos: 0 (+200) (-200)
+                Grup d'immunes:
+                        Immunes: 376 (+200) (-0)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 64 (+20)
+                Total de contagiosos al llarg de l'execució: 129 (+43)
+                Total de contagiats al llarg de l'execució: 239 (+51)
+                Total de morts al llarg de l'execució: 7 (+2)
+        Dades del tick:
+                Taxa de transmissió: 0.2642487
+                Grup de simptomàtics:
+                        Incubant: 88 (+51) (-20)
+                        Simptomàtics: 43 (+20) (-34)
+                        Sense símptomes: 62 (+34) (-13)
+                Grup de contagiosos:
+                        Latència: 110 (+51) (-43)
+                        Contagiosos: 83 (+43) (-13)
+                        No contagiosos: 0 (+13) (-13)
+                Grup d'immunes:
+                        Immunes: 103 (+13) (-0)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 165 (+23)
+                Total de contagiosos al llarg de l'execució: 295 (+49)
+                Total de contagiats al llarg de l'execució: 409 (+57)
+                Total de morts al llarg de l'execució: 13 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.28787878
+                Grup de simptomàtics:
+                        Incubant: 91 (+57) (-23)
+                        Simptomàtics: 43 (+23) (-39)
+                        Sense símptomes: 64 (+39) (-15)
+                Grup de contagiosos:
+                        Latència: 114 (+57) (-49)
+                        Contagiosos: 84 (+49) (-15)
+                        No contagiosos: 0 (+15) (-15)
+                Grup d'immunes:
+                        Immunes: 113 (+15) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 5
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (75 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 390 (+69)
+                Total de contagiosos al llarg de l'execució: 725 (+123)
+                Total de contagiats al llarg de l'execució: 864 (+39)
+                Total de morts al llarg de l'execució: 40 (+6)
+        Dades del tick:
+                Taxa de transmissió: 0.1
+                Grup de simptomàtics:
+                        Incubant: 69 (+39) (-69)
+                        Simptomàtics: 116 (+69) (-140)
+                        Sense símptomes: 205 (+140) (-70)
+                Grup de contagiosos:
+                        Latència: 139 (+39) (-123)
+                        Contagiosos: 251 (+123) (-70)
+                        No contagiosos: 0 (+70) (-70)
+                Grup d'immunes:
+                        Immunes: 358 (+70) (-88)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 81 (+17)
+                Total de contagiosos al llarg de l'execució: 167 (+38)
+                Total de contagiats al llarg de l'execució: 291 (+51)
+                Total de morts al llarg de l'execució: 9 (+2)
+        Dades del tick:
+                Taxa de transmissió: 0.2451923
+                Grup de simptomàtics:
+                        Incubant: 106 (+51) (-17)
+                        Simptomàtics: 38 (+17) (-38)
+                        Sense símptomes: 64 (+38) (-37)
+                Grup de contagiosos:
+                        Latència: 124 (+51) (-38)
+                        Contagiosos: 84 (+38) (-37)
+                        No contagiosos: 0 (+37) (-37)
+                Grup d'immunes:
+                        Immunes: 121 (+37) (-20)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 183 (+18)
+                Total de contagiosos al llarg de l'execució: 337 (+42)
+                Total de contagiats al llarg de l'execució: 464 (+56)
+                Total de morts al llarg de l'execució: 15 (+2)
+        Dades del tick:
+                Taxa de transmissió: 0.26540285
+                Grup de simptomàtics:
+                        Incubant: 109 (+56) (-18)
+                        Simptomàtics: 36 (+18) (-41)
+                        Sense símptomes: 66 (+41) (-38)
+                Grup de contagiosos:
+                        Latència: 127 (+56) (-42)
+                        Contagiosos: 84 (+42) (-38)
+                        No contagiosos: 0 (+38) (-38)
+                Grup d'immunes:
+                        Immunes: 126 (+38) (-24)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 6
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (74 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 405 (+15)
+                Total de contagiosos al llarg de l'execució: 810 (+85)
+                Total de contagiats al llarg de l'execució: 896 (+32)
+                Total de morts al llarg de l'execució: 48 (+8)
+        Dades del tick:
+                Taxa de transmissió: 0.11188811
+                Grup de simptomàtics:
+                        Incubant: 71 (+32) (-15)
+                        Simptomàtics: 76 (+15) (-62)
+                        Sense símptomes: 139 (+62) (-128)
+                Grup de contagiosos:
+                        Latència: 86 (+32) (-85)
+                        Contagiosos: 200 (+85) (-128)
+                        No contagiosos: 0 (+128) (-128)
+                Grup d'immunes:
+                        Immunes: 398 (+128) (-88)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 106 (+25)
+                Total de contagiosos al llarg de l'execució: 209 (+42)
+                Total de contagiats al llarg de l'execució: 340 (+49)
+                Total de morts al llarg de l'execució: 11 (+2)
+        Dades del tick:
+                Taxa de transmissió: 0.23113208
+                Grup de simptomàtics:
+                        Incubant: 104 (+49) (-25)
+                        Simptomàtics: 41 (+25) (-45)
+                        Sense símptomes: 67 (+45) (-42)
+                Grup de contagiosos:
+                        Latència: 131 (+49) (-42)
+                        Contagiosos: 81 (+42) (-42)
+                        No contagiosos: 0 (+42) (-42)
+                Grup d'immunes:
+                        Immunes: 148 (+42) (-21)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 211 (+28)
+                Total de contagiosos al llarg de l'execució: 384 (+47)
+                Total de contagiats al llarg de l'execució: 518 (+54)
+                Total de morts al llarg de l'execució: 17 (+2)
+        Dades del tick:
+                Taxa de transmissió: 0.24770643
+                Grup de simptomàtics:
+                        Incubant: 106 (+54) (-28)
+                        Simptomàtics: 43 (+28) (-49)
+                        Sense símptomes: 69 (+49) (-46)
+                Grup de contagiosos:
+                        Latència: 134 (+54) (-47)
+                        Contagiosos: 84 (+47) (-46)
+                        No contagiosos: 0 (+46) (-46)
+                Grup d'immunes:
+                        Immunes: 143 (+46) (-23)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 7
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (73 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 424 (+19)
+                Total de contagiosos al llarg de l'execució: 844 (+34)
+                Total de contagiats al llarg de l'execució: 914 (+18)
+                Total de morts al llarg de l'execució: 49 (+1)
+        Dades del tick:
+                Taxa de transmissió: 0.095744684
+                Grup de simptomàtics:
+                        Incubant: 50 (+18) (-19)
+                        Simptomàtics: 33 (+19) (-81)
+                        Sense símptomes: 105 (+81) (-115)
+                Grup de contagiosos:
+                        Latència: 70 (+18) (-34)
+                        Contagiosos: 118 (+34) (-115)
+                        No contagiosos: 0 (+115) (-115)
+                Grup d'immunes:
+                        Immunes: 513 (+115) (-0)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 131 (+25)
+                Total de contagiosos al llarg de l'execució: 260 (+51)
+                Total de contagiats al llarg de l'execució: 397 (+56)
+                Total de morts al llarg de l'execució: 14 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.24242425
+                Grup de simptomàtics:
+                        Incubant: 110 (+56) (-25)
+                        Simptomàtics: 49 (+25) (-41)
+                        Sense símptomes: 72 (+41) (-36)
+                Grup de contagiosos:
+                        Latència: 137 (+56) (-51)
+                        Contagiosos: 94 (+51) (-36)
+                        No contagiosos: 0 (+36) (-36)
+                Grup d'immunes:
+                        Immunes: 135 (+36) (-48)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 239 (+28)
+                Total de contagiosos al llarg de l'execució: 441 (+57)
+                Total de contagiats al llarg de l'execució: 580 (+63)
+                Total de morts al llarg de l'execució: 20 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.26694915
+                Grup de simptomàtics:
+                        Incubant: 112 (+63) (-28)
+                        Simptomàtics: 51 (+28) (-44)
+                        Sense símptomes: 73 (+44) (-40)
+                Grup de contagiosos:
+                        Latència: 139 (+63) (-57)
+                        Contagiosos: 97 (+57) (-40)
+                        No contagiosos: 0 (+40) (-40)
+                Grup d'immunes:
+                        Immunes: 132 (+40) (-52)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 8
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (72 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 440 (+16)
+                Total de contagiosos al llarg de l'execució: 880 (+36)
+                Total de contagiats al llarg de l'execució: 926 (+12)
+                Total de morts al llarg de l'execució: 51 (+2)
+        Dades del tick:
+                Taxa de transmissió: 0.10526316
+                Grup de simptomàtics:
+                        Incubant: 30 (+12) (-16)
+                        Simptomàtics: 33 (+16) (-30)
+                        Sense símptomes: 51 (+30) (-84)
+                Grup de contagiosos:
+                        Latència: 46 (+12) (-36)
+                        Contagiosos: 68 (+36) (-84)
+                        No contagiosos: 0 (+84) (-84)
+                Grup d'immunes:
+                        Immunes: 397 (+84) (-200)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 155 (+24)
+                Total de contagiosos al llarg de l'execució: 310 (+50)
+                Total de contagiats al llarg de l'execució: 458 (+60)
+                Total de morts al llarg de l'execució: 17 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.24
+                Grup de simptomàtics:
+                        Incubant: 122 (+60) (-24)
+                        Simptomàtics: 48 (+24) (-47)
+                        Sense símptomes: 80 (+47) (-39)
+                Grup de contagiosos:
+                        Latència: 148 (+60) (-50)
+                        Contagiosos: 102 (+50) (-39)
+                        No contagiosos: 0 (+39) (-39)
+                Grup d'immunes:
+                        Immunes: 159 (+39) (-14)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 266 (+27)
+                Total de contagiosos al llarg de l'execució: 496 (+55)
+                Total de contagiats al llarg de l'execució: 645 (+66)
+                Total de morts al llarg de l'execució: 23 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.25984251
+                Grup de simptomàtics:
+                        Incubant: 123 (+66) (-27)
+                        Simptomàtics: 50 (+27) (-52)
+                        Sense símptomes: 81 (+52) (-44)
+                Grup de contagiosos:
+                        Latència: 149 (+66) (-55)
+                        Contagiosos: 105 (+55) (-44)
+                        No contagiosos: 0 (+44) (-44)
+                Grup d'immunes:
+                        Immunes: 163 (+44) (-14)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 9
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (71 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 449 (+9)
+                Total de contagiosos al llarg de l'execució: 905 (+25)
+                Total de contagiats al llarg de l'execució: 937 (+11)
+                Total de morts al llarg de l'execució: 53 (+2)
+        Dades del tick:
+                Taxa de transmissió: 0.12087912
+                Grup de simptomàtics:
+                        Incubant: 23 (+11) (-9)
+                        Simptomàtics: 23 (+9) (-26)
+                        Sense símptomes: 45 (+26) (-32)
+                Grup de contagiosos:
+                        Latència: 32 (+11) (-25)
+                        Contagiosos: 59 (+25) (-32)
+                        No contagiosos: 0 (+32) (-32)
+                Grup d'immunes:
+                        Immunes: 359 (+32) (-70)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 183 (+28)
+                Total de contagiosos al llarg de l'execució: 363 (+53)
+                Total de contagiats al llarg de l'execució: 518 (+60)
+                Total de morts al llarg de l'execució: 20 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.23076923
+                Grup de simptomàtics:
+                        Incubant: 125 (+60) (-28)
+                        Simptomàtics: 52 (+28) (-51)
+                        Sense símptomes: 83 (+51) (-48)
+                Grup de contagiosos:
+                        Latència: 155 (+60) (-53)
+                        Contagiosos: 105 (+53) (-48)
+                        No contagiosos: 0 (+48) (-48)
+                Grup d'immunes:
+                        Immunes: 171 (+48) (-36)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 297 (+31)
+                Total de contagiosos al llarg de l'execució: 554 (+58)
+                Total de contagiats al llarg de l'execució: 710 (+65)
+                Total de morts al llarg de l'execució: 26 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.24904214
+                Grup de simptomàtics:
+                        Incubant: 126 (+65) (-31)
+                        Simptomàtics: 52 (+31) (-56)
+                        Sense símptomes: 83 (+56) (-54)
+                Grup de contagiosos:
+                        Latència: 156 (+65) (-58)
+                        Contagiosos: 105 (+58) (-54)
+                        No contagiosos: 0 (+54) (-54)
+                Grup d'immunes:
+                        Immunes: 178 (+54) (-39)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 10
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (70 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 455 (+6)
+                Total de contagiosos al llarg de l'execució: 920 (+15)
+                Total de contagiats al llarg de l'execució: 944 (+7)
+                Total de morts al llarg de l'execució: 54 (+1)
+        Dades del tick:
+                Taxa de transmissió: 0.11111111
+                Grup de simptomàtics:
+                        Incubant: 18 (+7) (-6)
+                        Simptomàtics: 14 (+6) (-20)
+                        Sense símptomes: 31 (+20) (-34)
+                Grup de contagiosos:
+                        Latència: 24 (+7) (-15)
+                        Contagiosos: 39 (+15) (-34)
+                        No contagiosos: 0 (+34) (-34)
+                Grup d'immunes:
+                        Immunes: 265 (+34) (-128)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 213 (+30)
+                Total de contagiosos al llarg de l'execució: 422 (+59)
+                Total de contagiats al llarg de l'execució: 582 (+64)
+                Total de morts al llarg de l'execució: 23 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.23443224
+                Grup de simptomàtics:
+                        Incubant: 128 (+64) (-30)
+                        Simptomàtics: 57 (+30) (-53)
+                        Sense símptomes: 88 (+53) (-48)
+                Grup de contagiosos:
+                        Latència: 160 (+64) (-59)
+                        Contagiosos: 113 (+59) (-48)
+                        No contagiosos: 0 (+48) (-48)
+                Grup d'immunes:
+                        Immunes: 179 (+48) (-42)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 329 (+32)
+                Total de contagiosos al llarg de l'execució: 617 (+63)
+                Total de contagiats al llarg de l'execució: 780 (+70)
+                Total de morts al llarg de l'execució: 29 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.25270757
+                Grup de simptomàtics:
+                        Incubant: 131 (+70) (-32)
+                        Simptomàtics: 58 (+32) (-56)
+                        Sense símptomes: 88 (+56) (-51)
+                Grup de contagiosos:
+                        Latència: 163 (+70) (-63)
+                        Contagiosos: 114 (+63) (-51)
+                        No contagiosos: 0 (+51) (-51)
+                Grup d'immunes:
+                        Immunes: 181 (+51) (-46)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 11
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (69 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 460 (+5)
+                Total de contagiosos al llarg de l'execució: 931 (+11)
+                Total de contagiats al llarg de l'execució: 949 (+5)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.11363637
+                Grup de simptomàtics:
+                        Incubant: 12 (+5) (-5)
+                        Simptomàtics: 11 (+5) (-14)
+                        Sense símptomes: 21 (+14) (-24)
+                Grup de contagiosos:
+                        Latència: 18 (+5) (-11)
+                        Contagiosos: 26 (+11) (-24)
+                        No contagiosos: 0 (+24) (-24)
+                Grup d'immunes:
+                        Immunes: 174 (+24) (-115)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 243 (+30)
+                Total de contagiosos al llarg de l'execució: 483 (+61)
+                Total de contagiats al llarg de l'execució: 650 (+68)
+                Total de morts al llarg de l'execució: 26 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.2361111
+                Grup de simptomàtics:
+                        Incubant: 136 (+68) (-30)
+                        Simptomàtics: 59 (+30) (-55)
+                        Sense símptomes: 93 (+55) (-50)
+                Grup de contagiosos:
+                        Latència: 167 (+68) (-61)
+                        Contagiosos: 121 (+61) (-50)
+                        No contagiosos: 0 (+50) (-50)
+                Grup d'immunes:
+                        Immunes: 194 (+50) (-36)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 361 (+32)
+                Total de contagiosos al llarg de l'execució: 682 (+65)
+                Total de contagiats al llarg de l'execució: 852 (+72)
+                Total de morts al llarg de l'execució: 33 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.24827586
+                Grup de simptomàtics:
+                        Incubant: 138 (+72) (-32)
+                        Simptomàtics: 58 (+32) (-61)
+                        Sense símptomes: 94 (+61) (-55)
+                Grup de contagiosos:
+                        Latència: 170 (+72) (-65)
+                        Contagiosos: 120 (+65) (-55)
+                        No contagiosos: 0 (+55) (-55)
+                Grup d'immunes:
+                        Immunes: 195 (+55) (-40)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 12
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (68 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 463 (+3)
+                Total de contagiosos al llarg de l'execució: 940 (+9)
+                Total de contagiats al llarg de l'execució: 953 (+4)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.121212125
+                Grup de simptomàtics:
+                        Incubant: 9 (+4) (-3)
+                        Simptomàtics: 8 (+3) (-10)
+                        Sense símptomes: 16 (+10) (-15)
+                Grup de contagiosos:
+                        Latència: 13 (+4) (-9)
+                        Contagiosos: 20 (+9) (-15)
+                        No contagiosos: 0 (+15) (-15)
+                Grup d'immunes:
+                        Immunes: 105 (+15) (-84)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 275 (+32)
+                Total de contagiosos al llarg de l'execució: 545 (+62)
+                Total de contagiats al llarg de l'execució: 718 (+68)
+                Total de morts al llarg de l'execució: 29 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.22895622
+                Grup de simptomàtics:
+                        Incubant: 140 (+68) (-32)
+                        Simptomàtics: 61 (+32) (-59)
+                        Sense símptomes: 96 (+59) (-56)
+                Grup de contagiosos:
+                        Latència: 173 (+68) (-62)
+                        Contagiosos: 124 (+62) (-56)
+                        No contagiosos: 0 (+56) (-56)
+                Grup d'immunes:
+                        Immunes: 210 (+56) (-41)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 396 (+35)
+                Total de contagiosos al llarg de l'execució: 750 (+68)
+                Total de contagiats al llarg de l'execució: 926 (+74)
+                Total de morts al llarg de l'execució: 37 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.24584718
+                Grup de simptomàtics:
+                        Incubant: 142 (+74) (-35)
+                        Simptomàtics: 61 (+35) (-63)
+                        Sense símptomes: 98 (+63) (-59)
+                Grup de contagiosos:
+                        Latència: 176 (+74) (-68)
+                        Contagiosos: 125 (+68) (-59)
+                        No contagiosos: 0 (+59) (-59)
+                Grup d'immunes:
+                        Immunes: 211 (+59) (-42)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 13
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (67 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 465 (+2)
+                Total de contagiosos al llarg de l'execució: 946 (+6)
+                Total de contagiats al llarg de l'execució: 956 (+3)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.12
+                Grup de simptomàtics:
+                        Incubant: 7 (+3) (-2)
+                        Simptomàtics: 5 (+2) (-8)
+                        Sense símptomes: 13 (+8) (-11)
+                Grup de contagiosos:
+                        Latència: 10 (+3) (-6)
+                        Contagiosos: 15 (+6) (-11)
+                        No contagiosos: 0 (+11) (-11)
+                Grup d'immunes:
+                        Immunes: 84 (+11) (-32)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 308 (+33)
+                Total de contagiosos al llarg de l'execució: 610 (+65)
+                Total de contagiats al llarg de l'execució: 787 (+69)
+                Total de morts al llarg de l'execució: 33 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.2262295
+                Grup de simptomàtics:
+                        Incubant: 142 (+69) (-33)
+                        Simptomàtics: 64 (+33) (-61)
+                        Sense símptomes: 99 (+61) (-58)
+                Grup de contagiosos:
+                        Latència: 177 (+69) (-65)
+                        Contagiosos: 128 (+65) (-58)
+                        No contagiosos: 0 (+58) (-58)
+                Grup d'immunes:
+                        Immunes: 221 (+58) (-49)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 432 (+36)
+                Total de contagiosos al llarg de l'execució: 821 (+71)
+                Total de contagiats al llarg de l'execució: 1002 (+76)
+                Total de morts al llarg de l'execució: 41 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.244373
+                Grup de simptomàtics:
+                        Incubant: 145 (+76) (-36)
+                        Simptomàtics: 64 (+36) (-65)
+                        Sense símptomes: 102 (+65) (-61)
+                Grup de contagiosos:
+                        Latència: 181 (+76) (-71)
+                        Contagiosos: 130 (+71) (-61)
+                        No contagiosos: 0 (+61) (-61)
+                Grup d'immunes:
+                        Immunes: 217 (+61) (-53)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 14
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (66 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 467 (+2)
+                Total de contagiosos al llarg de l'execució: 951 (+5)
+                Total de contagiats al llarg de l'execució: 958 (+2)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.11111111
+                Grup de simptomàtics:
+                        Incubant: 5 (+2) (-2)
+                        Simptomàtics: 4 (+2) (-5)
+                        Sense símptomes: 9 (+5) (-9)
+                Grup de contagiosos:
+                        Latència: 7 (+2) (-5)
+                        Contagiosos: 11 (+5) (-9)
+                        No contagiosos: 0 (+9) (-9)
+                Grup d'immunes:
+                        Immunes: 59 (+9) (-34)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 342 (+34)
+                Total de contagiosos al llarg de l'execució: 678 (+68)
+                Total de contagiats al llarg de l'execució: 859 (+71)
+                Total de morts al llarg de l'execució: 37 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.22611465
+                Grup de simptomàtics:
+                        Incubant: 146 (+71) (-34)
+                        Simptomàtics: 65 (+34) (-62)
+                        Sense símptomes: 103 (+62) (-58)
+                Grup de contagiosos:
+                        Latència: 181 (+71) (-68)
+                        Contagiosos: 133 (+68) (-58)
+                        No contagiosos: 0 (+58) (-58)
+                Grup d'immunes:
+                        Immunes: 232 (+58) (-48)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 469 (+37)
+                Total de contagiosos al llarg de l'execució: 895 (+74)
+                Total de contagiats al llarg de l'execució: 1079 (+78)
+                Total de morts al llarg de l'execució: 45 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.24299066
+                Grup de simptomàtics:
+                        Incubant: 148 (+78) (-37)
+                        Simptomàtics: 67 (+37) (-68)
+                        Sense símptomes: 106 (+68) (-64)
+                Grup de contagiosos:
+                        Latència: 184 (+78) (-74)
+                        Contagiosos: 137 (+74) (-64)
+                        No contagiosos: 0 (+64) (-64)
+                Grup d'immunes:
+                        Immunes: 229 (+64) (-51)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 15
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (65 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 468 (+1)
+                Total de contagiosos al llarg de l'execució: 954 (+3)
+                Total de contagiats al llarg de l'execució: 959 (+1)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.07692308
+                Grup de simptomàtics:
+                        Incubant: 3 (+1) (-1)
+                        Simptomàtics: 3 (+1) (-4)
+                        Sense símptomes: 7 (+4) (-6)
+                Grup de contagiosos:
+                        Latència: 5 (+1) (-3)
+                        Contagiosos: 8 (+3) (-6)
+                        No contagiosos: 0 (+6) (-6)
+                Grup d'immunes:
+                        Immunes: 41 (+6) (-24)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 376 (+34)
+                Total de contagiosos al llarg de l'execució: 746 (+68)
+                Total de contagiats al llarg de l'execució: 932 (+72)
+                Total de morts al llarg de l'execució: 41 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.22360249
+                Grup de simptomàtics:
+                        Incubant: 150 (+72) (-34)
+                        Simptomàtics: 66 (+34) (-64)
+                        Sense símptomes: 106 (+64) (-61)
+                Grup de contagiosos:
+                        Latència: 186 (+72) (-68)
+                        Contagiosos: 136 (+68) (-61)
+                        No contagiosos: 0 (+61) (-61)
+                Grup d'immunes:
+                        Immunes: 241 (+61) (-51)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 507 (+38)
+                Total de contagiosos al llarg de l'execució: 970 (+75)
+                Total de contagiats al llarg de l'execució: 1157 (+79)
+                Total de morts al llarg de l'execució: 49 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.24085365
+                Grup de simptomàtics:
+                        Incubant: 150 (+79) (-38)
+                        Simptomàtics: 69 (+38) (-70)
+                        Sense símptomes: 109 (+70) (-67)
+                Grup de contagiosos:
+                        Latència: 187 (+79) (-75)
+                        Contagiosos: 141 (+75) (-67)
+                        No contagiosos: 0 (+67) (-67)
+                Grup d'immunes:
+                        Immunes: 243 (+67) (-54)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 16
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (64 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 469 (+1)
+                Total de contagiosos al llarg de l'execució: 957 (+3)
+                Total de contagiats al llarg de l'execució: 960 (+1)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.11111111
+                Grup de simptomàtics:
+                        Incubant: 2 (+1) (-1)
+                        Simptomàtics: 2 (+1) (-3)
+                        Sense símptomes: 5 (+3) (-5)
+                Grup de contagiosos:
+                        Latència: 3 (+1) (-3)
+                        Contagiosos: 6 (+3) (-5)
+                        No contagiosos: 0 (+5) (-5)
+                Grup d'immunes:
+                        Immunes: 31 (+5) (-15)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 412 (+36)
+                Total de contagiosos al llarg de l'execució: 817 (+71)
+                Total de contagiats al llarg de l'execució: 1005 (+73)
+                Total de morts al llarg de l'execució: 45 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.2232416
+                Grup de simptomàtics:
+                        Incubant: 151 (+73) (-36)
+                        Simptomàtics: 68 (+36) (-66)
+                        Sense símptomes: 108 (+66) (-64)
+                Grup de contagiosos:
+                        Latència: 188 (+73) (-71)
+                        Contagiosos: 139 (+71) (-64)
+                        No contagiosos: 0 (+64) (-64)
+                Grup d'immunes:
+                        Immunes: 248 (+64) (-55)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 545 (+38)
+                Total de contagiosos al llarg de l'execució: 1046 (+76)
+                Total de contagiats al llarg de l'execució: 1236 (+79)
+                Total de morts al llarg de l'execució: 53 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.23723723
+                Grup de simptomàtics:
+                        Incubant: 152 (+79) (-38)
+                        Simptomàtics: 70 (+38) (-72)
+                        Sense símptomes: 111 (+72) (-70)
+                Grup de contagiosos:
+                        Latència: 190 (+79) (-76)
+                        Contagiosos: 143 (+76) (-70)
+                        No contagiosos: 0 (+70) (-70)
+                Grup d'immunes:
+                        Immunes: 255 (+70) (-60)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 17
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (63 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 469 (+0)
+                Total de contagiosos al llarg de l'execució: 958 (+1)
+                Total de contagiats al llarg de l'execució: 960 (+0)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 1 (+0) (-0)
+                        Simptomàtics: 1 (+0) (-2)
+                        Sense símptomes: 4 (+2) (-3)
+                Grup de contagiosos:
+                        Latència: 2 (+0) (-1)
+                        Contagiosos: 4 (+1) (-3)
+                        No contagiosos: 0 (+3) (-3)
+                Grup d'immunes:
+                        Immunes: 23 (+3) (-11)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 448 (+36)
+                Total de contagiosos al llarg de l'execució: 889 (+72)
+                Total de contagiats al llarg de l'execució: 1080 (+74)
+                Total de morts al llarg de l'execució: 49 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.22155689
+                Grup de simptomàtics:
+                        Incubant: 153 (+74) (-36)
+                        Simptomàtics: 70 (+36) (-67)
+                        Sense símptomes: 111 (+67) (-64)
+                Grup de contagiosos:
+                        Latència: 191 (+74) (-72)
+                        Contagiosos: 143 (+72) (-64)
+                        No contagiosos: 0 (+64) (-64)
+                Grup d'immunes:
+                        Immunes: 257 (+64) (-57)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 584 (+39)
+                Total de contagiosos al llarg de l'execució: 1124 (+78)
+                Total de contagiats al llarg de l'execució: 1315 (+80)
+                Total de morts al llarg de l'execució: 57 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.23738873
+                Grup de simptomàtics:
+                        Incubant: 153 (+80) (-39)
+                        Simptomàtics: 71 (+39) (-73)
+                        Sense símptomes: 113 (+73) (-71)
+                Grup de contagiosos:
+                        Latència: 191 (+80) (-78)
+                        Contagiosos: 146 (+78) (-71)
+                        No contagiosos: 0 (+71) (-71)
+                Grup d'immunes:
+                        Immunes: 262 (+71) (-62)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 18
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (62 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 469 (+0)
+                Total de contagiosos al llarg de l'execució: 959 (+1)
+                Total de contagiats al llarg de l'execució: 960 (+0)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-2)
+                        Sense símptomes: 3 (+2) (-3)
+                Grup de contagiosos:
+                        Latència: 1 (+0) (-1)
+                        Contagiosos: 2 (+1) (-3)
+                        No contagiosos: 0 (+3) (-3)
+                Grup d'immunes:
+                        Immunes: 17 (+3) (-9)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 484 (+36)
+                Total de contagiosos al llarg de l'execució: 962 (+73)
+                Total de contagiats al llarg de l'execució: 1155 (+74)
+                Total de morts al llarg de l'execució: 53 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.21893491
+                Grup de simptomàtics:
+                        Incubant: 154 (+74) (-36)
+                        Simptomàtics: 70 (+36) (-69)
+                        Sense símptomes: 114 (+69) (-67)
+                Grup de contagiosos:
+                        Latència: 193 (+74) (-73)
+                        Contagiosos: 145 (+73) (-67)
+                        No contagiosos: 0 (+67) (-67)
+                Grup d'immunes:
+                        Immunes: 266 (+67) (-59)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 623 (+39)
+                Total de contagiosos al llarg de l'execució: 1202 (+78)
+                Total de contagiats al llarg de l'execució: 1394 (+80)
+                Total de morts al llarg de l'execució: 61 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.23529412
+                Grup de simptomàtics:
+                        Incubant: 154 (+80) (-39)
+                        Simptomàtics: 72 (+39) (-74)
+                        Sense símptomes: 114 (+74) (-72)
+                Grup de contagiosos:
+                        Latència: 192 (+80) (-78)
+                        Contagiosos: 148 (+78) (-72)
+                        No contagiosos: 0 (+72) (-72)
+                Grup d'immunes:
+                        Immunes: 270 (+72) (-63)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 19
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (61 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 469 (+0)
+                Total de contagiosos al llarg de l'execució: 960 (+1)
+                Total de contagiats al llarg de l'execució: 960 (+0)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-0)
+                        Sense símptomes: 2 (+0) (-1)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-1)
+                        Contagiosos: 2 (+1) (-1)
+                        No contagiosos: 0 (+1) (-1)
+                Grup d'immunes:
+                        Immunes: 12 (+1) (-6)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 521 (+37)
+                Total de contagiosos al llarg de l'execució: 1036 (+74)
+                Total de contagiats al llarg de l'execució: 1230 (+75)
+                Total de morts al llarg de l'execució: 57 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.2186589
+                Grup de simptomàtics:
+                        Incubant: 155 (+75) (-37)
+                        Simptomàtics: 72 (+37) (-69)
+                        Sense símptomes: 116 (+69) (-68)
+                Grup de contagiosos:
+                        Latència: 194 (+75) (-74)
+                        Contagiosos: 149 (+74) (-68)
+                        No contagiosos: 0 (+68) (-68)
+                Grup d'immunes:
+                        Immunes: 274 (+68) (-62)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 663 (+40)
+                Total de contagiosos al llarg de l'execució: 1282 (+80)
+                Total de contagiats al llarg de l'execució: 1474 (+80)
+                Total de morts al llarg de l'execució: 65 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.23529412
+                Grup de simptomàtics:
+                        Incubant: 154 (+80) (-40)
+                        Simptomàtics: 72 (+40) (-75)
+                        Sense símptomes: 114 (+75) (-74)
+                Grup de contagiosos:
+                        Latència: 192 (+80) (-80)
+                        Contagiosos: 148 (+80) (-74)
+                        No contagiosos: 0 (+74) (-74)
+                Grup d'immunes:
+                        Immunes: 276 (+74) (-66)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 20
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (60 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 469 (+0)
+                Total de contagiosos al llarg de l'execució: 960 (+0)
+                Total de contagiats al llarg de l'execució: 960 (+0)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-0)
+                        Sense símptomes: 1 (+0) (-1)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 1 (+0) (-1)
+                        No contagiosos: 0 (+1) (-1)
+                Grup d'immunes:
+                        Immunes: 8 (+1) (-5)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 558 (+37)
+                Total de contagiosos al llarg de l'execució: 1110 (+74)
+                Total de contagiats al llarg de l'execució: 1304 (+74)
+                Total de morts al llarg de l'execució: 61 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.21449275
+                Grup de simptomàtics:
+                        Incubant: 155 (+74) (-37)
+                        Simptomàtics: 73 (+37) (-69)
+                        Sense símptomes: 117 (+69) (-69)
+                Grup de contagiosos:
+                        Latència: 194 (+74) (-74)
+                        Contagiosos: 151 (+74) (-69)
+                        No contagiosos: 0 (+69) (-69)
+                Grup d'immunes:
+                        Immunes: 279 (+69) (-64)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 703 (+40)
+                Total de contagiosos al llarg de l'execució: 1362 (+80)
+                Total de contagiats al llarg de l'execució: 1554 (+80)
+                Total de morts al llarg de l'execució: 70 (+5)
+        Dades del tick:
+                Taxa de transmissió: 0.23529412
+                Grup de simptomàtics:
+                        Incubant: 154 (+80) (-40)
+                        Simptomàtics: 72 (+40) (-75)
+                        Sense símptomes: 114 (+75) (-74)
+                Grup de contagiosos:
+                        Latència: 192 (+80) (-80)
+                        Contagiosos: 148 (+80) (-74)
+                        No contagiosos: 0 (+74) (-74)
+                Grup d'immunes:
+                        Immunes: 280 (+74) (-70)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 21
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (59 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 469 (+0)
+                Total de contagiosos al llarg de l'execució: 960 (+0)
+                Total de contagiats al llarg de l'execució: 960 (+0)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-0)
+                        Sense símptomes: 0 (+0) (-1)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 0 (+0) (-1)
+                        No contagiosos: 0 (+1) (-1)
+                Grup d'immunes:
+                        Immunes: 6 (+1) (-3)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 595 (+37)
+                Total de contagiosos al llarg de l'execució: 1184 (+74)
+                Total de contagiats al llarg de l'execució: 1378 (+74)
+                Total de morts al llarg de l'execució: 65 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.21449275
+                Grup de simptomàtics:
+                        Incubant: 154 (+74) (-37)
+                        Simptomàtics: 73 (+37) (-71)
+                        Sense símptomes: 118 (+71) (-70)
+                Grup de contagiosos:
+                        Latència: 194 (+74) (-74)
+                        Contagiosos: 151 (+74) (-70)
+                        No contagiosos: 0 (+70) (-70)
+                Grup d'immunes:
+                        Immunes: 286 (+70) (-64)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 743 (+40)
+                Total de contagiosos al llarg de l'execució: 1442 (+80)
+                Total de contagiats al llarg de l'execució: 1634 (+80)
+                Total de morts al llarg de l'execució: 75 (+5)
+        Dades del tick:
+                Taxa de transmissió: 0.23529412
+                Grup de simptomàtics:
+                        Incubant: 154 (+80) (-40)
+                        Simptomàtics: 72 (+40) (-75)
+                        Sense símptomes: 114 (+75) (-75)
+                Grup de contagiosos:
+                        Latència: 192 (+80) (-80)
+                        Contagiosos: 148 (+80) (-75)
+                        No contagiosos: 0 (+75) (-75)
+                Grup d'immunes:
+                        Immunes: 283 (+75) (-71)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 22
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (58 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 469 (+0)
+                Total de contagiosos al llarg de l'execució: 960 (+0)
+                Total de contagiats al llarg de l'execució: 960 (+0)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-0)
+                        Sense símptomes: 0 (+0) (-0)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 0 (+0) (-0)
+                        No contagiosos: 0 (+0) (-0)
+                Grup d'immunes:
+                        Immunes: 3 (+0) (-3)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 632 (+37)
+                Total de contagiosos al llarg de l'execució: 1259 (+75)
+                Total de contagiats al llarg de l'execució: 1452 (+74)
+                Total de morts al llarg de l'execució: 69 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.21449275
+                Grup de simptomàtics:
+                        Incubant: 154 (+74) (-37)
+                        Simptomàtics: 73 (+37) (-70)
+                        Sense símptomes: 118 (+70) (-70)
+                Grup de contagiosos:
+                        Latència: 193 (+74) (-75)
+                        Contagiosos: 152 (+75) (-70)
+                        No contagiosos: 0 (+70) (-70)
+                Grup d'immunes:
+                        Immunes: 289 (+70) (-67)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 783 (+40)
+                Total de contagiosos al llarg de l'execució: 1522 (+80)
+                Total de contagiats al llarg de l'execució: 1713 (+79)
+                Total de morts al llarg de l'execució: 80 (+5)
+        Dades del tick:
+                Taxa de transmissió: 0.23303835
+                Grup de simptomàtics:
+                        Incubant: 153 (+79) (-40)
+                        Simptomàtics: 72 (+40) (-75)
+                        Sense símptomes: 114 (+75) (-75)
+                Grup de contagiosos:
+                        Latència: 191 (+79) (-80)
+                        Contagiosos: 148 (+80) (-75)
+                        No contagiosos: 0 (+75) (-75)
+                Grup d'immunes:
+                        Immunes: 286 (+75) (-72)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 23
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (57 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 469 (+0)
+                Total de contagiosos al llarg de l'execució: 960 (+0)
+                Total de contagiats al llarg de l'execució: 960 (+0)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-0)
+                        Sense símptomes: 0 (+0) (-0)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 0 (+0) (-0)
+                        No contagiosos: 0 (+0) (-0)
+                Grup d'immunes:
+                        Immunes: 2 (+0) (-1)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 669 (+37)
+                Total de contagiosos al llarg de l'execució: 1333 (+74)
+                Total de contagiats al llarg de l'execució: 1526 (+74)
+                Total de morts al llarg de l'execució: 73 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.21449275
+                Grup de simptomàtics:
+                        Incubant: 154 (+74) (-37)
+                        Simptomàtics: 73 (+37) (-70)
+                        Sense símptomes: 118 (+70) (-70)
+                Grup de contagiosos:
+                        Latència: 193 (+74) (-74)
+                        Contagiosos: 152 (+74) (-70)
+                        No contagiosos: 0 (+70) (-70)
+                Grup d'immunes:
+                        Immunes: 289 (+70) (-69)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 823 (+40)
+                Total de contagiosos al llarg de l'execució: 1602 (+80)
+                Total de contagiats al llarg de l'execució: 1792 (+79)
+                Total de morts al llarg de l'execució: 85 (+5)
+        Dades del tick:
+                Taxa de transmissió: 0.23372781
+                Grup de simptomàtics:
+                        Incubant: 152 (+79) (-40)
+                        Simptomàtics: 72 (+40) (-75)
+                        Sense símptomes: 114 (+75) (-75)
+                Grup de contagiosos:
+                        Latència: 190 (+79) (-80)
+                        Contagiosos: 148 (+80) (-75)
+                        No contagiosos: 0 (+75) (-75)
+                Grup d'immunes:
+                        Immunes: 289 (+75) (-73)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 24
+Covid a B:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (56 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 469 (+0)
+                Total de contagiosos al llarg de l'execució: 960 (+0)
+                Total de contagiats al llarg de l'execució: 960 (+0)
+                Total de morts al llarg de l'execució: 54 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-0)
+                        Sense símptomes: 0 (+0) (-0)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 0 (+0) (-0)
+                        No contagiosos: 0 (+0) (-0)
+                Grup d'immunes:
+                        Immunes: 1 (+0) (-1)
+
+Covid a C:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 706 (+37)
+                Total de contagiosos al llarg de l'execució: 1407 (+74)
+                Total de contagiats al llarg de l'execució: 1598 (+73)
+                Total de morts al llarg de l'execució: 77 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.21407625
+                Grup de simptomàtics:
+                        Incubant: 152 (+73) (-37)
+                        Simptomàtics: 72 (+37) (-70)
+                        Sense símptomes: 117 (+70) (-71)
+                Grup de contagiosos:
+                        Latència: 191 (+73) (-74)
+                        Contagiosos: 150 (+74) (-71)
+                        No contagiosos: 0 (+71) (-71)
+                Grup d'immunes:
+                        Immunes: 291 (+71) (-70)
+
+Covid a A:
+        Habitants: 2000
+        Turistes: 480
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 862 (+39)
+                Total de contagiosos al llarg de l'execució: 1681 (+79)
+                Total de contagiats al llarg de l'execució: 1871 (+78)
+                Total de morts al llarg de l'execució: 90 (+5)
+        Dades del tick:
+                Taxa de transmissió: 0.23076923
+                Grup de simptomàtics:
+                        Incubant: 152 (+78) (-39)
+                        Simptomàtics: 72 (+39) (-75)
+                        Sense símptomes: 114 (+75) (-75)
+                Grup de contagiosos:
+                        Latència: 190 (+78) (-79)
+                        Contagiosos: 148 (+79) (-75)
+                        No contagiosos: 0 (+75) (-75)
+                Grup d'immunes:
+                        Immunes: 290 (+75) (-73)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 1
+Menú de filtres:
+1. Modificar virus: Covid
+2. Modificar regió: sense filtre
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 2
+1. A (2000 inhab.)
+2. B (2000 inhab.)
+3. C (2000 inhab.)
+
+Número de la regió a posar com a filtre (0 per tornar al menú): 1
+Menú de filtres:
+1. Modificar virus: Covid
+2. Modificar regió: A
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 0
+Tick: 24
+Presència del virus Covid a la regió A:
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 72 (+39)
+                Morts des del pas anterior: 5
+                Nous contagis: 78
+                Taxa de transmissió: 0.23076923
+        Evolució des de l'inici:
+                Total de contagis: 1871
+                Total de morts: 90
+                Total de malalts: 862
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 25
+Presència del virus Covid a la regió A:
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 72 (+39)
+                Morts des del pas anterior: 5
+                Nous contagis: 78
+                Taxa de transmissió: 0.23076923
+        Evolució des de l'inici:
+                Total de contagis: 1950
+                Total de morts: 95
+                Total de malalts: 901
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 26
+Presència del virus Covid a la regió A:
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 72 (+39)
+                Morts des del pas anterior: 4
+                Nous contagis: 78
+                Taxa de transmissió: 0.231454
+        Evolució des de l'inici:
+                Total de contagis: 2028
+                Total de morts: 99
+                Total de malalts: 940
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 27
+Presència del virus Covid a la regió A:
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 72 (+39)
+                Morts des del pas anterior: 4
+                Nous contagis: 77
+                Taxa de transmissió: 0.22985074
+        Evolució des de l'inici:
+                Total de contagis: 2104
+                Total de morts: 103
+                Total de malalts: 979
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 4
+1. A (2000 inhab.)
+2. B (2000 inhab.)
+3. C (2000 inhab.)
+
+Número de la regió on aplicar la vacuna (0 per tornar al menú): 1
+1. HVC_Covid_Delta (inhibidora)
+
+Número de la vacuna a aplicar (0 per tornar al menú): 1
+Entra el percentatge de població al que aplicar la vacuna (0-100, 0 per tornar al menú): 100
+Tick: 27
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (80 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 72 (+39)
+                Morts des del pas anterior: 4
+                Nous contagis: 77
+                Taxa de transmissió: 0.22985074
+        Evolució des de l'inici:
+                Total de contagis: 2104
+                Total de morts: 103
+                Total de malalts: 979
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 28
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (79 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 71 (+38)
+                Morts des del pas anterior: 4
+                Nous contagis: 76
+                Taxa de transmissió: 0.22891566
+        Evolució des de l'inici:
+                Total de contagis: 2179
+                Total de morts: 107
+                Total de malalts: 1017
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 29
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (78 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 70 (+38)
+                Morts des del pas anterior: 4
+                Nous contagis: 76
+                Taxa de transmissió: 0.23030303
+        Evolució des de l'inici:
+                Total de contagis: 2255
+                Total de morts: 111
+                Total de malalts: 1055
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 30
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (77 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 69 (+38)
+                Morts des del pas anterior: 5
+                Nous contagis: 75
+                Taxa de transmissió: 0.2293578
+        Evolució des de l'inici:
+                Total de contagis: 2330
+                Total de morts: 116
+                Total de malalts: 1093
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 31
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (76 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 70 (+38)
+                Morts des del pas anterior: 4
+                Nous contagis: 22
+                Taxa de transmissió: 0.07746479
+        Evolució des de l'inici:
+                Total de contagis: 2363
+                Total de morts: 120
+                Total de malalts: 1131
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 32
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (75 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 69 (+37)
+                Morts des del pas anterior: 4
+                Nous contagis: 22
+                Taxa de transmissió: 0.088
+        Evolució des de l'inici:
+                Total de contagis: 2406
+                Total de morts: 124
+                Total de malalts: 1168
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 33
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (74 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 54 (+22)
+                Morts des del pas anterior: 4
+                Nous contagis: 20
+                Taxa de transmissió: 0.0921659
+        Evolució des de l'inici:
+                Total de contagis: 2448
+                Total de morts: 128
+                Total de malalts: 1190
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 34
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (73 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 42 (+21)
+                Morts des del pas anterior: 2
+                Nous contagis: 16
+                Taxa de transmissió: 0.08839779
+        Evolució des de l'inici:
+                Total de contagis: 2483
+                Total de morts: 130
+                Total de malalts: 1211
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 35
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (72 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 38 (+19)
+                Morts des del pas anterior: 3
+                Nous contagis: 14
+                Taxa de transmissió: 0.09271523
+        Evolució des de l'inici:
+                Total de contagis: 2514
+                Total de morts: 133
+                Total de malalts: 1230
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 36
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (71 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 33 (+16)
+                Morts des del pas anterior: 2
+                Nous contagis: 13
+                Taxa de transmissió: 0.0942029
+        Evolució des de l'inici:
+                Total de contagis: 2544
+                Total de morts: 135
+                Total de malalts: 1246
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 37
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (70 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 29 (+14)
+                Morts des del pas anterior: 2
+                Nous contagis: 12
+                Taxa de transmissió: 0.096
+        Evolució des de l'inici:
+                Total de contagis: 2572
+                Total de morts: 137
+                Total de malalts: 1260
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 38
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (69 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 27 (+14)
+                Morts des del pas anterior: 1
+                Nous contagis: 11
+                Taxa de transmissió: 0.0990991
+        Evolució des de l'inici:
+                Total de contagis: 2596
+                Total de morts: 138
+                Total de malalts: 1274
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 39
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (68 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 25 (+12)
+                Morts des del pas anterior: 1
+                Nous contagis: 10
+                Taxa de transmissió: 0.1
+        Evolució des de l'inici:
+                Total de contagis: 2617
+                Total de morts: 139
+                Total de malalts: 1286
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 40
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (67 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 22 (+11)
+                Morts des del pas anterior: 1
+                Nous contagis: 9
+                Taxa de transmissió: 0.0989011
+        Evolució des de l'inici:
+                Total de contagis: 2638
+                Total de morts: 140
+                Total de malalts: 1297
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 41
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (66 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 20 (+10)
+                Morts des del pas anterior: 1
+                Nous contagis: 8
+                Taxa de transmissió: 0.09638554
+        Evolució des de l'inici:
+                Total de contagis: 2656
+                Total de morts: 141
+                Total de malalts: 1307
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 42
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (65 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 18 (+9)
+                Morts des del pas anterior: 1
+                Nous contagis: 7
+                Taxa de transmissió: 0.09210526
+        Evolució des de l'inici:
+                Total de contagis: 2673
+                Total de morts: 142
+                Total de malalts: 1316
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 43
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (64 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 18 (+8)
+                Morts des del pas anterior: 1
+                Nous contagis: 7
+                Taxa de transmissió: 0.09859155
+        Evolució des de l'inici:
+                Total de contagis: 2688
+                Total de morts: 143
+                Total de malalts: 1324
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 44
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (63 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 15 (+7)
+                Morts des del pas anterior: 1
+                Nous contagis: 6
+                Taxa de transmissió: 0.092307694
+        Evolució des de l'inici:
+                Total de contagis: 2702
+                Total de morts: 144
+                Total de malalts: 1331
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 45
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (62 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 14 (+7)
+                Morts des del pas anterior: 0
+                Nous contagis: 6
+                Taxa de transmissió: 0.09836066
+        Evolució des de l'inici:
+                Total de contagis: 2717
+                Total de morts: 144
+                Total de malalts: 1338
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 46
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (61 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 14 (+7)
+                Morts des del pas anterior: 0
+                Nous contagis: 5
+                Taxa de transmissió: 0.0877193
+        Evolució des de l'inici:
+                Total de contagis: 2729
+                Total de morts: 144
+                Total de malalts: 1345
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 47
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (60 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 13 (+6)
+                Morts des del pas anterior: 0
+                Nous contagis: 5
+                Taxa de transmissió: 0.09259259
+        Evolució des de l'inici:
+                Total de contagis: 2740
+                Total de morts: 144
+                Total de malalts: 1351
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 48
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (59 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 12 (+6)
+                Morts des del pas anterior: 0
+                Nous contagis: 5
+                Taxa de transmissió: 0.10204082
+        Evolució des de l'inici:
+                Total de contagis: 2751
+                Total de morts: 144
+                Total de malalts: 1357
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 49
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (58 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 11 (+5)
+                Morts des del pas anterior: 0
+                Nous contagis: 4
+                Taxa de transmissió: 0.08888889
+        Evolució des de l'inici:
+                Total de contagis: 2760
+                Total de morts: 144
+                Total de malalts: 1362
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 3
+Nombre de ticks a generar (1-20, 0 per sortir): 20
+Tick: 69
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (38 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 2 (+1)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 2872
+                Total de morts: 144
+                Total de malalts: 1419
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 3
+Nombre de ticks a generar (1-20, 0 per sortir): 20
+Tick: 89
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (18 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 2897
+                Total de morts: 144
+                Total de malalts: 1427
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 90
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (17 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 2899
+                Total de morts: 144
+                Total de malalts: 1427
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 91
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (16 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 1 (+1)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 2901
+                Total de morts: 144
+                Total de malalts: 1428
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 92
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (15 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 2 (+1)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 2901
+                Total de morts: 144
+                Total de malalts: 1429
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 93
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (14 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 1 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 2903
+                Total de morts: 144
+                Total de malalts: 1429
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 94
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (13 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 2904
+                Total de morts: 144
+                Total de malalts: 1429
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 95
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (12 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 2906
+                Total de morts: 144
+                Total de malalts: 1429
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 96
+Presència del virus Covid a la regió A:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (11 ticks restants)
+        Habitants: 2000
+        Turistes: 480
+        Situació en aquest moment:
+                Nombre de malalts: 1 (+1)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 2906
+                Total de morts: 144
+                Total de malalts: 1430
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 1
+Menú de filtres:
+1. Modificar virus: Covid
+2. Modificar regió: A
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 2
+Menú de filtres:
+1. Modificar virus: Covid
+2. Modificar regió: sense filtre
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 2
+1. A (2000 inhab.)
+2. B (2000 inhab.)
+3. C (2000 inhab.)
+
+Número de la regió a posar com a filtre (0 per tornar al menú): 2
+Menú de filtres:
+1. Modificar virus: Covid
+2. Modificar regió: B
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 2
+Menú de filtres:
+1. Modificar virus: Covid
+2. Modificar regió: sense filtre
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 2
+1. A (2000 inhab.)
+2. B (2000 inhab.)
+3. C (2000 inhab.)
+
+Número de la regió a posar com a filtre (0 per tornar al menú): 3
+Menú de filtres:
+1. Modificar virus: Covid
+2. Modificar regió: C
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 0
+Tick: 96
+Presència del virus Covid a la regió C:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 4 (+2)
+                Morts des del pas anterior: 0
+                Nous contagis: 5
+                Taxa de transmissió: 0.25
+        Evolució des de l'inici:
+                Total de contagis: 2714
+                Total de morts: 131
+                Total de malalts: 1325
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 97
+Presència del virus Covid a la regió C:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 4 (+2)
+                Morts des del pas anterior: 0
+                Nous contagis: 5
+                Taxa de transmissió: 0.23809524
+        Evolució des de l'inici:
+                Total de contagis: 2719
+                Total de morts: 131
+                Total de malalts: 1327
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 98
+Presència del virus Covid a la regió C:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 4 (+2)
+                Morts des del pas anterior: 0
+                Nous contagis: 6
+                Taxa de transmissió: 0.2857143
+        Evolució des de l'inici:
+                Total de contagis: 2723
+                Total de morts: 131
+                Total de malalts: 1329
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 99
+Presència del virus Covid a la regió C:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 4 (+2)
+                Morts des del pas anterior: 0
+                Nous contagis: 6
+                Taxa de transmissió: 0.2857143
+        Evolució des de l'inici:
+                Total de contagis: 2727
+                Total de morts: 131
+                Total de malalts: 1331
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 100
+Presència del virus Covid a la regió C:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 4 (+2)
+                Morts des del pas anterior: 0
+                Nous contagis: 6
+                Taxa de transmissió: 0.3
+        Evolució des de l'inici:
+                Total de contagis: 2731
+                Total de morts: 131
+                Total de malalts: 1333
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 101
+Presència del virus Covid a la regió C:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 4 (+2)
+                Morts des del pas anterior: 0
+                Nous contagis: 5
+                Taxa de transmissió: 0.25
+        Evolució des de l'inici:
+                Total de contagis: 2736
+                Total de morts: 131
+                Total de malalts: 1335
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 102
+Presència del virus Covid a la regió C:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 4 (+2)
+                Morts des del pas anterior: 0
+                Nous contagis: 5
+                Taxa de transmissió: 0.2631579
+        Evolució des de l'inici:
+                Total de contagis: 2739
+                Total de morts: 131
+                Total de malalts: 1337
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 103
+Presència del virus Covid a la regió C:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 4 (+2)
+                Morts des del pas anterior: 0
+                Nous contagis: 6
+                Taxa de transmissió: 0.3
+        Evolució des de l'inici:
+                Total de contagis: 2744
+                Total de morts: 131
+                Total de malalts: 1339
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 104
+Presència del virus Covid a la regió C:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 4 (+2)
+                Morts des del pas anterior: 0
+                Nous contagis: 6
+                Taxa de transmissió: 0.3
+        Evolució des de l'inici:
+                Total de contagis: 2748
+                Total de morts: 131
+                Total de malalts: 1341
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 105
+Presència del virus Covid a la regió C:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 4 (+2)
+                Morts des del pas anterior: 0
+                Nous contagis: 5
+                Taxa de transmissió: 0.25
+        Evolució des de l'inici:
+                Total de contagis: 2753
+                Total de morts: 131
+                Total de malalts: 1343
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 3
+Nombre de ticks a generar (1-20, 0 per sortir): 20
+Tick: 125
+Presència del virus Covid a la regió C:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 8 (+4)
+                Morts des del pas anterior: 0
+                Nous contagis: 10
+                Taxa de transmissió: 0.23809524
+        Evolució des de l'inici:
+                Total de contagis: 2871
+                Total de morts: 131
+                Total de malalts: 1392
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 3
+Nombre de ticks a generar (1-20, 0 per sortir): 20
+Tick: 145
+Presència del virus Covid a la regió C:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 37 (+19)
+                Morts des del pas anterior: 2
+                Nous contagis: 42
+                Taxa de transmissió: 0.23333333
+        Evolució des de l'inici:
+                Total de contagis: 3386
+                Total de morts: 147
+                Total de malalts: 1612
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 4
+1. A (2000 inhab.)
+2. B (2000 inhab.)
+3. C (2000 inhab.)
+
+Número de la regió on aplicar la vacuna (0 per tornar al menú): 3
+1. HVC_Covid_Delta (inhibidora)
+
+Número de la vacuna a aplicar (0 per tornar al menú): 1
+Entra el percentatge de població al que aplicar la vacuna (0-100, 0 per tornar al menú): 90
+Tick: 145
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (80 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 37 (+19)
+                Morts des del pas anterior: 2
+                Nous contagis: 42
+                Taxa de transmissió: 0.23333333
+        Evolució des de l'inici:
+                Total de contagis: 3386
+                Total de morts: 147
+                Total de malalts: 1612
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 146
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (79 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 38 (+20)
+                Morts des del pas anterior: 2
+                Nous contagis: 43
+                Taxa de transmissió: 0.2311828
+        Evolució des de l'inici:
+                Total de contagis: 3429
+                Total de morts: 149
+                Total de malalts: 1632
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 147
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (78 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 41 (+21)
+                Morts des del pas anterior: 2
+                Nous contagis: 45
+                Taxa de transmissió: 0.22959183
+        Evolució des de l'inici:
+                Total de contagis: 3475
+                Total de morts: 151
+                Total de malalts: 1653
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 148
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (77 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 43 (+22)
+                Morts des del pas anterior: 2
+                Nous contagis: 47
+                Taxa de transmissió: 0.2292683
+        Evolució des de l'inici:
+                Total de contagis: 3523
+                Total de morts: 153
+                Total de malalts: 1675
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 149
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (76 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 43 (+22)
+                Morts des del pas anterior: 2
+                Nous contagis: 17
+                Taxa de transmissió: 0.09189189
+        Evolució des de l'inici:
+                Total de contagis: 3545
+                Total de morts: 155
+                Total de malalts: 1697
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 150
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (75 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 44 (+23)
+                Morts des del pas anterior: 2
+                Nous contagis: 18
+                Taxa de transmissió: 0.10526316
+        Evolució des de l'inici:
+                Total de contagis: 3574
+                Total de morts: 157
+                Total de malalts: 1720
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 151
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (74 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 38 (+15)
+                Morts des del pas anterior: 2
+                Nous contagis: 17
+                Taxa de transmissió: 0.10691824
+        Evolució des de l'inici:
+                Total de contagis: 3605
+                Total de morts: 159
+                Total de malalts: 1735
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 152
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (73 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 32 (+16)
+                Morts des del pas anterior: 1
+                Nous contagis: 15
+                Taxa de transmissió: 0.1056338
+        Evolució des de l'inici:
+                Total de contagis: 3633
+                Total de morts: 160
+                Total de malalts: 1751
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 153
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (72 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 31 (+15)
+                Morts des del pas anterior: 2
+                Nous contagis: 13
+                Taxa de transmissió: 0.1015625
+        Evolució des de l'inici:
+                Total de contagis: 3658
+                Total de morts: 162
+                Total de malalts: 1766
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 154
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (71 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 29 (+13)
+                Morts des del pas anterior: 1
+                Nous contagis: 13
+                Taxa de transmissió: 0.10743801
+        Evolució des de l'inici:
+                Total de contagis: 3683
+                Total de morts: 163
+                Total de malalts: 1779
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 155
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (70 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 27 (+12)
+                Morts des del pas anterior: 1
+                Nous contagis: 12
+                Taxa de transmissió: 0.10526316
+        Evolució des de l'inici:
+                Total de contagis: 3706
+                Total de morts: 164
+                Total de malalts: 1791
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 156
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (69 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 25 (+12)
+                Morts des del pas anterior: 1
+                Nous contagis: 11
+                Taxa de transmissió: 0.10576923
+        Evolució des de l'inici:
+                Total de contagis: 3727
+                Total de morts: 165
+                Total de malalts: 1803
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 157
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (68 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 23 (+11)
+                Morts des del pas anterior: 1
+                Nous contagis: 11
+                Taxa de transmissió: 0.114583336
+        Evolució des de l'inici:
+                Total de contagis: 3746
+                Total de morts: 166
+                Total de malalts: 1814
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 158
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (67 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 20 (+10)
+                Morts des del pas anterior: 1
+                Nous contagis: 9
+                Taxa de transmissió: 0.10344828
+        Evolució des de l'inici:
+                Total de contagis: 3764
+                Total de morts: 167
+                Total de malalts: 1824
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 3
+Nombre de ticks a generar (1-20, 0 per sortir): 10
+Tick: 168
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (57 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 11 (+5)
+                Morts des del pas anterior: 0
+                Nous contagis: 5
+                Taxa de transmissió: 0.104166664
+        Evolució des de l'inici:
+                Total de contagis: 3895
+                Total de morts: 172
+                Total de malalts: 1893
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 3
+Nombre de ticks a generar (1-20, 0 per sortir): 10
+Tick: 178
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (47 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 8 (+4)
+                Morts des del pas anterior: 0
+                Nous contagis: 4
+                Taxa de transmissió: 0.114285715
+        Evolució des de l'inici:
+                Total de contagis: 3985
+                Total de morts: 172
+                Total de malalts: 1937
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 3
+Nombre de ticks a generar (1-20, 0 per sortir): 10
+Tick: 188
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (37 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 4 (+2)
+                Morts des del pas anterior: 0
+                Nous contagis: 2
+                Taxa de transmissió: 0.0952381
+        Evolució des de l'inici:
+                Total de contagis: 4042
+                Total de morts: 172
+                Total de malalts: 1965
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 3
+Nombre de ticks a generar (1-20, 0 per sortir): 10
+Tick: 198
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (27 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 2 (+1)
+                Morts des del pas anterior: 0
+                Nous contagis: 1
+                Taxa de transmissió: 0.1
+        Evolució des de l'inici:
+                Total de contagis: 4077
+                Total de morts: 172
+                Total de malalts: 1982
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 3
+Nombre de ticks a generar (1-20, 0 per sortir): 10
+Tick: 208
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (17 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4087
+                Total de morts: 172
+                Total de malalts: 1983
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 3
+Nombre de ticks a generar (1-20, 0 per sortir): 10
+Tick: 218
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (7 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4097
+                Total de morts: 172
+                Total de malalts: 1983
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 3
+Nombre de ticks a generar (1-20, 0 per sortir): 20
+Tick: 238
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (-3 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 4 (+2)
+                Morts des del pas anterior: 0
+                Nous contagis: 6
+                Taxa de transmissió: 0.24
+        Evolució des de l'inici:
+                Total de contagis: 4150
+                Total de morts: 172
+                Total de malalts: 1996
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 3
+Nombre de ticks a generar (1-20, 0 per sortir): 20
+Tick: 258
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (-3 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 21 (+11)
+                Morts des del pas anterior: 1
+                Nous contagis: 25
+                Taxa de transmissió: 0.24271844
+        Evolució des de l'inici:
+                Total de contagis: 4441
+                Total de morts: 177
+                Total de malalts: 2117
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 259
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (-3 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 21 (+11)
+                Morts des del pas anterior: 1
+                Nous contagis: 26
+                Taxa de transmissió: 0.24074075
+        Evolució des de l'inici:
+                Total de contagis: 4467
+                Total de morts: 178
+                Total de malalts: 2128
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 260
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (-3 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 22 (+12)
+                Morts des del pas anterior: 1
+                Nous contagis: 27
+                Taxa de transmissió: 0.23684211
+        Evolució des de l'inici:
+                Total de contagis: 4495
+                Total de morts: 179
+                Total de malalts: 2140
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 261
+Presència del virus Covid a la regió C:
+        Vacuna aplicada: HVC_Covid_Delta (inhibidora) (-3 ticks restants)
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 25 (+13)
+                Morts des del pas anterior: 1
+                Nous contagis: 30
+                Taxa de transmissió: 0.24193548
+        Evolució des de l'inici:
+                Total de contagis: 4525
+                Total de morts: 180
+                Total de malalts: 2153
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 8

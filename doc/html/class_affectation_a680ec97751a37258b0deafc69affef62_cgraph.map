@@ -1,0 +1,11 @@
+<map id="Affectation.symptom" name="Affectation.symptom">
+<area shape="rect" id="node1" title=" " alt="" coords="5,148,164,175"/>
+<area shape="rect" id="node2" href="$class_affectation.html#a7c2ad2c02e5e6006579d36a6c17d1963" title="Si escau, compta totes les persones de l&#39;afectació i les classifica." alt="" coords="212,148,345,175"/>
+<area shape="rect" id="node3" href="$class_affectation.html#a9f712a2d66b4e669f8936fb6219e22cc" title="Compta les persones d&#39;un grup." alt="" coords="428,123,600,149"/>
+<area shape="rect" id="node9" href="$class_affectation_1_1_group_iterator.html#a9115510dedd985cacd4a88892ea252d3" title=" " alt="" coords="393,173,635,200"/>
+<area shape="rect" id="node4" href="$class_affected_group.html#abc499fd578a976463de333fd2860cde3" title=" " alt="" coords="698,5,870,32"/>
+<area shape="rect" id="node5" href="$class_affected_group.html#acec8e31f7003302c498d257297691ee2" title=" " alt="" coords="689,57,879,98"/>
+<area shape="rect" id="node6" href="$class_affected_group.html#a2d651690a6190b3d56bdc4776ab1756d" title=" " alt="" coords="703,123,865,149"/>
+<area shape="rect" id="node7" href="$class_affected_group.html#ae37ebfd65be4fc23bc4050523ccf53ec" title=" " alt="" coords="683,173,885,200"/>
+<area shape="rect" id="node8" href="$class_affected_group.html#a5205e962b34ceab08bcadb9956051d3b" title=" " alt="" coords="702,224,866,251"/>
+</map>

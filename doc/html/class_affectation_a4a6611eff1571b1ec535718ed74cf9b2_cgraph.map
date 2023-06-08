@@ -1,0 +1,4 @@
+<map id="Affectation.findGroup" name="Affectation.findGroup">
+<area shape="rect" id="node1" title="Cerca un grup d&#39;afectats de les mateixes característiques que el grup passat per paràmetre." alt="" coords="5,5,165,32"/>
+<area shape="rect" id="node2" href="$class_affected_group.html#a2823fc9737f9a359087e2367386ed7ec" title="Determina si ambdós grups són iguals en termes d&#39;estats i períodes." alt="" coords="213,5,376,32"/>
+</map>

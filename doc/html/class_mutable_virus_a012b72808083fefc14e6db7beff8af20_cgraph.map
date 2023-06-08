@@ -1,0 +1,13 @@
+<map id="MutableVirus.MutableVirus" name="MutableVirus.MutableVirus">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,233,204,260"/>
+<area shape="rect" id="node2" href="$class_virus.html#a9023fe67dae6b13105089fd24d3ea83e" title="Retorna la taxa de mortalitat del virus." alt="" coords="278,5,405,32"/>
+<area shape="rect" id="node3" href="$class_virus.html#a465e90526c449c17f7ee244960170c7a" title="Retorna la probabilitat d&#39;agafar el virus." alt="" coords="253,56,430,83"/>
+<area shape="rect" id="node4" href="$class_virus.html#a09ee51daad4bf97394ff3331e911edf3" title="Retorna la família a la qual pertany el virus." alt="" coords="291,107,392,133"/>
+<area shape="rect" id="node5" href="$class_virus.html#a28e0bf3e096e2f690b5a994944292dd0" title="Retorna la durada en ticks del període d&#39;immunitat." alt="" coords="252,157,431,184"/>
+<area shape="rect" id="node6" href="$class_virus.html#a2a8d16a122f19b0bfdbdb26906133f4d" title="Retorna la durada en ticks que es tarda a incubar el virus." alt="" coords="261,208,421,235"/>
+<area shape="rect" id="node7" href="$class_virus.html#ab2cb17638d5c9f7851997d1ede032af5" title="Retorna la durada en ticks de la infecció." alt="" coords="255,259,427,285"/>
+<area shape="rect" id="node8" href="$class_virus.html#ac140513e7ebb7b877bb9d6ffccd7eba5" title="Retorna la durada en ticks del període de latència." alt="" coords="271,309,411,336"/>
+<area shape="rect" id="node9" href="$class_virus.html#af2300113b3c2068f7957e1cf31203182" title="Retorna el nom del virus." alt="" coords="293,360,389,387"/>
+<area shape="rect" id="node10" href="$class_virus.html#a1c61bb89a329cdc7af7bcbd6cb99af76" title="Retorna la taxa de contagi del virus." alt="" coords="275,411,408,437"/>
+<area shape="rect" id="node11" href="$class_virus.html#acf31eb9fd53d1bac8f6f2da768c5434d" title="Retorna la durada en ticks dels símptomes." alt="" coords="253,461,430,488"/>
+</map>

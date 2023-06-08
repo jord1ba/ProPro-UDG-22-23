@@ -1,0 +1,13 @@
+<map id="Launcher" name="Launcher">
+<area shape="rect" id="node1" title="Launcher de l&#39;aplicació. S&#39;encarrega de gestionar tant el Thread del JavaFX com el Thread de l&#39;execuc..." alt="" coords="659,204,740,231"/>
+<area shape="rect" id="node2" title=" " alt="" coords="399,153,493,180"/>
+<area shape="rect" id="node3" href="$class_graph_chart_data.html" title="Classe encarregada de gestionar tota la interacció externa amb les dades del Graf i dels Charts...." alt="" coords="383,204,509,231"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,217,61"/>
+<area shape="rect" id="node5" title=" " alt="" coords="32,87,191,129"/>
+<area shape="rect" id="node6" title=" " alt="" coords="79,153,144,180"/>
+<area shape="rect" id="node7" title=" " alt="" coords="37,204,185,231"/>
+<area shape="rect" id="node8" title=" " alt="" coords="28,255,195,281"/>
+<area shape="rect" id="node9" title=" " alt="" coords="15,317,208,358"/>
+<area shape="rect" id="node10" title=" " alt="" coords="15,382,207,423"/>
+<area shape="rect" id="node11" title=" " alt="" coords="397,255,495,281"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="Launcher.start" name="Launcher.start">
+<area shape="rect" id="node1" title="&quot;Main&quot; del programa. Segueix l&#39;estructura d&#39;una aplicació de JavaFX." alt="" coords="5,227,120,254"/>
+<area shape="rect" id="node2" href="$class_graph_chart_data.html#aab913bf7136efb9368e00b69fea63601" title="Donat un iterador de Regions, afegeix totes les relacions de veïnes com a arestes al graf." alt="" coords="190,101,385,127"/>
+<area shape="rect" id="node3" href="$class_graph_chart_data.html#abc4dd2131217494e39341b1efe5bfdb3" title="Donat un iterador de Regions, afegeix totes les regions com a vèrtexs del graf." alt="" coords="185,151,389,178"/>
+<area shape="rect" id="node4" href="$class_launcher.html#aeef41e7d3e9d73ff7ab335422813b31b" title="Genera l&#39;AnchorPane dels PieCharts." alt="" coords="168,202,407,229"/>
+<area shape="rect" id="node10" href="$class_interact.html#a00677a425ea91af2a4fddd78a50bc955" title="Demana, llegeix i retorna una ruta al directori on hi ha els fitxers d&#39;entrada." alt="" coords="193,253,381,279"/>
+<area shape="rect" id="node11" href="$class_launcher.html#a44bcb687390ca0d7e7daa8b39546e51d" title="Genera els readers donat un directori de lectura." alt="" coords="216,435,359,462"/>
+<area shape="rect" id="node18" href="$class_simulation.html#a02e032008572aeb9e9a220931d2454e0" title="Getter de la llista de regions." alt="" coords="207,562,367,589"/>
+<area shape="rect" id="node5" href="$class_graph_chart_data.html#a8f794e9c6c758a3877d304dea6ccd235" title=" " alt="" coords="455,5,671,47"/>
+<area shape="rect" id="node6" href="$class_graph_chart_data.html#acec6368ce85ab36521751263682b8389" title=" " alt="" coords="461,71,665,112"/>
+<area shape="rect" id="node7" href="$class_graph_chart_data.html#ad18ef6721458d9864cb0cd91e9f40ed5" title="Mètode per obtenir l&#39;objecte del PieChart." alt="" coords="465,136,661,177"/>
+<area shape="rect" id="node8" href="$class_graph_chart_data.html#afac92d13fae1562e2671acf4a6ee105f" title="Mètode per obtenir l&#39;objecte del PieChart." alt="" coords="459,202,666,229"/>
+<area shape="rect" id="node9" href="$class_graph_chart_data.html#a80abf6952f79c2a87a8793e1d51996da" title="Mètode per obtenir l&#39;objecte del PieChart." alt="" coords="459,253,666,295"/>
+<area shape="rect" id="node12" href="$class_initial_state_reader.html#a7c07c7ef2bf85934b4f8103d81469193" title="Getter de la llista de dades dels estats inicials." alt="" coords="465,319,660,360"/>
+<area shape="rect" id="node13" href="$class_virus_reader.html#ae327e12e68e54a297587ff0f76046bbc" title="Getter de la llista de dades de famílies de virus." alt="" coords="484,385,641,411"/>
+<area shape="rect" id="node14" href="$class_region_reader.html#a05ca55ad662a7e79506b89ac61732f46" title="Getter de la llista de dades de relacions de veïnatge." alt="" coords="469,435,657,462"/>
+<area shape="rect" id="node15" href="$class_region_reader.html#a37ec100bcbbba60ebf96bcf65fd1573e" title="Getter de la llista de dades de regions." alt="" coords="481,486,645,513"/>
+<area shape="rect" id="node16" href="$class_vaccine_reader.html#a91f872c41e7ce5c5848e70569621e81e" title="Getter de la llista de dades de vacunes." alt="" coords="473,537,652,563"/>
+<area shape="rect" id="node17" href="$class_virus_reader.html#a8f21e2f0ef60fa0eb37eed26bd596429" title="Getter de la llista de dades de virus." alt="" coords="487,587,638,614"/>
+<area shape="rect" id="node19" href="$class_territory.html#a1fd2a35910162ce925f17a2a79467d20" title=" " alt="" coords="491,638,634,665"/>
+</map>

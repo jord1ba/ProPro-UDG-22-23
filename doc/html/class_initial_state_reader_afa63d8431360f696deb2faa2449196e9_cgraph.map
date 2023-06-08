@@ -1,0 +1,4 @@
+<map id="InitialStateReader.InitialStateReader" name="InitialStateReader.InitialStateReader">
+<area shape="rect" id="node1" title="Llegeix el fitxer FILENAME i guarda les dades llegides." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$class_initial_state_reader.html#a0cde68be04e39f92bfc992f578ed07be" title="Llegeix a través de read la informació sobre els estats inicials fins a acabar el fitxer." alt="" coords="232,5,440,47"/>
+</map>

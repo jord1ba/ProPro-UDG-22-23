@@ -1,0 +1,14 @@
+<map id="Virus.spreadRate" name="Virus.spreadRate">
+<area shape="rect" id="node1" title="Retorna la taxa de contagi del virus." alt="" coords="985,143,1119,170"/>
+<area shape="rect" id="node2" href="$class_mutable_virus.html#a012b72808083fefc14e6db7beff8af20" title="Constructor." alt="" coords="739,78,937,105"/>
+<area shape="rect" id="node7" href="$class_affectation.html#a52bac94fadac45ee7ed7891fc737a56d" title="Propaga el virus dins l&#39;afectació." alt="" coords="740,143,936,170"/>
+<area shape="rect" id="node12" href="$class_virus.html#a6e27ed9f926044027e3864c36a86ba84" title="Constructor base amb totes les dades." alt="" coords="792,194,884,221"/>
+<area shape="rect" id="node3" href="$class_mutable_virus.html#a1be4bb53d260792e7d49f17a992b7cbc" title="Crea una mutació per error de còpia." alt="" coords="480,5,691,47"/>
+<area shape="rect" id="node5" href="$class_mutable_virus.html#ac3b11e6b08a90bd5e109a85a5c1e72e5" title="Crea una mutació per família donats dos MutableVirus." alt="" coords="480,71,691,112"/>
+<area shape="rect" id="node4" href="$class_mutable_virus.html#a08408424d9af878eeaedf078d037f454" title="Propaga el virus en una regió específica." alt="" coords="221,13,431,39"/>
+<area shape="rect" id="node6" href="$class_mutable_virus.html#aae72ceb7254d92851e6cf481b39599f7" title="Determina el funcionament en cas de coincidència de virus de la mateixa família en un grup de persone..." alt="" coords="220,78,432,105"/>
+<area shape="rect" id="node8" href="$class_region.html#a4d94a3fb6214962bdf5fbdd09edad438" title="Distribueix la proporció de persones malaltes uniformement en la duració dels símptomes del virus en ..." alt="" coords="492,136,679,177"/>
+<area shape="rect" id="node11" href="$class_region.html#adfc1d0c1fd17d13ddb070e5bed408517" title="Propaga els virus en aquesta regió." alt="" coords="517,202,654,229"/>
+<area shape="rect" id="node9" href="$class_simulation.html#a25ce209560f3f2ae23643a6d4fe96198" title="A partir de les dades de les families crea la llista d&#39;objectes de tipus Region." alt="" coords="221,143,431,170"/>
+<area shape="rect" id="node10" href="$class_simulation.html#a84d2e11489e9d0c719e5e2a0bf39e636" title="Constructor de la simulació." alt="" coords="5,143,172,170"/>
+</map>

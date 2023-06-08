@@ -1,0 +1,4 @@
+<map id="Filter.generalData" name="Filter.generalData">
+<area shape="rect" id="node1" title="Retorna el conjunt d&#39;informació genèrica dels elements del log()" alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr..." alt="" coords="192,5,271,32"/>
+</map>

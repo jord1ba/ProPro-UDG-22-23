@@ -1,0 +1,6 @@
+<map id="Filter.deleteRegionFilter" name="Filter.deleteRegionFilter">
+<area shape="rect" id="node1" title="Setter per suprimir el filtre per regió (n&#39;hi hagi o no)." alt="" coords="740,5,917,32"/>
+<area shape="rect" id="node2" href="$class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="253,5,433,32"/>
+<area shape="rect" id="node4" href="$class_command_line.html#a30049051db2a658426551808e9d46bd7" title="Actualitza el filtre de regions." alt="" coords="481,27,692,69"/>
+<area shape="rect" id="node3" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,5,205,32"/>
+</map>

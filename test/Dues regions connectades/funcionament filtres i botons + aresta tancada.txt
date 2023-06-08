@@ -1,0 +1,2400 @@
+Si us plau, entreu el directori on es troben els fitxers d'entrada:
+inputfiles
+Tick: 0
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 187 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 186
+                Total de morts: 4
+                Total de malalts: 187
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 6
+Tick: 0
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 64 (+0)
+                Total de contagiosos al llarg de l'execució: 64 (+0)
+                Total de contagiats al llarg de l'execució: 64 (+0)
+                Total de morts al llarg de l'execució: 0 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 64 (+0) (-0)
+                        Sense símptomes: 16 (+0) (-0)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 64 (+0) (-0)
+                        No contagiosos: 16 (+0) (-0)
+                Grup d'immunes:
+                        Immunes: 20 (+0) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 123 (+0)
+                Total de contagiosos al llarg de l'execució: 122 (+0)
+                Total de contagiats al llarg de l'execució: 122 (+0)
+                Total de morts al llarg de l'execució: 4 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 123 (+0) (-0)
+                        Sense símptomes: 39 (+0) (-0)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 122 (+0) (-0)
+                        No contagiosos: 40 (+0) (-0)
+                Grup d'immunes:
+                        Immunes: 34 (+0) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 5
+Menú de confinaments:
+1. Aplicar confinament
+2. Extingir confinament
+3. Aplicar tancament
+4. Extingir tancament
+0. Tornar al menú principal
+Opció: 3
+1. A (1000 inhab.)
+2. B (2000 inhab.)
+
+Número de la regió on aplicar un tancament/confinament (0 per tornar al menú): 1
+1. B (2000 inhab.)
+
+Número de la segona regió amb la que realitzar un tancament (0 per tornar al menú): 1
+Menú de confinaments:
+1. Aplicar confinament
+2. Extingir confinament
+3. Aplicar tancament
+4. Extingir tancament
+0. Tornar al menú principal
+Opció: 0
+Tick: 0
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 187 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 186
+                Total de morts: 4
+                Total de malalts: 187
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 1
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 150 (+0)
+                Morts des del pas anterior: 1
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 346
+                Total de morts: 5
+                Total de malalts: 187
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 6
+Tick: 1
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 64 (+0)
+                Total de contagiosos al llarg de l'execució: 64 (+0)
+                Total de contagiats al llarg de l'execució: 123 (+0)
+                Total de morts al llarg de l'execució: 0 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 59 (+0) (-0)
+                        Simptomàtics: 48 (+0) (-44)
+                        Sense símptomes: 12 (+44) (-20)
+                Grup de contagiosos:
+                        Latència: 59 (+0) (-0)
+                        Contagiosos: 44 (+0) (-56)
+                        No contagiosos: 16 (+56) (-20)
+                Grup d'immunes:
+                        Immunes: 40 (+20) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 123 (+0)
+                Total de contagiosos al llarg de l'execució: 122 (+0)
+                Total de contagiats al llarg de l'execució: 223 (+0)
+                Total de morts al llarg de l'execució: 5 (+1)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 101 (+0) (-0)
+                        Simptomàtics: 102 (+0) (-69)
+                        Sense símptomes: 32 (+69) (-27)
+                Grup de contagiosos:
+                        Latència: 101 (+0) (-0)
+                        Contagiosos: 94 (+0) (-101)
+                        No contagiosos: 40 (+101) (-27)
+                Grup d'immunes:
+                        Immunes: 61 (+27) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 2
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 64 (+0)
+                Total de contagiosos al llarg de l'execució: 131 (+67)
+                Total de contagiats al llarg de l'execució: 235 (+59)
+                Total de morts al llarg de l'execució: 0 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.315508
+                Grup de simptomàtics:
+                        Incubant: 163 (+59) (-0)
+                        Simptomàtics: 32 (+0) (-68)
+                        Sense símptomes: 8 (+68) (-20)
+                Grup de contagiosos:
+                        Latència: 104 (+59) (-67)
+                        Contagiosos: 83 (+67) (-76)
+                        No contagiosos: 16 (+76) (-20)
+                Grup d'immunes:
+                        Immunes: 60 (+20) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 123 (+0)
+                Total de contagiosos al llarg de l'execució: 146 (+24)
+                Total de contagiats al llarg de l'execució: 313 (+101)
+                Total de morts al llarg de l'execució: 6 (+1)
+        Dades del tick:
+                Taxa de transmissió: 0.43534482
+                Grup de simptomàtics:
+                        Incubant: 167 (+101) (-0)
+                        Simptomàtics: 81 (+0) (-113)
+                        Sense símptomes: 24 (+113) (-28)
+                Grup de contagiosos:
+                        Latència: 167 (+101) (-24)
+                        Contagiosos: 65 (+24) (-129)
+                        No contagiosos: 40 (+129) (-28)
+                Grup d'immunes:
+                        Immunes: 89 (+28) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 3
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 111 (+47)
+                Total de contagiosos al llarg de l'execució: 294 (+163)
+                Total de contagiats al llarg de l'execució: 483 (+104)
+                Total de morts al llarg de l'execució: 0 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.2888889
+                Grup de simptomàtics:
+                        Incubant: 293 (+104) (-47)
+                        Simptomàtics: 63 (+47) (-84)
+                        Sense símptomes: 20 (+84) (-16)
+                Grup de contagiosos:
+                        Latència: 189 (+104) (-163)
+                        Contagiosos: 171 (+163) (-92)
+                        No contagiosos: 16 (+92) (-16)
+                Grup d'immunes:
+                        Immunes: 76 (+16) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 123 (+0)
+                Total de contagiosos al llarg de l'execució: 247 (+101)
+                Total de contagiats al llarg de l'execució: 455 (+66)
+                Total de morts al llarg de l'execució: 7 (+1)
+        Dades del tick:
+                Taxa de transmissió: 0.18696883
+                Grup de simptomàtics:
+                        Incubant: 309 (+66) (-0)
+                        Simptomàtics: 60 (+0) (-133)
+                        Sense símptomes: 24 (+133) (-20)
+                Grup de contagiosos:
+                        Latència: 208 (+66) (-101)
+                        Contagiosos: 145 (+101) (-149)
+                        No contagiosos: 40 (+149) (-20)
+                Grup d'immunes:
+                        Immunes: 109 (+20) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 4
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 241 (+130)
+                Total de contagiosos al llarg de l'execució: 599 (+305)
+                Total de contagiats al llarg de l'execució: 894 (+189)
+                Total de morts al llarg de l'execució: 0 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.28854963
+                Grup de simptomàtics:
+                        Incubant: 484 (+189) (-130)
+                        Simptomàtics: 130 (+130) (-112)
+                        Sense símptomes: 41 (+112) (-16)
+                Grup de contagiosos:
+                        Latència: 295 (+189) (-305)
+                        Contagiosos: 360 (+305) (-92)
+                        No contagiosos: 0 (+92) (-16)
+                Grup d'immunes:
+                        Immunes: 92 (+16) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 198 (+75)
+                Total de contagiosos al llarg de l'execució: 414 (+167)
+                Total de contagiats al llarg de l'execució: 726 (+142)
+                Total de morts al llarg de l'execució: 7 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.28230616
+                Grup de simptomàtics:
+                        Incubant: 378 (+142) (-75)
+                        Simptomàtics: 115 (+75) (-153)
+                        Sense símptomes: 50 (+153) (-20)
+                Grup de contagiosos:
+                        Latència: 312 (+142) (-167)
+                        Contagiosos: 191 (+167) (-169)
+                        No contagiosos: 40 (+169) (-20)
+                Grup d'immunes:
+                        Immunes: 129 (+20) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 5
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 475 (+234)
+                Total de contagiosos al llarg de l'execució: 1104 (+505)
+                Total de contagiats al llarg de l'execució: 1352 (+295)
+                Total de morts al llarg de l'execució: 0 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.32668883
+                Grup de simptomàtics:
+                        Incubant: 543 (+295) (-234)
+                        Simptomàtics: 281 (+234) (-133)
+                        Sense símptomes: 79 (+133) (-0)
+                Grup de contagiosos:
+                        Latència: 248 (+295) (-505)
+                        Contagiosos: 655 (+505) (-92)
+                        No contagiosos: 0 (+92) (-0)
+                Grup d'immunes:
+                        Immunes: 92 (+0) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 322 (+124)
+                Total de contagiosos al llarg de l'execució: 648 (+234)
+                Total de contagiats al llarg de l'execució: 1081 (+170)
+                Total de morts al llarg de l'execució: 8 (+1)
+        Dades del tick:
+                Taxa de transmissió: 0.22222222
+                Grup de simptomàtics:
+                        Incubant: 575 (+170) (-124)
+                        Simptomàtics: 143 (+124) (-199)
+                        Sense símptomes: 67 (+199) (-20)
+                Grup de contagiosos:
+                        Latència: 433 (+170) (-234)
+                        Contagiosos: 332 (+234) (-169)
+                        No contagiosos: 20 (+169) (-20)
+                Grup d'immunes:
+                        Immunes: 149 (+20) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 6
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 862 (+387)
+                Total de contagiosos al llarg de l'execució: 1685 (+581)
+                Total de contagiats al llarg de l'execució: 1690 (+248)
+                Total de morts al llarg de l'execució: 3 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.27647716
+                Grup de simptomàtics:
+                        Incubant: 253 (+248) (-387)
+                        Simptomàtics: 514 (+387) (-171)
+                        Sense símptomes: 130 (+171) (-8)
+                Grup de contagiosos:
+                        Latència: 5 (+248) (-581)
+                        Contagiosos: 892 (+581) (-100)
+                        No contagiosos: 0 (+100) (-8)
+                Grup d'immunes:
+                        Immunes: 100 (+8) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 477 (+155)
+                Total de contagiosos al llarg de l'execució: 977 (+329)
+                Total de contagiats al llarg de l'execució: 1558 (+263)
+                Total de morts al llarg de l'execució: 9 (+1)
+        Dades del tick:
+                Taxa de transmissió: 0.2430684
+                Grup de simptomàtics:
+                        Incubant: 751 (+263) (-155)
+                        Simptomàtics: 228 (+155) (-236)
+                        Sense símptomes: 103 (+236) (-20)
+                Grup de contagiosos:
+                        Latència: 581 (+263) (-329)
+                        Contagiosos: 501 (+329) (-169)
+                        No contagiosos: 0 (+169) (-20)
+                Grup d'immunes:
+                        Immunes: 169 (+20) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 7
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1296 (+434)
+                Total de contagiosos al llarg de l'execució: 1997 (+312)
+                Total de contagiats al llarg de l'execució: 1997 (+5)
+                Total de morts al llarg de l'execució: 7 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.0059031877
+                Grup de simptomàtics:
+                        Incubant: 5 (+5) (-434)
+                        Simptomàtics: 708 (+434) (-230)
+                        Sense símptomes: 180 (+230) (-0)
+                Grup de contagiosos:
+                        Latència: 0 (+5) (-312)
+                        Contagiosos: 847 (+312) (-146)
+                        No contagiosos: 46 (+146) (-0)
+                Grup d'immunes:
+                        Immunes: 100 (+0) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 710 (+233)
+                Total de contagiosos al llarg de l'execució: 1446 (+469)
+                Total de contagiats al llarg de l'execució: 2091 (+318)
+                Total de morts al llarg de l'execució: 12 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.2301013
+                Grup de simptomàtics:
+                        Incubant: 908 (+318) (-233)
+                        Simptomàtics: 352 (+233) (-272)
+                        Sense símptomes: 122 (+272) (-24)
+                Grup de contagiosos:
+                        Latència: 645 (+318) (-469)
+                        Contagiosos: 737 (+469) (-193)
+                        No contagiosos: 0 (+193) (-24)
+                Grup d'immunes:
+                        Immunes: 193 (+24) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 8
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1498 (+202)
+                Total de contagiosos al llarg de l'execució: 2052 (+55)
+                Total de contagiats al llarg de l'execució: 2052 (+0)
+                Total de morts al llarg de l'execució: 13 (+6)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-202)
+                        Simptomàtics: 660 (+202) (-326)
+                        Sense símptomes: 169 (+326) (-58)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-55)
+                        Contagiosos: 749 (+55) (-238)
+                        No contagiosos: 80 (+238) (-58)
+                Grup d'immunes:
+                        Immunes: 158 (+58) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1034 (+324)
+                Total de contagiosos al llarg de l'execució: 2070 (+624)
+                Total de contagiats al llarg de l'execució: 2657 (+327)
+                Total de morts al llarg de l'execució: 15 (+3)
+        Dades del tick:
+                Taxa de transmissió: 0.1995119
+                Grup de simptomàtics:
+                        Incubant: 905 (+327) (-324)
+                        Simptomàtics: 546 (+324) (-315)
+                        Sense símptomes: 188 (+315) (-0)
+                Grup de contagiosos:
+                        Latència: 587 (+327) (-624)
+                        Contagiosos: 1052 (+624) (-193)
+                        No contagiosos: 0 (+193) (-0)
+                Grup d'immunes:
+                        Immunes: 193 (+0) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 9
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1502 (+4)
+                Total de contagiosos al llarg de l'execució: 2053 (+1)
+                Total de contagiats al llarg de l'execució: 2053 (+0)
+                Total de morts al llarg de l'execució: 18 (+5)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-4)
+                        Simptomàtics: 575 (+4) (-407)
+                        Sense símptomes: 148 (+407) (-101)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-1)
+                        Contagiosos: 577 (+1) (-405)
+                        No contagiosos: 146 (+405) (-101)
+                Grup d'immunes:
+                        Immunes: 259 (+101) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1469 (+435)
+                Total de contagiosos al llarg de l'execució: 2781 (+711)
+                Total de contagiats al llarg de l'execució: 3160 (+260)
+                Total de morts al llarg de l'execució: 23 (+8)
+        Dades del tick:
+                Taxa de transmissió: 0.15476191
+                Grup de simptomàtics:
+                        Incubant: 706 (+260) (-435)
+                        Simptomàtics: 776 (+435) (-381)
+                        Sense símptomes: 268 (+381) (-0)
+                Grup de contagiosos:
+                        Latència: 379 (+260) (-711)
+                        Contagiosos: 1301 (+711) (-263)
+                        No contagiosos: 70 (+263) (-0)
+                Grup d'immunes:
+                        Immunes: 193 (+0) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 10
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1502 (+0)
+                Total de contagiosos al llarg de l'execució: 2053 (+0)
+                Total de contagiats al llarg de l'execució: 2053 (+0)
+                Total de morts al llarg de l'execució: 22 (+4)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 425 (+0) (-553)
+                        Sense símptomes: 110 (+553) (-184)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 307 (+0) (-671)
+                        No contagiosos: 228 (+671) (-184)
+                Grup d'immunes:
+                        Immunes: 443 (+184) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1952 (+483)
+                Total de contagiosos al llarg de l'execució: 3448 (+667)
+                Total de contagiats al llarg de l'execució: 3597 (+119)
+                Total de morts al llarg de l'execució: 33 (+10)
+        Dades del tick:
+                Taxa de transmissió: 0.07309582
+                Grup de simptomàtics:
+                        Incubant: 409 (+119) (-483)
+                        Simptomàtics: 1011 (+483) (-461)
+                        Sense símptomes: 324 (+461) (-26)
+                Grup de contagiosos:
+                        Latència: 149 (+119) (-667)
+                        Contagiosos: 1479 (+667) (-336)
+                        No contagiosos: 116 (+336) (-26)
+                Grup d'immunes:
+                        Immunes: 219 (+26) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 11
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1502 (+0)
+                Total de contagiosos al llarg de l'execució: 2053 (+0)
+                Total de contagiats al llarg de l'execució: 2053 (+0)
+                Total de morts al llarg de l'execució: 24 (+2)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 195 (+0) (-781)
+                        Sense símptomes: 51 (+781) (-287)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 55 (+0) (-921)
+                        No contagiosos: 191 (+921) (-287)
+                Grup d'immunes:
+                        Immunes: 730 (+287) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 2392 (+440)
+                Total de contagiosos al llarg de l'execució: 3909 (+461)
+                Total de contagiats al llarg de l'execució: 3942 (+30)
+                Total de morts al llarg de l'execució: 46 (+13)
+        Dades del tick:
+                Taxa de transmissió: 0.01996008
+                Grup de simptomàtics:
+                        Incubant: 152 (+30) (-440)
+                        Simptomàtics: 1124 (+440) (-612)
+                        Sense símptomes: 372 (+612) (-86)
+                Grup de contagiosos:
+                        Latència: 33 (+30) (-461)
+                        Contagiosos: 1470 (+461) (-451)
+                        No contagiosos: 145 (+451) (-86)
+                Grup d'immunes:
+                        Immunes: 305 (+86) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 12
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1502 (+0)
+                Total de contagiosos al llarg de l'execució: 2053 (+0)
+                Total de contagiats al llarg de l'execució: 2053 (+0)
+                Total de morts al llarg de l'execució: 24 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 4 (+0) (-972)
+                        Sense símptomes: 1 (+972) (-241)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 1 (+0) (-975)
+                        No contagiosos: 4 (+975) (-241)
+                Grup d'immunes:
+                        Immunes: 971 (+241) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 2676 (+284)
+                Total de contagiosos al llarg de l'execució: 4123 (+214)
+                Total de contagiats al llarg de l'execució: 4126 (+3)
+                Total de morts al llarg de l'execució: 59 (+13)
+        Dades del tick:
+                Taxa de transmissió: 0.002245509
+                Grup de simptomàtics:
+                        Incubant: 33 (+3) (-284)
+                        Simptomàtics: 1154 (+284) (-723)
+                        Sense símptomes: 366 (+723) (-82)
+                Grup de contagiosos:
+                        Latència: 3 (+3) (-214)
+                        Contagiosos: 1333 (+214) (-605)
+                        No contagiosos: 217 (+605) (-82)
+                Grup d'immunes:
+                        Immunes: 387 (+82) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 13
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1502 (+0)
+                Total de contagiosos al llarg de l'execució: 2053 (+0)
+                Total de contagiats al llarg de l'execució: 2053 (+0)
+                Total de morts al llarg de l'execució: 24 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-976)
+                        Sense símptomes: 0 (+976) (-5)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 0 (+0) (-976)
+                        No contagiosos: 0 (+976) (-5)
+                Grup d'immunes:
+                        Immunes: 976 (+5) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 2787 (+111)
+                Total de contagiosos al llarg de l'execució: 4186 (+63)
+                Total de contagiats al llarg de l'execució: 4186 (+0)
+                Total de morts al llarg de l'execució: 76 (+17)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 3 (+0) (-111)
+                        Simptomàtics: 1061 (+111) (-851)
+                        Sense símptomes: 331 (+851) (-141)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-63)
+                        Contagiosos: 1094 (+63) (-831)
+                        No contagiosos: 301 (+831) (-141)
+                Grup d'immunes:
+                        Immunes: 528 (+141) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 14
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1502 (+0)
+                Total de contagiosos al llarg de l'execució: 2053 (+0)
+                Total de contagiats al llarg de l'execució: 2053 (+0)
+                Total de morts al llarg de l'execució: 24 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-976)
+                        Sense símptomes: 0 (+976) (-0)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 0 (+0) (-976)
+                        No contagiosos: 0 (+976) (-0)
+                Grup d'immunes:
+                        Immunes: 976 (+0) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 2811 (+24)
+                Total de contagiosos al llarg de l'execució: 4197 (+11)
+                Total de contagiats al llarg de l'execució: 4197 (+0)
+                Total de morts al llarg de l'execució: 89 (+13)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-24)
+                        Simptomàtics: 933 (+24) (-976)
+                        Sense símptomes: 266 (+976) (-183)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-11)
+                        Contagiosos: 796 (+11) (-1117)
+                        No contagiosos: 403 (+1117) (-183)
+                Grup d'immunes:
+                        Immunes: 711 (+183) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 15
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1502 (+0)
+                Total de contagiosos al llarg de l'execució: 2053 (+0)
+                Total de contagiats al llarg de l'execució: 2053 (+0)
+                Total de morts al llarg de l'execució: 24 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-976)
+                        Sense símptomes: 0 (+976) (-0)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 0 (+0) (-976)
+                        No contagiosos: 0 (+976) (-0)
+                Grup d'immunes:
+                        Immunes: 976 (+0) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 2813 (+2)
+                Total de contagiosos al llarg de l'execució: 4198 (+1)
+                Total de contagiats al llarg de l'execució: 4198 (+0)
+                Total de morts al llarg de l'execució: 99 (+10)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-2)
+                        Simptomàtics: 742 (+2) (-1158)
+                        Sense símptomes: 186 (+1158) (-261)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-1)
+                        Contagiosos: 481 (+1) (-1422)
+                        No contagiosos: 447 (+1422) (-261)
+                Grup d'immunes:
+                        Immunes: 972 (+261) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 16
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1502 (+0)
+                Total de contagiosos al llarg de l'execució: 2053 (+0)
+                Total de contagiats al llarg de l'execució: 2053 (+0)
+                Total de morts al llarg de l'execució: 24 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-976)
+                        Sense símptomes: 0 (+976) (-0)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 0 (+0) (-976)
+                        No contagiosos: 0 (+976) (-0)
+                Grup d'immunes:
+                        Immunes: 976 (+0) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 2813 (+0)
+                Total de contagiosos al llarg de l'execució: 4198 (+0)
+                Total de contagiats al llarg de l'execució: 4198 (+0)
+                Total de morts al llarg de l'execució: 106 (+7)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 516 (+0) (-1377)
+                        Sense símptomes: 104 (+1377) (-301)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 213 (+0) (-1683)
+                        No contagiosos: 407 (+1683) (-301)
+                Grup d'immunes:
+                        Immunes: 1273 (+301) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 17
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1502 (+0)
+                Total de contagiosos al llarg de l'execució: 2053 (+0)
+                Total de contagiats al llarg de l'execució: 2053 (+0)
+                Total de morts al llarg de l'execució: 24 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-976)
+                        Sense símptomes: 0 (+976) (-0)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 0 (+0) (-976)
+                        No contagiosos: 0 (+976) (-0)
+                Grup d'immunes:
+                        Immunes: 976 (+0) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 2813 (+0)
+                Total de contagiosos al llarg de l'execució: 4198 (+0)
+                Total de contagiats al llarg de l'execució: 4198 (+0)
+                Total de morts al llarg de l'execució: 111 (+5)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 286 (+0) (-1602)
+                        Sense símptomes: 39 (+1602) (-290)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 62 (+0) (-1829)
+                        No contagiosos: 263 (+1829) (-290)
+                Grup d'immunes:
+                        Immunes: 1563 (+290) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 18
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1502 (+0)
+                Total de contagiosos al llarg de l'execució: 2053 (+0)
+                Total de contagiats al llarg de l'execució: 2053 (+0)
+                Total de morts al llarg de l'execució: 24 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-976)
+                        Sense símptomes: 0 (+976) (-0)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 0 (+0) (-976)
+                        No contagiosos: 0 (+976) (-0)
+                Grup d'immunes:
+                        Immunes: 976 (+0) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 2813 (+0)
+                Total de contagiosos al llarg de l'execució: 4198 (+0)
+                Total de contagiats al llarg de l'execució: 4198 (+0)
+                Total de morts al llarg de l'execució: 112 (+1)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 106 (+0) (-1781)
+                        Sense símptomes: 9 (+1781) (-209)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 11 (+0) (-1877)
+                        No contagiosos: 104 (+1877) (-209)
+                Grup d'immunes:
+                        Immunes: 1772 (+209) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 19
+Grip a A:
+        Habitants: 1000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 1502 (+0)
+                Total de contagiosos al llarg de l'execució: 2053 (+0)
+                Total de contagiats al llarg de l'execució: 2053 (+0)
+                Total de morts al llarg de l'execució: 24 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 0 (+0) (-976)
+                        Sense símptomes: 0 (+976) (-0)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 0 (+0) (-976)
+                        No contagiosos: 0 (+976) (-0)
+                Grup d'immunes:
+                        Immunes: 976 (+0) (-0)
+
+Covid a B:
+        Habitants: 2000
+        Turistes: 0
+        Dades acumulades:
+                Total de malalts al llarg de l'execució: 2813 (+0)
+                Total de contagiosos al llarg de l'execució: 4198 (+0)
+                Total de contagiats al llarg de l'execució: 4198 (+0)
+                Total de morts al llarg de l'execució: 112 (+0)
+        Dades del tick:
+                Taxa de transmissió: 0.0
+                Grup de simptomàtics:
+                        Incubant: 0 (+0) (-0)
+                        Simptomàtics: 23 (+0) (-1864)
+                        Sense símptomes: 1 (+1864) (-91)
+                Grup de contagiosos:
+                        Latència: 0 (+0) (-0)
+                        Contagiosos: 1 (+0) (-1886)
+                        No contagiosos: 23 (+1886) (-91)
+                Grup d'immunes:
+                        Immunes: 1863 (+91) (-0)
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure resum
+7. Consultar llistes
+8. Sortir
+Opció: 1
+Menú de filtres:
+1. Modificar virus: sense filtre
+2. Modificar regió: sense filtre
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 1
+1. Grip (Orthomyxoviridae)
+2. Covid (Coronaviridae)
+
+Número del virus a posar com a filtre (0 per tornar al menú): 1
+Menú de filtres:
+1. Modificar virus: Grip
+2. Modificar regió: sense filtre
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 1
+Menú de filtres:
+1. Modificar virus: sense filtre
+2. Modificar regió: sense filtre
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 1
+1. Grip (Orthomyxoviridae)
+2. Covid (Coronaviridae)
+
+Número del virus a posar com a filtre (0 per tornar al menú): 2
+Menú de filtres:
+1. Modificar virus: Covid
+2. Modificar regió: sense filtre
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 0
+Tick: 19
+Presència del virus Covid:
+        Situació en aquest moment:
+                Nombre de malalts: 23 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 20
+Presència del virus Covid:
+        Situació en aquest moment:
+                Nombre de malalts: 2 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 21
+Presència del virus Covid:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 22
+Presència del virus Covid:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 23
+Presència del virus Covid:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 24
+Presència del virus Covid:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 25
+Presència del virus Covid:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 26
+Presència del virus Covid:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 27
+Presència del virus Covid:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 28
+Presència del virus Covid:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 1
+Menú de filtres:
+1. Modificar virus: Covid
+2. Modificar regió: sense filtre
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 1
+Menú de filtres:
+1. Modificar virus: sense filtre
+2. Modificar regió: sense filtre
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 0
+Tick: 28
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 3
+Nombre de ticks a generar (1-20, 0 per sortir): 5
+Tick: 33
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 34
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 35
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 36
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 37
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 38
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 39
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 40
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 41
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 42
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 43
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 44
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 45
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 46
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 47
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 48
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 49
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 50
+Dades sense filtres:
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 6251
+                Total de morts: 136
+                Total de malalts: 4315
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 1
+Menú de filtres:
+1. Modificar virus: sense filtre
+2. Modificar regió: sense filtre
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 2
+1. A (1000 inhab.)
+2. B (2000 inhab.)
+
+Número de la regió a posar com a filtre (0 per tornar al menú): 2
+Menú de filtres:
+1. Modificar virus: sense filtre
+2. Modificar regió: B
+3. Esborrar filtres
+0. Tornar al menú principal
+Opció: 0
+Tick: 50
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 51
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 52
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 53
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 54
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 55
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 56
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 57
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 58
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 59
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 60
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 61
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 62
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 63
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 64
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 65
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 66
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 67
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 68
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 69
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 70
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 71
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 2
+Tick: 71
+Dades de la regió B:
+        Habitants: 2000
+        Turistes: 0
+        Situació en aquest moment:
+                Nombre de malalts: 0 (+0)
+                Morts des del pas anterior: 0
+                Nous contagis: 0
+                Taxa de transmissió: 0.0
+        Evolució des de l'inici:
+                Total de contagis: 4198
+                Total de morts: 112
+                Total de malalts: 2813
+
+Menú principal:
+1. Establir filtres
+2. Generar tick següent
+3. Generar més d'un tick
+4. Aplicar vacuna
+5. Actualitzar un confinament
+6. Veure log
+7. Consultar llistes
+8. Sortir
+Opció: 8

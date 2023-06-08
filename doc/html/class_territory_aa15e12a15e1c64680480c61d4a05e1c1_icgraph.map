@@ -1,0 +1,7 @@
+<map id="Territory.propagateViruses" name="Territory.propagateViruses">
+<area shape="rect" id="node1" title="Propaga i infecta les regions." alt="" coords="1031,31,1223,57"/>
+<area shape="rect" id="node2" href="$class_simulation.html#ad224a3d797191cfd9c32caf75d5c2c07" title="Calcula el següent tick." alt="" coords="772,31,983,57"/>
+<area shape="rect" id="node3" href="$class_command_line.html#aafb78e1fccdec0e66c1db71a1149fb5e" title="Si encara és útil, genera el següent tick." alt="" coords="548,31,724,57"/>
+<area shape="rect" id="node4" href="$class_command_line.html#a70b02fa539ac3680151621307af1dd6d" title="Si encara és útil, genera tants ticks com determini l&#39;usuari." alt="" coords="253,5,500,32"/>
+<area shape="rect" id="node5" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,31,205,57"/>
+</map>

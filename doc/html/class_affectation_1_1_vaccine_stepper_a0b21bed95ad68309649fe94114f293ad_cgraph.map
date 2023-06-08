@@ -1,0 +1,5 @@
+<map id="Affectation.VaccineStepper.isOver" name="Affectation.VaccineStepper.isOver">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,248,57"/>
+<area shape="rect" id="node2" href="$class_vaccine.html#a816c5827a1b8212e3b79dcf42a8b26fc" title="Retorna el nombre de ticks que tarda la vacuna a fer efecte." alt="" coords="325,5,437,32"/>
+<area shape="rect" id="node3" href="$class_vaccine.html#a1a0432f70e41b72d033bb09e5559ed53" title="Retorna el nombre de ticks que tindrà efecte la vacuna." alt="" coords="296,56,465,83"/>
+</map>

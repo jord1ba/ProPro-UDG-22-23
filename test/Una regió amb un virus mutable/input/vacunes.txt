@@ -1,0 +1,11 @@
+vacunes
+nom VCGripA1
+tipus atenuadora    # atenua símptomes de la malaltia
+virus_desti Grip 
+temps_activacio 5
+durada 100 
+tpc_reduccio_mortalitat 70
+tpc_reduccio_durada 30
+tpc_reduccio_malaltia 40    # una inhibidora tindria una reducció de 100%
+tpc_reduccio_contagi 50
+*

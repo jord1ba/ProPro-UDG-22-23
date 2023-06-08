@@ -1,0 +1,991 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.9.1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Virusland: Referència de la Classe Filter</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectlogo"><img alt="Logo" src="logo.jpg"/></td>
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">Virusland
+   &#160;<span id="projectnumber">Versió final</span>
+   </div>
+   <div id="projectbrief">Simulació de virus</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generat per Doxygen 1.9.1 -->
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
+var searchBox = new SearchBox("searchBox", "search",false,'Cerca','.html');
+/* @license-end */
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
+$(function() {
+  initMenu('',true,false,'search.php','Cerca');
+  $(document).ready(function() { init_search(); });
+});
+/* @license-end */</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-methods">Mètodes públics</a> &#124;
+<a href="#pri-attribs">Atributs Privats</a> &#124;
+<a href="class_filter-members.html">Llista de tots els membres</a>  </div>
+  <div class="headertitle">
+<div class="title">Referència de la Classe Filter</div>  </div>
+</div><!--header-->
+<div class="contents">
+
+<p>Classe encarregada de guardar un conjunt d'informació i filtrar-la per diferents criteris com virus, regió, els dos o cap.  
+ <a href="class_filter.html#details">Més...</a></p>
+<div class="dynheader">
+Diagrama de col·laboració per a Filter:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter__coll__graph.png" border="0" usemap="#a_filter_coll__map" alt="Collaboration graph"/></div>
+<map name="a_filter_coll__map" id="a_filter_coll__map">
+<area shape="rect" title="Classe encarregada de guardar un conjunt d&#39;informació i filtrar&#45;la per diferents criteris com virus,..." alt="" coords="752,206,807,233"/>
+<area shape="rect" title=" " alt="" coords="416,49,615,91"/>
+<area shape="rect" title=" " alt="" coords="416,115,615,156"/>
+<area shape="rect" href="class_region.html" title="Classe que conté tots els mètodes i atributs per gestionar una regió." alt="" coords="482,181,549,207"/>
+<area shape="rect" title=" " alt="" coords="18,5,218,47"/>
+<area shape="rect" href="class_region_1_1_neighbour.html" title="Classe que encapsula el funcionament del veïnat. Emmagatzema la proporció de moviment,..." alt="" coords="49,71,187,98"/>
+<area shape="rect" title=" " alt="" coords="5,122,231,149"/>
+<area shape="rect" title=" " alt="" coords="25,173,211,215"/>
+<area shape="rect" title=" " alt="" coords="45,239,191,266"/>
+<area shape="rect" title=" " alt="" coords="455,231,575,258"/>
+<area shape="rect" href="class_virus.html" title="Conté tota la informació relacionada amb els virus i permet gestionar&#45;ne el comportament i la propaga..." alt="" coords="488,286,543,313"/>
+<area shape="rect" title=" " alt="" coords="36,290,200,317"/>
+<area shape="rect" href="class_virus_family.html" title="Família que agrupa diferents virus de la simulació." alt="" coords="69,341,167,367"/>
+<area shape="rect" title=" " alt="" coords="461,337,569,363"/>
+</map>
+<center><span class="legend">[<a href="graph_legend.html">llegenda</a>]</span></center></div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
+Mètodes públics</h2></td></tr>
+<tr class="memitem:a90110521c124eae7f2cd0834edc95ac6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a90110521c124eae7f2cd0834edc95ac6">Filter</a> (<a class="el" href="class_simulation.html">Simulation</a> simulation)</td></tr>
+<tr class="memdesc:a90110521c124eae7f2cd0834edc95ac6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructor principal que crea a partir de les llistes de regions i virus de <code>simulation</code>, les estructures que guarden <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a>.  <a href="class_filter.html#a90110521c124eae7f2cd0834edc95ac6">Més...</a><br /></td></tr>
+<tr class="separator:a90110521c124eae7f2cd0834edc95ac6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1212c15cf864647f9936e60f7aee4d8b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_region.html">Region</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a1212c15cf864647f9936e60f7aee4d8b">region</a> ()</td></tr>
+<tr class="memdesc:a1212c15cf864647f9936e60f7aee4d8b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Getter del filtre de regió.  <a href="class_filter.html#a1212c15cf864647f9936e60f7aee4d8b">Més...</a><br /></td></tr>
+<tr class="separator:a1212c15cf864647f9936e60f7aee4d8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a65094c8001e6b36dab6ae4139df3a15f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_virus.html">Virus</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a65094c8001e6b36dab6ae4139df3a15f">virus</a> ()</td></tr>
+<tr class="memdesc:a65094c8001e6b36dab6ae4139df3a15f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Getter del filtre de virus.  <a href="class_filter.html#a65094c8001e6b36dab6ae4139df3a15f">Més...</a><br /></td></tr>
+<tr class="separator:a65094c8001e6b36dab6ae4139df3a15f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa6f386857cb72b28fcc15dbc7c548fc2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#aa6f386857cb72b28fcc15dbc7c548fc2">updateDataNextTick</a> ()</td></tr>
+<tr class="memdesc:aa6f386857cb72b28fcc15dbc7c548fc2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Actualitza els objectes <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> d'aquest objecte al nou tick generat, i afegeix el de les noves afectacions.  <a href="class_filter.html#aa6f386857cb72b28fcc15dbc7c548fc2">Més...</a><br /></td></tr>
+<tr class="separator:aa6f386857cb72b28fcc15dbc7c548fc2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aebeddff04642f45bb03dfbee5e75d8d7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#aebeddff04642f45bb03dfbee5e75d8d7">updateFilter</a> (<a class="el" href="class_region.html">Region</a> <a class="el" href="class_filter.html#a1212c15cf864647f9936e60f7aee4d8b">region</a>)</td></tr>
+<tr class="memdesc:aebeddff04642f45bb03dfbee5e75d8d7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Setter del filtre per regió.  <a href="class_filter.html#aebeddff04642f45bb03dfbee5e75d8d7">Més...</a><br /></td></tr>
+<tr class="separator:aebeddff04642f45bb03dfbee5e75d8d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa28bca000fafd03ea3cdecfece162f1d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#aa28bca000fafd03ea3cdecfece162f1d">updateFilter</a> (<a class="el" href="class_virus.html">Virus</a> <a class="el" href="class_filter.html#a65094c8001e6b36dab6ae4139df3a15f">virus</a>)</td></tr>
+<tr class="memdesc:aa28bca000fafd03ea3cdecfece162f1d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Setter del filtre per virus.  <a href="class_filter.html#aa28bca000fafd03ea3cdecfece162f1d">Més...</a><br /></td></tr>
+<tr class="separator:aa28bca000fafd03ea3cdecfece162f1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1c22d08811c62d8a11b4f8f2b0106c6b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a1c22d08811c62d8a11b4f8f2b0106c6b">deleteRegionFilter</a> ()</td></tr>
+<tr class="memdesc:a1c22d08811c62d8a11b4f8f2b0106c6b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Setter per suprimir el filtre per regió (n'hi hagi o no).  <a href="class_filter.html#a1c22d08811c62d8a11b4f8f2b0106c6b">Més...</a><br /></td></tr>
+<tr class="separator:a1c22d08811c62d8a11b4f8f2b0106c6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a42e3688b4b608e9d5e3152d321126c4f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a42e3688b4b608e9d5e3152d321126c4f">deleteVirusFilter</a> ()</td></tr>
+<tr class="memdesc:a42e3688b4b608e9d5e3152d321126c4f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Setter per suprimir el filtre per virus (n'hi hagi o no).  <a href="class_filter.html#a42e3688b4b608e9d5e3152d321126c4f">Més...</a><br /></td></tr>
+<tr class="separator:a42e3688b4b608e9d5e3152d321126c4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:affbb305dfb2cbb99ae0370a3ca746972"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_data.html">Data</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#affbb305dfb2cbb99ae0370a3ca746972">summary</a> ()</td></tr>
+<tr class="memdesc:affbb305dfb2cbb99ae0370a3ca746972"><td class="mdescLeft">&#160;</td><td class="mdescRight">Genera un objecte de tipus <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> amb el conjunt de totes les dades resultants d'aplicar els filtres.  <a href="class_filter.html#affbb305dfb2cbb99ae0370a3ca746972">Més...</a><br /></td></tr>
+<tr class="separator:affbb305dfb2cbb99ae0370a3ca746972"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2cabd34f160ce2513143a95a23ea2925"><td class="memItemLeft" align="right" valign="top">List&lt; <a class="el" href="class_data.html">Data</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925">log</a> ()</td></tr>
+<tr class="memdesc:a2cabd34f160ce2513143a95a23ea2925"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retorna una llista d'objectes de tipus <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> continguts en aquest objecte que compleixin amb els filtres establerts.  <a href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925">Més...</a><br /></td></tr>
+<tr class="separator:a2cabd34f160ce2513143a95a23ea2925"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5a7302b1a6b4039ccb2e14399e9be92"><td class="memItemLeft" align="right" valign="top">ArrayList&lt; String &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#ad5a7302b1a6b4039ccb2e14399e9be92">getTitlesArray</a> ()</td></tr>
+<tr class="memdesc:ad5a7302b1a6b4039ccb2e14399e9be92"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retorna el conjunt de títols dels elements del <a class="el" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr...">log()</a>.  <a href="class_filter.html#ad5a7302b1a6b4039ccb2e14399e9be92">Més...</a><br /></td></tr>
+<tr class="separator:ad5a7302b1a6b4039ccb2e14399e9be92"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5b2b45446e0e23a328f205703457c6b8"><td class="memItemLeft" align="right" valign="top">ArrayList&lt; TreeMap&lt; String, Integer &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a5b2b45446e0e23a328f205703457c6b8">generalData</a> ()</td></tr>
+<tr class="memdesc:a5b2b45446e0e23a328f205703457c6b8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retorna el conjunt d'informació genèrica dels elements del <a class="el" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr...">log()</a>  <a href="class_filter.html#a5b2b45446e0e23a328f205703457c6b8">Més...</a><br /></td></tr>
+<tr class="separator:a5b2b45446e0e23a328f205703457c6b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83fd413d226e4eda48da0dd87a706e7a"><td class="memItemLeft" align="right" valign="top">ArrayList&lt; TreeMap&lt; String, Integer &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a83fd413d226e4eda48da0dd87a706e7a">diseaseData</a> ()</td></tr>
+<tr class="memdesc:a83fd413d226e4eda48da0dd87a706e7a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retorna el conjunt d'informació dels malalts dels elements del <a class="el" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr...">log()</a>  <a href="class_filter.html#a83fd413d226e4eda48da0dd87a706e7a">Més...</a><br /></td></tr>
+<tr class="separator:a83fd413d226e4eda48da0dd87a706e7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d1f768dce09c3e480aa4a959bcffd62"><td class="memItemLeft" align="right" valign="top">ArrayList&lt; TreeMap&lt; String, Integer &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a2d1f768dce09c3e480aa4a959bcffd62">contagiousData</a> ()</td></tr>
+<tr class="memdesc:a2d1f768dce09c3e480aa4a959bcffd62"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retorna el conjunt d'informació dels contagiosos dels elements del <a class="el" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr...">log()</a>  <a href="class_filter.html#a2d1f768dce09c3e480aa4a959bcffd62">Més...</a><br /></td></tr>
+<tr class="separator:a2d1f768dce09c3e480aa4a959bcffd62"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a2530a787f940ba4830b395e982f8f4"><td class="memItemLeft" align="right" valign="top">boolean&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a2a2530a787f940ba4830b395e982f8f4">contagiousPopulation</a> ()</td></tr>
+<tr class="memdesc:a2a2530a787f940ba4830b395e982f8f4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retorna si encara queda algú contagiat o immune a alguna malaltia independentment dels filtres establerts.  <a href="class_filter.html#a2a2530a787f940ba4830b395e982f8f4">Més...</a><br /></td></tr>
+<tr class="separator:a2a2530a787f940ba4830b395e982f8f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
+Atributs Privats</h2></td></tr>
+<tr class="memitem:ab43af3a340c910e8d81ea7bf3609b7aa"><td class="memItemLeft" align="right" valign="top">final List&lt; <a class="el" href="class_virus.html">Virus</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#ab43af3a340c910e8d81ea7bf3609b7aa">_virus_list</a></td></tr>
+<tr class="separator:ab43af3a340c910e8d81ea7bf3609b7aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae1e049b9c5923bc8bc98d997e9346ad7"><td class="memItemLeft" align="right" valign="top">final List&lt; <a class="el" href="class_region.html">Region</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#ae1e049b9c5923bc8bc98d997e9346ad7">_region_list</a></td></tr>
+<tr class="separator:ae1e049b9c5923bc8bc98d997e9346ad7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6706335ddde98b8287ba440f78e2b222"><td class="memItemLeft" align="right" valign="top">final Map&lt; <a class="el" href="class_virus.html">Virus</a>, Map&lt; <a class="el" href="class_region.html">Region</a>, <a class="el" href="class_data.html">Data</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a6706335ddde98b8287ba440f78e2b222">_dataVR</a></td></tr>
+<tr class="memdesc:a6706335ddde98b8287ba440f78e2b222"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mapa de mapes que indexen objectes de tipus <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> primer per VIRUS i després per REGIÓ.  <a href="class_filter.html#a6706335ddde98b8287ba440f78e2b222">Més...</a><br /></td></tr>
+<tr class="separator:a6706335ddde98b8287ba440f78e2b222"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a07ee4de6bf5509c07b425ae93da679c3"><td class="memItemLeft" align="right" valign="top">final Map&lt; <a class="el" href="class_region.html">Region</a>, Map&lt; <a class="el" href="class_virus.html">Virus</a>, <a class="el" href="class_data.html">Data</a> &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a07ee4de6bf5509c07b425ae93da679c3">_dataRV</a></td></tr>
+<tr class="memdesc:a07ee4de6bf5509c07b425ae93da679c3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mapa de mapes que indexen objectes de tipus <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> primer per REGIÓ i després per VIRUS.  <a href="class_filter.html#a07ee4de6bf5509c07b425ae93da679c3">Més...</a><br /></td></tr>
+<tr class="separator:a07ee4de6bf5509c07b425ae93da679c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adf4a6ef35b0df294ad544792f8223e41"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_region.html">Region</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#adf4a6ef35b0df294ad544792f8223e41">_region_filter</a></td></tr>
+<tr class="memdesc:adf4a6ef35b0df294ad544792f8223e41"><td class="mdescLeft">&#160;</td><td class="mdescRight">Regió pel qual es filtra (null si no hi ha filtre).  <a href="class_filter.html#adf4a6ef35b0df294ad544792f8223e41">Més...</a><br /></td></tr>
+<tr class="separator:adf4a6ef35b0df294ad544792f8223e41"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7dd0ca3875a1efdc56bfb26339490e2d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_virus.html">Virus</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a7dd0ca3875a1efdc56bfb26339490e2d">_virus_filter</a></td></tr>
+<tr class="memdesc:a7dd0ca3875a1efdc56bfb26339490e2d"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="class_virus.html" title="Conté tota la informació relacionada amb els virus i permet gestionar-ne el comportament i la propaga...">Virus</a> pel qual es filtra (null si no hi ha filtre).  <a href="class_filter.html#a7dd0ca3875a1efdc56bfb26339490e2d">Més...</a><br /></td></tr>
+<tr class="separator:a7dd0ca3875a1efdc56bfb26339490e2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a26dbeb7c34df467b634b36ce04c31fc6"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_filter.html#a26dbeb7c34df467b634b36ce04c31fc6">_last_virus_index</a></td></tr>
+<tr class="memdesc:a26dbeb7c34df467b634b36ce04c31fc6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Índex de l'últim virus aparegut a _virus_list (per controlar les mutacions).  <a href="class_filter.html#a26dbeb7c34df467b634b36ce04c31fc6">Més...</a><br /></td></tr>
+<tr class="separator:a26dbeb7c34df467b634b36ce04c31fc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Descripció Detallada</h2>
+<div class="textblock"><p>Classe encarregada de guardar un conjunt d'informació i filtrar-la per diferents criteris com virus, regió, els dos o cap. </p>
+<dl class="section author"><dt>Autor</dt><dd>Jordi Badia </dd></dl>
+</div><h2 class="groupheader">Documentació del Constructor i el Destructor</h2>
+<a id="a90110521c124eae7f2cd0834edc95ac6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a90110521c124eae7f2cd0834edc95ac6">&#9670;&nbsp;</a></span>Filter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Filter.Filter </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_simulation.html">Simulation</a>&#160;</td>
+          <td class="paramname"><em>simulation</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Constructor principal que crea a partir de les llistes de regions i virus de <code>simulation</code>, les estructures que guarden <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a>. </p>
+<dl class="section pre"><dt>Precondició</dt><dd><code>simulation</code> té inicialitzats les estructures que guarden regions i virus. </dd></dl>
+<dl class="section post"><dt>Postcondició</dt><dd><code>_dataVR</code> i <code>_dataRV</code> guarden <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> de només aquelles combinacions de regió i virus que tenen alguna afectació, a més guarden les referències a les llistes de <code>simulation</code> i l'índex de l'últim virus. </dd></dl>
+<dl class="params"><dt>Paràmetres</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">simulation</td><td>Simulació d'on treure les regions i els virus. </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="dynheader">
+Gràfic de crides d'aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a90110521c124eae7f2cd0834edc95ac6_cgraph.png" border="0" usemap="#aclass_filter_a90110521c124eae7f2cd0834edc95ac6_cgraph" alt=""/></div>
+<map name="aclass_filter_a90110521c124eae7f2cd0834edc95ac6_cgraph" id="aclass_filter_a90110521c124eae7f2cd0834edc95ac6_cgraph">
+<area shape="rect" title="Constructor principal que crea a partir de les llistes de regions i virus de simulation,..." alt="" coords="5,107,96,133"/>
+<area shape="rect" href="class_region.html#a3b06470475eed5e73fb865cc0de9928d" title="Funciona com el pop d&#39;un stack, cada crida a aquesta funció esborra les entrades que són retornades." alt="" coords="144,5,387,32"/>
+<area shape="rect" href="class_filter.html#a1212c15cf864647f9936e60f7aee4d8b" title="Getter del filtre de regió." alt="" coords="216,56,315,83"/>
+<area shape="rect" href="class_simulation.html#a02e032008572aeb9e9a220931d2454e0" title="Getter de la llista de regions." alt="" coords="185,107,345,133"/>
+<area shape="rect" href="class_filter.html#a65094c8001e6b36dab6ae4139df3a15f" title="Getter del filtre de virus." alt="" coords="220,157,311,184"/>
+<area shape="rect" href="class_simulation.html#acaca8a75e0de8c622079f8b9e7fc00ec" title="Getter de la llista de virus." alt="" coords="190,208,341,235"/>
+<area shape="rect" href="class_territory.html#a1fd2a35910162ce925f17a2a79467d20" title=" " alt="" coords="435,107,577,133"/>
+</map>
+</div>
+
+</div>
+</div>
+<h2 class="groupheader">Documentació de les Funcions Membre</h2>
+<a id="a2d1f768dce09c3e480aa4a959bcffd62"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2d1f768dce09c3e480aa4a959bcffd62">&#9670;&nbsp;</a></span>contagiousData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">ArrayList&lt;TreeMap&lt;String, Integer&gt; &gt; Filter.contagiousData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Retorna el conjunt d'informació dels contagiosos dels elements del <a class="el" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr...">log()</a> </p>
+<dl class="section pre"><dt>Precondició</dt><dd>True. </dd></dl>
+<dl class="section return"><dt>Retorna</dt><dd>Un ArrayList de TreeMap de String i Integers amb la informació dels contagiosos dels elements del <a class="el" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr...">log()</a>. </dd></dl>
+<div class="dynheader">
+Gràfic de crides d'aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a2d1f768dce09c3e480aa4a959bcffd62_cgraph.png" border="0" usemap="#aclass_filter_a2d1f768dce09c3e480aa4a959bcffd62_cgraph" alt=""/></div>
+<map name="aclass_filter_a2d1f768dce09c3e480aa4a959bcffd62_cgraph" id="aclass_filter_a2d1f768dce09c3e480aa4a959bcffd62_cgraph">
+<area shape="rect" title="Retorna el conjunt d&#39;informació dels contagiosos dels elements del log()" alt="" coords="5,5,165,32"/>
+<area shape="rect" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr..." alt="" coords="213,5,292,32"/>
+</map>
+</div>
+<div class="dynheader">
+Gràfic de crides a aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a2d1f768dce09c3e480aa4a959bcffd62_icgraph.png" border="0" usemap="#aclass_filter_a2d1f768dce09c3e480aa4a959bcffd62_icgraph" alt=""/></div>
+<map name="aclass_filter_a2d1f768dce09c3e480aa4a959bcffd62_icgraph" id="aclass_filter_a2d1f768dce09c3e480aa4a959bcffd62_icgraph">
+<area shape="rect" title="Retorna el conjunt d&#39;informació dels contagiosos dels elements del log()" alt="" coords="1033,107,1193,133"/>
+<area shape="rect" href="class_command_line.html#ae27c25cec300bc847095b5c1f2922083" title="envia la informació generada pels filtres a la UI per fer els PieCharts." alt="" coords="775,107,985,133"/>
+<area shape="rect" href="class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="532,107,727,133"/>
+<area shape="rect" href="class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="265,5,472,32"/>
+<area shape="rect" href="class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,107,205,133"/>
+<area shape="rect" href="class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="281,107,457,133"/>
+<area shape="rect" href="class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="279,157,459,184"/>
+<area shape="rect" href="class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="253,208,484,235"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a2a2530a787f940ba4830b395e982f8f4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a2530a787f940ba4830b395e982f8f4">&#9670;&nbsp;</a></span>contagiousPopulation()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">boolean Filter.contagiousPopulation </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Retorna si encara queda algú contagiat o immune a alguna malaltia independentment dels filtres establerts. </p>
+<dl class="section pre"><dt>Precondició</dt><dd>True. </dd></dl>
+<dl class="section return"><dt>Retorna</dt><dd>Un booleà que és true si encara hi ha contagiats o immunes i false en cas contrari. </dd></dl>
+<div class="dynheader">
+Gràfic de crides d'aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a2a2530a787f940ba4830b395e982f8f4_cgraph.png" border="0" usemap="#aclass_filter_a2a2530a787f940ba4830b395e982f8f4_cgraph" alt=""/></div>
+<map name="aclass_filter_a2a2530a787f940ba4830b395e982f8f4_cgraph" id="aclass_filter_a2a2530a787f940ba4830b395e982f8f4_cgraph">
+<area shape="rect" title="Retorna si encara queda algú contagiat o immune a alguna malaltia independentment dels filtres establ..." alt="" coords="5,31,204,57"/>
+<area shape="rect" href="class_filter.html#affbb305dfb2cbb99ae0370a3ca746972" title="Genera un objecte de tipus Data amb el conjunt de totes les dades resultants d&#39;aplicar els filtres." alt="" coords="266,5,386,32"/>
+<area shape="rect" href="class_data.html#a4edeec45dec987afa33c460e0e75a769" title="Retorna el total d&#39;infectats actual (inclosos els immunes)." alt="" coords="252,56,400,83"/>
+<area shape="rect" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr..." alt="" coords="476,5,555,32"/>
+<area shape="rect" href="class_data.html#abe8e885fdcc0906738be38c1425eb425" title="Retorna el total d&#39;infectats actual (sense els immunes)." alt="" coords="448,56,583,83"/>
+</map>
+</div>
+<div class="dynheader">
+Gràfic de crides a aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a2a2530a787f940ba4830b395e982f8f4_icgraph.png" border="0" usemap="#aclass_filter_a2a2530a787f940ba4830b395e982f8f4_icgraph" alt=""/></div>
+<map name="aclass_filter_a2a2530a787f940ba4830b395e982f8f4_icgraph" id="aclass_filter_a2a2530a787f940ba4830b395e982f8f4_icgraph">
+<area shape="rect" title="Retorna si encara queda algú contagiat o immune a alguna malaltia independentment dels filtres establ..." alt="" coords="1049,157,1248,184"/>
+<area shape="rect" href="class_command_line.html#aafb78e1fccdec0e66c1db71a1149fb5e" title="Si encara és útil, genera el següent tick." alt="" coords="557,56,733,83"/>
+<area shape="rect" href="class_command_line.html#ae27c25cec300bc847095b5c1f2922083" title="envia la informació generada pels filtres a la UI per fer els PieCharts." alt="" coords="791,183,1001,209"/>
+<area shape="rect" href="class_command_line.html#a70b02fa539ac3680151621307af1dd6d" title="Si encara és útil, genera tants ticks com determini l&#39;usuari." alt="" coords="253,5,500,32"/>
+<area shape="rect" href="class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,157,205,184"/>
+<area shape="rect" href="class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="548,196,743,223"/>
+<area shape="rect" href="class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="273,157,480,184"/>
+<area shape="rect" href="class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="289,208,465,235"/>
+<area shape="rect" href="class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="287,259,467,285"/>
+<area shape="rect" href="class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="261,309,492,336"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a1c22d08811c62d8a11b4f8f2b0106c6b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1c22d08811c62d8a11b4f8f2b0106c6b">&#9670;&nbsp;</a></span>deleteRegionFilter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Filter.deleteRegionFilter </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Setter per suprimir el filtre per regió (n'hi hagi o no). </p>
+<dl class="section pre"><dt>Precondició</dt><dd>True. </dd></dl>
+<dl class="section post"><dt>Postcondició</dt><dd>_region_filter és null. </dd></dl>
+<div class="dynheader">
+Gràfic de crides a aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a1c22d08811c62d8a11b4f8f2b0106c6b_icgraph.png" border="0" usemap="#aclass_filter_a1c22d08811c62d8a11b4f8f2b0106c6b_icgraph" alt=""/></div>
+<map name="aclass_filter_a1c22d08811c62d8a11b4f8f2b0106c6b_icgraph" id="aclass_filter_a1c22d08811c62d8a11b4f8f2b0106c6b_icgraph">
+<area shape="rect" title="Setter per suprimir el filtre per regió (n&#39;hi hagi o no)." alt="" coords="740,5,917,32"/>
+<area shape="rect" href="class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="253,5,433,32"/>
+<area shape="rect" href="class_command_line.html#a30049051db2a658426551808e9d46bd7" title="Actualitza el filtre de regions." alt="" coords="481,27,692,69"/>
+<area shape="rect" href="class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,5,205,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a42e3688b4b608e9d5e3152d321126c4f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a42e3688b4b608e9d5e3152d321126c4f">&#9670;&nbsp;</a></span>deleteVirusFilter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Filter.deleteVirusFilter </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Setter per suprimir el filtre per virus (n'hi hagi o no). </p>
+<dl class="section pre"><dt>Precondició</dt><dd>True. </dd></dl>
+<dl class="section post"><dt>Postcondició</dt><dd>_virus_filter és null. </dd></dl>
+<div class="dynheader">
+Gràfic de crides a aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a42e3688b4b608e9d5e3152d321126c4f_icgraph.png" border="0" usemap="#aclass_filter_a42e3688b4b608e9d5e3152d321126c4f_icgraph" alt=""/></div>
+<map name="aclass_filter_a42e3688b4b608e9d5e3152d321126c4f_icgraph" id="aclass_filter_a42e3688b4b608e9d5e3152d321126c4f_icgraph">
+<area shape="rect" title="Setter per suprimir el filtre per virus (n&#39;hi hagi o no)." alt="" coords="760,5,925,32"/>
+<area shape="rect" href="class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="253,5,433,32"/>
+<area shape="rect" href="class_command_line.html#a52d036b5d24efc7a74a835fd19ad6d76" title="Actualitza el filtre de virus." alt="" coords="481,31,712,57"/>
+<area shape="rect" href="class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,5,205,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a83fd413d226e4eda48da0dd87a706e7a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83fd413d226e4eda48da0dd87a706e7a">&#9670;&nbsp;</a></span>diseaseData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">ArrayList&lt;TreeMap&lt;String, Integer&gt; &gt; Filter.diseaseData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Retorna el conjunt d'informació dels malalts dels elements del <a class="el" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr...">log()</a> </p>
+<dl class="section pre"><dt>Precondició</dt><dd>True. </dd></dl>
+<dl class="section return"><dt>Retorna</dt><dd>Un ArrayList de TreeMap de String i Integers amb la informació dels malalts dels elements del <a class="el" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr...">log()</a>. </dd></dl>
+<div class="dynheader">
+Gràfic de crides d'aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a83fd413d226e4eda48da0dd87a706e7a_cgraph.png" border="0" usemap="#aclass_filter_a83fd413d226e4eda48da0dd87a706e7a_cgraph" alt=""/></div>
+<map name="aclass_filter_a83fd413d226e4eda48da0dd87a706e7a_cgraph" id="aclass_filter_a83fd413d226e4eda48da0dd87a706e7a_cgraph">
+<area shape="rect" title="Retorna el conjunt d&#39;informació dels malalts dels elements del log()" alt="" coords="5,5,144,32"/>
+<area shape="rect" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr..." alt="" coords="192,5,271,32"/>
+</map>
+</div>
+<div class="dynheader">
+Gràfic de crides a aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a83fd413d226e4eda48da0dd87a706e7a_icgraph.png" border="0" usemap="#aclass_filter_a83fd413d226e4eda48da0dd87a706e7a_icgraph" alt=""/></div>
+<map name="aclass_filter_a83fd413d226e4eda48da0dd87a706e7a_icgraph" id="aclass_filter_a83fd413d226e4eda48da0dd87a706e7a_icgraph">
+<area shape="rect" title="Retorna el conjunt d&#39;informació dels malalts dels elements del log()" alt="" coords="1033,107,1172,133"/>
+<area shape="rect" href="class_command_line.html#ae27c25cec300bc847095b5c1f2922083" title="envia la informació generada pels filtres a la UI per fer els PieCharts." alt="" coords="775,107,985,133"/>
+<area shape="rect" href="class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="532,107,727,133"/>
+<area shape="rect" href="class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="265,5,472,32"/>
+<area shape="rect" href="class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,107,205,133"/>
+<area shape="rect" href="class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="281,107,457,133"/>
+<area shape="rect" href="class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="279,157,459,184"/>
+<area shape="rect" href="class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="253,208,484,235"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a5b2b45446e0e23a328f205703457c6b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5b2b45446e0e23a328f205703457c6b8">&#9670;&nbsp;</a></span>generalData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">ArrayList&lt;TreeMap&lt;String, Integer&gt; &gt; Filter.generalData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Retorna el conjunt d'informació genèrica dels elements del <a class="el" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr...">log()</a> </p>
+<dl class="section pre"><dt>Precondició</dt><dd>True. </dd></dl>
+<dl class="section return"><dt>Retorna</dt><dd>Un ArrayList de TreeMap de String i Integers amb la informació genèrica dels elements del <a class="el" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr...">log()</a>. </dd></dl>
+<div class="dynheader">
+Gràfic de crides d'aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a5b2b45446e0e23a328f205703457c6b8_cgraph.png" border="0" usemap="#aclass_filter_a5b2b45446e0e23a328f205703457c6b8_cgraph" alt=""/></div>
+<map name="aclass_filter_a5b2b45446e0e23a328f205703457c6b8_cgraph" id="aclass_filter_a5b2b45446e0e23a328f205703457c6b8_cgraph">
+<area shape="rect" title="Retorna el conjunt d&#39;informació genèrica dels elements del log()" alt="" coords="5,5,144,32"/>
+<area shape="rect" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr..." alt="" coords="192,5,271,32"/>
+</map>
+</div>
+<div class="dynheader">
+Gràfic de crides a aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a5b2b45446e0e23a328f205703457c6b8_icgraph.png" border="0" usemap="#aclass_filter_a5b2b45446e0e23a328f205703457c6b8_icgraph" alt=""/></div>
+<map name="aclass_filter_a5b2b45446e0e23a328f205703457c6b8_icgraph" id="aclass_filter_a5b2b45446e0e23a328f205703457c6b8_icgraph">
+<area shape="rect" title="Retorna el conjunt d&#39;informació genèrica dels elements del log()" alt="" coords="1033,107,1172,133"/>
+<area shape="rect" href="class_command_line.html#ae27c25cec300bc847095b5c1f2922083" title="envia la informació generada pels filtres a la UI per fer els PieCharts." alt="" coords="775,107,985,133"/>
+<area shape="rect" href="class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="532,107,727,133"/>
+<area shape="rect" href="class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="265,5,472,32"/>
+<area shape="rect" href="class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,107,205,133"/>
+<area shape="rect" href="class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="281,107,457,133"/>
+<area shape="rect" href="class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="279,157,459,184"/>
+<area shape="rect" href="class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="253,208,484,235"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="ad5a7302b1a6b4039ccb2e14399e9be92"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5a7302b1a6b4039ccb2e14399e9be92">&#9670;&nbsp;</a></span>getTitlesArray()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">ArrayList&lt;String&gt; Filter.getTitlesArray </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Retorna el conjunt de títols dels elements del <a class="el" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr...">log()</a>. </p>
+<dl class="section pre"><dt>Precondició</dt><dd>True. </dd></dl>
+<dl class="section return"><dt>Retorna</dt><dd>Un ArrayList de String amb el conjunt de títols dels elements de <a class="el" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr...">log()</a>. </dd></dl>
+<div class="dynheader">
+Gràfic de crides d'aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_ad5a7302b1a6b4039ccb2e14399e9be92_cgraph.png" border="0" usemap="#aclass_filter_ad5a7302b1a6b4039ccb2e14399e9be92_cgraph" alt=""/></div>
+<map name="aclass_filter_ad5a7302b1a6b4039ccb2e14399e9be92_cgraph" id="aclass_filter_ad5a7302b1a6b4039ccb2e14399e9be92_cgraph">
+<area shape="rect" title="Retorna el conjunt de títols dels elements del log()." alt="" coords="5,5,156,32"/>
+<area shape="rect" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr..." alt="" coords="204,5,283,32"/>
+</map>
+</div>
+<div class="dynheader">
+Gràfic de crides a aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_ad5a7302b1a6b4039ccb2e14399e9be92_icgraph.png" border="0" usemap="#aclass_filter_ad5a7302b1a6b4039ccb2e14399e9be92_icgraph" alt=""/></div>
+<map name="aclass_filter_ad5a7302b1a6b4039ccb2e14399e9be92_icgraph" id="aclass_filter_ad5a7302b1a6b4039ccb2e14399e9be92_icgraph">
+<area shape="rect" title="Retorna el conjunt de títols dels elements del log()." alt="" coords="1033,107,1184,133"/>
+<area shape="rect" href="class_command_line.html#ae27c25cec300bc847095b5c1f2922083" title="envia la informació generada pels filtres a la UI per fer els PieCharts." alt="" coords="775,107,985,133"/>
+<area shape="rect" href="class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="532,107,727,133"/>
+<area shape="rect" href="class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="265,5,472,32"/>
+<area shape="rect" href="class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,107,205,133"/>
+<area shape="rect" href="class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="281,107,457,133"/>
+<area shape="rect" href="class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="279,157,459,184"/>
+<area shape="rect" href="class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="253,208,484,235"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a2cabd34f160ce2513143a95a23ea2925"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2cabd34f160ce2513143a95a23ea2925">&#9670;&nbsp;</a></span>log()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">List&lt;<a class="el" href="class_data.html">Data</a>&gt; Filter.log </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Retorna una llista d'objectes de tipus <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> continguts en aquest objecte que compleixin amb els filtres establerts. </p>
+<dl class="section pre"><dt>Precondició</dt><dd>True. </dd></dl>
+<dl class="section return"><dt>Retorna</dt><dd>Una llista d'objectes de tipus <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> que compleixen amb els filtres establerts. </dd></dl>
+<div class="dynheader">
+Gràfic de crides a aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a2cabd34f160ce2513143a95a23ea2925_icgraph.png" border="0" usemap="#aclass_filter_a2cabd34f160ce2513143a95a23ea2925_icgraph" alt=""/></div>
+<map name="aclass_filter_a2cabd34f160ce2513143a95a23ea2925_icgraph" id="aclass_filter_a2cabd34f160ce2513143a95a23ea2925_icgraph">
+<area shape="rect" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr..." alt="" coords="1495,102,1573,129"/>
+<area shape="rect" href="class_filter.html#a2d1f768dce09c3e480aa4a959bcffd62" title="Retorna el conjunt d&#39;informació dels contagiosos dels elements del log()" alt="" coords="1069,26,1229,53"/>
+<area shape="rect" href="class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="548,127,743,154"/>
+<area shape="rect" href="class_filter.html#a83fd413d226e4eda48da0dd87a706e7a" title="Retorna el conjunt d&#39;informació dels malalts dels elements del log()" alt="" coords="1079,77,1218,103"/>
+<area shape="rect" href="class_filter.html#a5b2b45446e0e23a328f205703457c6b8" title="Retorna el conjunt d&#39;informació genèrica dels elements del log()" alt="" coords="1302,127,1441,154"/>
+<area shape="rect" href="class_filter.html#ad5a7302b1a6b4039ccb2e14399e9be92" title="Retorna el conjunt de títols dels elements del log()." alt="" coords="1296,178,1447,205"/>
+<area shape="rect" href="class_filter.html#affbb305dfb2cbb99ae0370a3ca746972" title="Genera un objecte de tipus Data amb el conjunt de totes les dades resultants d&#39;aplicar els filtres." alt="" coords="1311,254,1431,281"/>
+<area shape="rect" href="class_command_line.html#ae27c25cec300bc847095b5c1f2922083" title="envia la informació generada pels filtres a la UI per fer els PieCharts." alt="" coords="791,127,1001,154"/>
+<area shape="rect" href="class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="273,26,480,53"/>
+<area shape="rect" href="class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,178,205,205"/>
+<area shape="rect" href="class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="289,77,465,103"/>
+<area shape="rect" href="class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="287,127,467,154"/>
+<area shape="rect" href="class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="261,178,492,205"/>
+<area shape="rect" href="class_filter.html#a2a2530a787f940ba4830b395e982f8f4" title="Retorna si encara queda algú contagiat o immune a alguna malaltia independentment dels filtres establ..." alt="" coords="1049,279,1248,306"/>
+<area shape="rect" href="class_command_line.html#aafb78e1fccdec0e66c1db71a1149fb5e" title="Si encara és útil, genera el següent tick." alt="" coords="557,279,733,306"/>
+<area shape="rect" href="class_command_line.html#a70b02fa539ac3680151621307af1dd6d" title="Si encara és útil, genera tants ticks com determini l&#39;usuari." alt="" coords="253,330,500,357"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a1212c15cf864647f9936e60f7aee4d8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1212c15cf864647f9936e60f7aee4d8b">&#9670;&nbsp;</a></span>region()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_region.html">Region</a> Filter.region </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Getter del filtre de regió. </p>
+<dl class="section pre"><dt>Precondició</dt><dd>True. </dd></dl>
+<dl class="section return"><dt>Retorna</dt><dd>La regió establerta com a filtre (null si no n'hi ha). </dd></dl>
+<div class="dynheader">
+Gràfic de crides a aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a1212c15cf864647f9936e60f7aee4d8b_icgraph.png" border="0" usemap="#aclass_filter_a1212c15cf864647f9936e60f7aee4d8b_icgraph" alt=""/></div>
+<map name="aclass_filter_a1212c15cf864647f9936e60f7aee4d8b_icgraph" id="aclass_filter_a1212c15cf864647f9936e60f7aee4d8b_icgraph">
+<area shape="rect" title="Getter del filtre de regió." alt="" coords="1067,147,1165,174"/>
+<area shape="rect" href="class_filter.html#a90110521c124eae7f2cd0834edc95ac6" title="Constructor principal que crea a partir de les llistes de regions i virus de simulation,..." alt="" coords="877,20,968,47"/>
+<area shape="rect" href="class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="566,92,761,119"/>
+<area shape="rect" href="class_writer.html#a1c3d8d7d4d6cb434a805fe28575f75e2" title="Mostra el menú de filtres." alt="" coords="839,122,1007,148"/>
+<area shape="rect" href="class_filter.html#aa6f386857cb72b28fcc15dbc7c548fc2" title="Actualitza els objectes Data d&#39;aquest objecte al nou tick generat, i afegeix el de les noves afectaci..." alt="" coords="827,274,1019,300"/>
+<area shape="rect" href="class_filter.html#aebeddff04642f45bb03dfbee5e75d8d7" title="Setter del filtre per regió." alt="" coords="855,223,991,250"/>
+<area shape="rect" href="class_command_line.html#a30049051db2a658426551808e9d46bd7" title="Actualitza el filtre de regions." alt="" coords="558,161,769,202"/>
+<area shape="rect" href="class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="273,42,480,68"/>
+<area shape="rect" href="class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,143,205,170"/>
+<area shape="rect" href="class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="289,92,465,119"/>
+<area shape="rect" href="class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="287,194,467,220"/>
+<area shape="rect" href="class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="261,143,492,170"/>
+<area shape="rect" href="class_command_line.html#aafb78e1fccdec0e66c1db71a1149fb5e" title="Si encara és útil, genera el següent tick." alt="" coords="575,278,751,304"/>
+<area shape="rect" href="class_command_line.html#a70b02fa539ac3680151621307af1dd6d" title="Si encara és útil, genera tants ticks com determini l&#39;usuari." alt="" coords="253,295,500,322"/>
+<area shape="rect" href="class_command_line.html#a52d036b5d24efc7a74a835fd19ad6d76" title="Actualitza el filtre de virus." alt="" coords="548,227,779,254"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="affbb305dfb2cbb99ae0370a3ca746972"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#affbb305dfb2cbb99ae0370a3ca746972">&#9670;&nbsp;</a></span>summary()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_data.html">Data</a> Filter.summary </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Genera un objecte de tipus <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> amb el conjunt de totes les dades resultants d'aplicar els filtres. </p>
+<dl class="section pre"><dt>Precondició</dt><dd>True. </dd></dl>
+<dl class="section return"><dt>Retorna</dt><dd>Un objecte de tipus <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> amb la suma de tots els objectes <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> del filtre que compleixin amb els filtres establerts. Si cap compleix, es retorna un <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> on tots els valors són 0. </dd></dl>
+<div class="dynheader">
+Gràfic de crides d'aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_affbb305dfb2cbb99ae0370a3ca746972_cgraph.png" border="0" usemap="#aclass_filter_affbb305dfb2cbb99ae0370a3ca746972_cgraph" alt=""/></div>
+<map name="aclass_filter_affbb305dfb2cbb99ae0370a3ca746972_cgraph" id="aclass_filter_affbb305dfb2cbb99ae0370a3ca746972_cgraph">
+<area shape="rect" title="Genera un objecte de tipus Data amb el conjunt de totes les dades resultants d&#39;aplicar els filtres." alt="" coords="5,5,125,32"/>
+<area shape="rect" href="class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr..." alt="" coords="173,5,252,32"/>
+</map>
+</div>
+<div class="dynheader">
+Gràfic de crides a aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_affbb305dfb2cbb99ae0370a3ca746972_icgraph.png" border="0" usemap="#aclass_filter_affbb305dfb2cbb99ae0370a3ca746972_icgraph" alt=""/></div>
+<map name="aclass_filter_affbb305dfb2cbb99ae0370a3ca746972_icgraph" id="aclass_filter_affbb305dfb2cbb99ae0370a3ca746972_icgraph">
+<area shape="rect" title="Genera un objecte de tipus Data amb el conjunt de totes les dades resultants d&#39;aplicar els filtres." alt="" coords="1296,132,1416,159"/>
+<area shape="rect" href="class_filter.html#a2a2530a787f940ba4830b395e982f8f4" title="Retorna si encara queda algú contagiat o immune a alguna malaltia independentment dels filtres establ..." alt="" coords="1049,81,1248,108"/>
+<area shape="rect" href="class_command_line.html#ae27c25cec300bc847095b5c1f2922083" title="envia la informació generada pels filtres a la UI per fer els PieCharts." alt="" coords="791,132,1001,159"/>
+<area shape="rect" href="class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="548,183,743,209"/>
+<area shape="rect" href="class_command_line.html#aafb78e1fccdec0e66c1db71a1149fb5e" title="Si encara és útil, genera el següent tick." alt="" coords="557,56,733,83"/>
+<area shape="rect" href="class_command_line.html#a70b02fa539ac3680151621307af1dd6d" title="Si encara és útil, genera tants ticks com determini l&#39;usuari." alt="" coords="253,5,500,32"/>
+<area shape="rect" href="class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,157,205,184"/>
+<area shape="rect" href="class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="273,157,480,184"/>
+<area shape="rect" href="class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="289,208,465,235"/>
+<area shape="rect" href="class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="287,259,467,285"/>
+<area shape="rect" href="class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="261,309,492,336"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="aa6f386857cb72b28fcc15dbc7c548fc2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa6f386857cb72b28fcc15dbc7c548fc2">&#9670;&nbsp;</a></span>updateDataNextTick()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Filter.updateDataNextTick </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Actualitza els objectes <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> d'aquest objecte al nou tick generat, i afegeix el de les noves afectacions. </p>
+<dl class="section pre"><dt>Precondició</dt><dd>Des de l'última crida d'aquesta funció, la simulació de la qual llegeix aquest Filtre ha generat un nou tick. </dd></dl>
+<dl class="section post"><dt>Postcondició</dt><dd>S'actualitzen tots els objectes de <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> de <code>_dataVR</code> (i, per tant, de <code>_dataRV</code>), es llegeixen i carreguen els nous virus apareguts per mutació i es generen nous objectes <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> per les afectacions aparegudes. </dd></dl>
+<div class="dynheader">
+Gràfic de crides d'aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_aa6f386857cb72b28fcc15dbc7c548fc2_cgraph.png" border="0" usemap="#aclass_filter_aa6f386857cb72b28fcc15dbc7c548fc2_cgraph" alt=""/></div>
+<map name="aclass_filter_aa6f386857cb72b28fcc15dbc7c548fc2_cgraph" id="aclass_filter_aa6f386857cb72b28fcc15dbc7c548fc2_cgraph">
+<area shape="rect" title="Actualitza els objectes Data d&#39;aquest objecte al nou tick generat, i afegeix el de les noves afectaci..." alt="" coords="5,56,197,83"/>
+<area shape="rect" href="class_region.html#a3b06470475eed5e73fb865cc0de9928d" title="Funciona com el pop d&#39;un stack, cada crida a aquesta funció esborra les entrades que són retornades." alt="" coords="245,5,488,32"/>
+<area shape="rect" href="class_filter.html#a1212c15cf864647f9936e60f7aee4d8b" title="Getter del filtre de regió." alt="" coords="317,56,416,83"/>
+<area shape="rect" href="class_filter.html#a65094c8001e6b36dab6ae4139df3a15f" title="Getter del filtre de virus." alt="" coords="321,107,412,133"/>
+</map>
+</div>
+<div class="dynheader">
+Gràfic de crides a aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_aa6f386857cb72b28fcc15dbc7c548fc2_icgraph.png" border="0" usemap="#aclass_filter_aa6f386857cb72b28fcc15dbc7c548fc2_icgraph" alt=""/></div>
+<map name="aclass_filter_aa6f386857cb72b28fcc15dbc7c548fc2_icgraph" id="aclass_filter_aa6f386857cb72b28fcc15dbc7c548fc2_icgraph">
+<area shape="rect" title="Actualitza els objectes Data d&#39;aquest objecte al nou tick generat, i afegeix el de les noves afectaci..." alt="" coords="772,31,964,57"/>
+<area shape="rect" href="class_command_line.html#aafb78e1fccdec0e66c1db71a1149fb5e" title="Si encara és útil, genera el següent tick." alt="" coords="548,31,724,57"/>
+<area shape="rect" href="class_command_line.html#a70b02fa539ac3680151621307af1dd6d" title="Si encara és útil, genera tants ticks com determini l&#39;usuari." alt="" coords="253,5,500,32"/>
+<area shape="rect" href="class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,31,205,57"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="aebeddff04642f45bb03dfbee5e75d8d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aebeddff04642f45bb03dfbee5e75d8d7">&#9670;&nbsp;</a></span>updateFilter() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Filter.updateFilter </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_region.html">Region</a>&#160;</td>
+          <td class="paramname"><em>region</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Setter del filtre per regió. </p>
+<dl class="section pre"><dt>Precondició</dt><dd><code>virus</code> no pot ser null. </dd></dl>
+<dl class="section post"><dt>Postcondició</dt><dd><code>_region_filter</code> pren el valor de <code>region</code>. </dd></dl>
+<dl class="params"><dt>Paràmetres</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">region</td><td>Regió per la qual es filtrarà (no pot ser null). </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="dynheader">
+Gràfic de crides d'aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_aebeddff04642f45bb03dfbee5e75d8d7_cgraph.png" border="0" usemap="#aclass_filter_aebeddff04642f45bb03dfbee5e75d8d7_cgraph" alt=""/></div>
+<map name="aclass_filter_aebeddff04642f45bb03dfbee5e75d8d7_cgraph" id="aclass_filter_aebeddff04642f45bb03dfbee5e75d8d7_cgraph">
+<area shape="rect" title="Setter del filtre per regió." alt="" coords="5,5,141,32"/>
+<area shape="rect" href="class_filter.html#a1212c15cf864647f9936e60f7aee4d8b" title="Getter del filtre de regió." alt="" coords="189,5,288,32"/>
+</map>
+</div>
+<div class="dynheader">
+Gràfic de crides a aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_aebeddff04642f45bb03dfbee5e75d8d7_icgraph.png" border="0" usemap="#aclass_filter_aebeddff04642f45bb03dfbee5e75d8d7_icgraph" alt=""/></div>
+<map name="aclass_filter_aebeddff04642f45bb03dfbee5e75d8d7_icgraph" id="aclass_filter_aebeddff04642f45bb03dfbee5e75d8d7_icgraph">
+<area shape="rect" title="Setter del filtre per regió." alt="" coords="760,42,896,69"/>
+<area shape="rect" href="class_command_line.html#a30049051db2a658426551808e9d46bd7" title="Actualitza el filtre de regions." alt="" coords="491,5,702,47"/>
+<area shape="rect" href="class_command_line.html#a52d036b5d24efc7a74a835fd19ad6d76" title="Actualitza el filtre de virus." alt="" coords="481,71,712,98"/>
+<area shape="rect" href="class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="253,42,433,69"/>
+<area shape="rect" href="class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,42,205,69"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="aa28bca000fafd03ea3cdecfece162f1d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa28bca000fafd03ea3cdecfece162f1d">&#9670;&nbsp;</a></span>updateFilter() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Filter.updateFilter </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_virus.html">Virus</a>&#160;</td>
+          <td class="paramname"><em>virus</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Setter del filtre per virus. </p>
+<dl class="section pre"><dt>Precondició</dt><dd><code>virus</code> no pot ser null. </dd></dl>
+<dl class="section post"><dt>Postcondició</dt><dd><code>_virus_filter</code> pren el valor de <code>virus</code>. </dd></dl>
+<dl class="params"><dt>Paràmetres</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">virus</td><td><a class="el" href="class_virus.html" title="Conté tota la informació relacionada amb els virus i permet gestionar-ne el comportament i la propaga...">Virus</a> pel qual es filtrarà (no pot ser null). </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="dynheader">
+Gràfic de crides d'aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_aa28bca000fafd03ea3cdecfece162f1d_cgraph.png" border="0" usemap="#aclass_filter_aa28bca000fafd03ea3cdecfece162f1d_cgraph" alt=""/></div>
+<map name="aclass_filter_aa28bca000fafd03ea3cdecfece162f1d_cgraph" id="aclass_filter_aa28bca000fafd03ea3cdecfece162f1d_cgraph">
+<area shape="rect" title="Setter del filtre per virus." alt="" coords="5,5,141,32"/>
+<area shape="rect" href="class_filter.html#a65094c8001e6b36dab6ae4139df3a15f" title="Getter del filtre de virus." alt="" coords="189,5,280,32"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a65094c8001e6b36dab6ae4139df3a15f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65094c8001e6b36dab6ae4139df3a15f">&#9670;&nbsp;</a></span>virus()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_virus.html">Virus</a> Filter.virus </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Getter del filtre de virus. </p>
+<dl class="section pre"><dt>Precondició</dt><dd>True. </dd></dl>
+<dl class="section return"><dt>Retorna</dt><dd>El virus establert com a filtre (null si no n'hi ha). </dd></dl>
+<div class="dynheader">
+Gràfic de crides a aquesta funció:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_filter_a65094c8001e6b36dab6ae4139df3a15f_icgraph.png" border="0" usemap="#aclass_filter_a65094c8001e6b36dab6ae4139df3a15f_icgraph" alt=""/></div>
+<map name="aclass_filter_a65094c8001e6b36dab6ae4139df3a15f_icgraph" id="aclass_filter_a65094c8001e6b36dab6ae4139df3a15f_icgraph">
+<area shape="rect" title="Getter del filtre de virus." alt="" coords="1067,168,1157,195"/>
+<area shape="rect" href="class_filter.html#a90110521c124eae7f2cd0834edc95ac6" title="Constructor principal que crea a partir de les llistes de regions i virus de simulation,..." alt="" coords="877,42,968,68"/>
+<area shape="rect" href="class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="566,92,761,119"/>
+<area shape="rect" href="class_writer.html#a1c3d8d7d4d6cb434a805fe28575f75e2" title="Mostra el menú de filtres." alt="" coords="839,143,1007,170"/>
+<area shape="rect" href="class_filter.html#aa6f386857cb72b28fcc15dbc7c548fc2" title="Actualitza els objectes Data d&#39;aquest objecte al nou tick generat, i afegeix el de les noves afectaci..." alt="" coords="827,295,1019,322"/>
+<area shape="rect" href="class_filter.html#aa28bca000fafd03ea3cdecfece162f1d" title="Setter del filtre per virus." alt="" coords="855,244,991,271"/>
+<area shape="rect" href="class_command_line.html#a52d036b5d24efc7a74a835fd19ad6d76" title="Actualitza el filtre de virus." alt="" coords="548,194,779,220"/>
+<area shape="rect" href="class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="273,143,480,170"/>
+<area shape="rect" href="class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,143,205,170"/>
+<area shape="rect" href="class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="289,42,465,68"/>
+<area shape="rect" href="class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="287,194,467,220"/>
+<area shape="rect" href="class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="261,92,492,119"/>
+<area shape="rect" href="class_command_line.html#aafb78e1fccdec0e66c1db71a1149fb5e" title="Si encara és útil, genera el següent tick." alt="" coords="575,295,751,322"/>
+<area shape="rect" href="class_command_line.html#a70b02fa539ac3680151621307af1dd6d" title="Si encara és útil, genera tants ticks com determini l&#39;usuari." alt="" coords="253,244,500,271"/>
+</map>
+</div>
+
+</div>
+</div>
+<h2 class="groupheader">Documentació de les Dades Membre</h2>
+<a id="a07ee4de6bf5509c07b425ae93da679c3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a07ee4de6bf5509c07b425ae93da679c3">&#9670;&nbsp;</a></span>_dataRV</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">final Map&lt;<a class="el" href="class_region.html">Region</a>, Map&lt;<a class="el" href="class_virus.html">Virus</a>, <a class="el" href="class_data.html">Data</a>&gt; &gt; Filter._dataRV</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Mapa de mapes que indexen objectes de tipus <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> primer per REGIÓ i després per VIRUS. </p>
+
+</div>
+</div>
+<a id="a6706335ddde98b8287ba440f78e2b222"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6706335ddde98b8287ba440f78e2b222">&#9670;&nbsp;</a></span>_dataVR</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">final Map&lt;<a class="el" href="class_virus.html">Virus</a>, Map&lt;<a class="el" href="class_region.html">Region</a>, <a class="el" href="class_data.html">Data</a>&gt; &gt; Filter._dataVR</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Mapa de mapes que indexen objectes de tipus <a class="el" href="class_data.html" title="Classe encarregada de guardar les dades d&#39;una afectació causada per un virus en una regió,...">Data</a> primer per VIRUS i després per REGIÓ. </p>
+
+</div>
+</div>
+<a id="a26dbeb7c34df467b634b36ce04c31fc6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a26dbeb7c34df467b634b36ce04c31fc6">&#9670;&nbsp;</a></span>_last_virus_index</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Filter._last_virus_index</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Índex de l'últim virus aparegut a _virus_list (per controlar les mutacions). </p>
+
+</div>
+</div>
+<a id="adf4a6ef35b0df294ad544792f8223e41"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf4a6ef35b0df294ad544792f8223e41">&#9670;&nbsp;</a></span>_region_filter</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_region.html">Region</a> Filter._region_filter</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Regió pel qual es filtra (null si no hi ha filtre). </p>
+
+</div>
+</div>
+<a id="ae1e049b9c5923bc8bc98d997e9346ad7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae1e049b9c5923bc8bc98d997e9346ad7">&#9670;&nbsp;</a></span>_region_list</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">final List&lt;<a class="el" href="class_region.html">Region</a>&gt; Filter._region_list</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7dd0ca3875a1efdc56bfb26339490e2d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7dd0ca3875a1efdc56bfb26339490e2d">&#9670;&nbsp;</a></span>_virus_filter</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_virus.html">Virus</a> Filter._virus_filter</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p><a class="el" href="class_virus.html" title="Conté tota la informació relacionada amb els virus i permet gestionar-ne el comportament i la propaga...">Virus</a> pel qual es filtra (null si no hi ha filtre). </p>
+
+</div>
+</div>
+<a id="ab43af3a340c910e8d81ea7bf3609b7aa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab43af3a340c910e8d81ea7bf3609b7aa">&#9670;&nbsp;</a></span>_virus_list</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">final List&lt;<a class="el" href="class_virus.html">Virus</a>&gt; Filter._virus_list</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>La documentació d'aquesta classe es va generar a partir del següent fitxer:<ul>
+<li>projecte-c7/src/<a class="el" href="_filter_8java.html">Filter.java</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generat per&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1
+</small></address>
+</body>
+</html>

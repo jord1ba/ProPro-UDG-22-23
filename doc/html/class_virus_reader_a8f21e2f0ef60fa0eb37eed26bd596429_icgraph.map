@@ -1,0 +1,5 @@
+<map id="VirusReader.viruses" name="VirusReader.viruses">
+<area shape="rect" id="node1" title="Getter de la llista de dades de virus." alt="" coords="359,5,509,32"/>
+<area shape="rect" id="node2" href="$class_launcher.html#a44bcb687390ca0d7e7daa8b39546e51d" title="Genera els readers donat un directori de lectura." alt="" coords="168,5,311,32"/>
+<area shape="rect" id="node3" href="$class_launcher.html#a860930902bd48e8d14f85a9231846454" title="&quot;Main&quot; del programa. Segueix l&#39;estructura d&#39;una aplicació de JavaFX." alt="" coords="5,5,120,32"/>
+</map>

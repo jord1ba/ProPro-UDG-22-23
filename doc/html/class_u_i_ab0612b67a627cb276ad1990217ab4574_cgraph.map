@@ -1,0 +1,5 @@
+<map id="UI.hardLock" name="UI.hardLock">
+<area shape="rect" id="node1" title="Mostra visualment un confinament." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$class_graph_chart_data.html#a92f639a85d7f71ee5a0824c64897eb98" title="Bloqueja la regió estrictament." alt="" coords="152,5,343,32"/>
+<area shape="rect" id="node3" href="$class_region.html#ab978540cf53242fccf6e88078e8d56eb" title=" " alt="" coords="391,5,499,32"/>
+</map>

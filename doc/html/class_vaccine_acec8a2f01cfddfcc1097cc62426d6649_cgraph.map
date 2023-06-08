@@ -1,0 +1,4 @@
+<map id="Vaccine.isEffective" name="Vaccine.isEffective">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,149,32"/>
+<area shape="rect" id="node2" href="$class_virus.html#a65eb950b1331b5d3c410e55c34dadf8f" title="Retorna si v és pare del virus actual." alt="" coords="197,5,308,32"/>
+</map>

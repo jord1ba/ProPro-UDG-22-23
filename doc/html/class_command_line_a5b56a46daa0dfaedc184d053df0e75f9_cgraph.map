@@ -1,0 +1,52 @@
+<map id="CommandLine.printOutput" name="CommandLine.printOutput">
+<area shape="rect" id="node1" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="5,740,200,767"/>
+<area shape="rect" id="node2" href="$class_writer.html#a0979e8e371c55512dc07dbb392c8e228" title="Neteja la pantalla de la consola." alt="" coords="279,5,428,32"/>
+<area shape="rect" id="node3" href="$class_simulation.html#af064f1d2b0172c978dde06366de61514" title="Getter de la llista de famílies de virus." alt="" coords="273,56,434,83"/>
+<area shape="rect" id="node4" href="$class_simulation.html#af22d434efaf8ba37464e21071aaa6a76" title="Retorna el tick actual." alt="" coords="281,107,425,133"/>
+<area shape="rect" id="node5" href="$class_writer.html#a35ecf1539253c9a4de1293715ec6214c" title="Mostra enumeradament o no els ítems d&#39;un contenidor iterable." alt="" coords="311,157,396,184"/>
+<area shape="rect" id="node6" href="$class_filter.html#a2cabd34f160ce2513143a95a23ea2925" title="Retorna una llista d&#39;objectes de tipus Data continguts en aquest objecte que compleixin amb els filtr..." alt="" coords="1087,411,1165,437"/>
+<area shape="rect" id="node7" href="$class_filter.html#a1212c15cf864647f9936e60f7aee4d8b" title="Getter del filtre de regió." alt="" coords="560,1019,659,1045"/>
+<area shape="rect" id="node8" href="$class_simulation.html#a02e032008572aeb9e9a220931d2454e0" title="Getter de la llista de regions." alt="" coords="273,208,433,235"/>
+<area shape="rect" id="node10" href="$class_command_line.html#ae27c25cec300bc847095b5c1f2922083" title="envia la informació generada pels filtres a la UI per fer els PieCharts." alt="" coords="248,664,459,691"/>
+<area shape="rect" id="node20" href="$class_filter.html#affbb305dfb2cbb99ae0370a3ca746972" title="Genera un objecte de tipus Data amb el conjunt de totes les dades resultants d&#39;aplicar els filtres." alt="" coords="825,309,945,336"/>
+<area shape="rect" id="node33" href="$class_writer.html#a1c3d8d7d4d6cb434a805fe28575f75e2" title="Mostra el menú de filtres." alt="" coords="269,765,437,792"/>
+<area shape="rect" id="node34" href="$class_filter.html#a65094c8001e6b36dab6ae4139df3a15f" title="Getter del filtre de virus." alt="" coords="564,1171,655,1197"/>
+<area shape="rect" id="node35" href="$class_writer.html#aea710eafc2ea0f3714c2ad4dfbf26414" title="Mostra el menú de llistar informació." alt="" coords="274,867,433,893"/>
+<area shape="rect" id="node36" href="$class_writer.html#aa838b891830cf2302460224e24dfe380" title="Mostra el menú de confinaments." alt="" coords="253,917,453,944"/>
+<area shape="rect" id="node37" href="$class_writer.html#a9187f8473e3587680a3a44532c09217b" title="Mostra el menú principal." alt="" coords="270,968,437,995"/>
+<area shape="rect" id="node38" href="$class_simulation.html#ac5ac14509ec69290d42858621ee95611" title="Getter de la llista de vacunes." alt="" coords="269,1019,438,1045"/>
+<area shape="rect" id="node39" href="$class_simulation.html#acaca8a75e0de8c622079f8b9e7fc00ec" title="Getter de la llista de virus." alt="" coords="278,1069,429,1096"/>
+<area shape="rect" id="node40" href="$class_writer.html#aa30b8148afda291072ddca3d926704ba" title="Mostra per pantalla tota la informació de l&#39;estat actual i acumulat." alt="" coords="293,1120,414,1147"/>
+<area shape="rect" id="node41" href="$class_writer.html#a3db7795a469ac328a599bffcfa4f57f2" title="Mostra per pantalla un resum de l&#39;estat actual i acumulat." alt="" coords="273,1273,434,1300"/>
+<area shape="rect" id="node9" href="$class_territory.html#a1fd2a35910162ce925f17a2a79467d20" title=" " alt="" coords="538,208,681,235"/>
+<area shape="rect" id="node11" href="$class_u_i.html#aee2ae72b19b477de009488ff4ee1eef6" title="Canvia el títol del PieChart esquerre." alt="" coords="512,765,707,792"/>
+<area shape="rect" id="node13" href="$class_u_i.html#a3cccec9f026924df577be82f31157781" title="Canvia el títol del PieChart central." alt="" coords="524,816,695,843"/>
+<area shape="rect" id="node15" href="$class_u_i.html#adf7639db4c175544ba83deed6970f0da" title="Canvia el títol del PieChart dret." alt="" coords="507,867,712,893"/>
+<area shape="rect" id="node17" href="$class_data.html#abe8e885fdcc0906738be38c1425eb425" title="Retorna el total d&#39;infectats actual (sense els immunes)." alt="" coords="1059,512,1193,539"/>
+<area shape="rect" id="node18" href="$class_filter.html#a2d1f768dce09c3e480aa4a959bcffd62" title="Retorna el conjunt d&#39;informació dels contagiosos dels elements del log()" alt="" coords="529,613,689,640"/>
+<area shape="rect" id="node19" href="$class_filter.html#a2a2530a787f940ba4830b395e982f8f4" title="Retorna si encara queda algú contagiat o immune a alguna malaltia independentment dels filtres establ..." alt="" coords="510,461,709,488"/>
+<area shape="rect" id="node22" href="$class_filter.html#a83fd413d226e4eda48da0dd87a706e7a" title="Retorna el conjunt d&#39;informació dels malalts dels elements del log()" alt="" coords="540,563,679,589"/>
+<area shape="rect" id="node23" href="$class_filter.html#a5b2b45446e0e23a328f205703457c6b8" title="Retorna el conjunt d&#39;informació genèrica dels elements del log()" alt="" coords="540,411,679,437"/>
+<area shape="rect" id="node24" href="$class_filter.html#ad5a7302b1a6b4039ccb2e14399e9be92" title="Retorna el conjunt de títols dels elements del log()." alt="" coords="534,512,685,539"/>
+<area shape="rect" id="node25" href="$class_region.html#ab978540cf53242fccf6e88078e8d56eb" title=" " alt="" coords="831,1175,939,1201"/>
+<area shape="rect" id="node26" href="$class_virus.html#af2300113b3c2068f7957e1cf31203182" title="Retorna el nom del virus." alt="" coords="837,1225,933,1252"/>
+<area shape="rect" id="node27" href="$class_u_i.html#abfe368d0b640280d0d31659d2a095bbd" title="Donades tres llistes de dades pels Charts i el conjunt de títolsle, actualitza cadascun dels PieChart..." alt="" coords="530,715,689,741"/>
+<area shape="rect" id="node12" href="$class_graph_chart_data.html#aee7c49514da404a3134b5e7504241e35" title="Canvia el títol del PieChart." alt="" coords="784,978,987,1019"/>
+<area shape="rect" id="node14" href="$class_graph_chart_data.html#abd689adc97a21a7fce1d32c84acda044" title="Canvia el títol del PieChart." alt="" coords="786,1043,985,1085"/>
+<area shape="rect" id="node16" href="$class_graph_chart_data.html#acc8b9285b75a57eb4875526d628b52df" title="Canvia el títol del PieChart." alt="" coords="779,1109,991,1150"/>
+<area shape="rect" id="node21" href="$class_data.html#a4edeec45dec987afa33c460e0e75a769" title="Retorna el total d&#39;infectats actual (inclosos els immunes)." alt="" coords="811,411,959,437"/>
+<area shape="rect" id="node28" href="$class_graph_chart_data.html#a2ca5d2cd40da91825039b1415ebf12a0" title="Neteja les dades dels PieCharts i les actualitza per les marcades per la posició de la variable índex..." alt="" coords="781,731,989,757"/>
+<area shape="rect" id="node29" href="$class_graph_chart_data.html#a05064fea9cdbd7834d07f1d0b1e0c908" title="Substitueix el pool de dades del PieChart inferior esquerra." alt="" coords="785,782,985,823"/>
+<area shape="rect" id="node30" href="$class_graph_chart_data.html#a188319a3710ecb29756aa4f025ba3c13" title="Substitueix el pool de dades del PieChart inferior dret." alt="" coords="780,847,991,889"/>
+<area shape="rect" id="node31" href="$class_graph_chart_data.html#af94b1b57046efc17ae8f61912e45b886" title="Substitueix el pool de dades del PieChart superior." alt="" coords="786,913,985,954"/>
+<area shape="rect" id="node32" href="$class_graph_chart_data.html#a15fc5c9b8e4bd66758294cc69e18d303" title="Substitueix el pool de títols." alt="" coords="771,665,1000,706"/>
+<area shape="rect" id="node42" href="$class_data.html#a64ecd336fa2b1addf90f43a941c6703b" title="Retorna en format String les dades més rellevants de l&#39;objecte actual." alt="" coords="550,1377,669,1404"/>
+<area shape="rect" id="node43" href="$class_region.html#a69de0438019ba358a8c35e4e9c6b27de" title="Si no existeix crea l&#39;afectació" alt="" coords="815,1596,956,1623"/>
+<area shape="rect" id="node44" href="$class_region.html#a42d07da546e81746c7dcc4b3e33beca7" title=" " alt="" coords="827,1647,944,1673"/>
+<area shape="rect" id="node45" href="$class_region.html#a6b36684643bfe25a7ad6bd78f585dd1b" title=" " alt="" coords="813,1276,957,1303"/>
+<area shape="rect" id="node46" href="$class_data.html#aa52e17f132e1b6ff066dc4aa8374c950" title="Retorna el total d&#39;infectats en durant tota la simulació." alt="" coords="802,1327,969,1353"/>
+<area shape="rect" id="node47" href="$class_data.html#a7a7568a394a1a0b8e74a3abe83ca7011" title="Retorna la ràtio de noves infeccions per tots els infectats." alt="" coords="798,1377,973,1404"/>
+<area shape="rect" id="node48" href="$class_affectation_1_1_vaccine_stepper.html#ae320fcce1e520c977a66024aa1eebb56" title=" " alt="" coords="760,1428,1011,1455"/>
+<area shape="rect" id="node49" href="$class_affectation.html#a06e4ebe2c8b3bd3c528396d7b9fac61f" title=" " alt="" coords="812,1479,959,1505"/>
+<area shape="rect" id="node50" href="$class_affectation.html#a1bd69bee9667d46dfb19cac8aec2adee" title=" " alt="" coords="777,1530,994,1571"/>
+</map>

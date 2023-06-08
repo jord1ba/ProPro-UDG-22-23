@@ -1,0 +1,6 @@
+<map id="HardVaccine.HardVaccine" name="HardVaccine.HardVaccine">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,56,193,83"/>
+<area shape="rect" id="node2" href="$class_vaccine.html#a816c5827a1b8212e3b79dcf42a8b26fc" title="Retorna el nombre de ticks que tarda la vacuna a fer efecte." alt="" coords="270,5,382,32"/>
+<area shape="rect" id="node3" href="$class_vaccine.html#a1a0432f70e41b72d033bb09e5559ed53" title="Retorna el nombre de ticks que tindrà efecte la vacuna." alt="" coords="241,56,411,83"/>
+<area shape="rect" id="node4" href="$class_vaccine.html#a6c5f5f43f8124d04d675bc705e608e6b" title="Retorna el nom de la vacuna." alt="" coords="269,107,383,133"/>
+</map>

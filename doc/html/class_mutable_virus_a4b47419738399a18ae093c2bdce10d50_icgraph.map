@@ -1,0 +1,6 @@
+<map id="MutableVirus.getErrorCopyParent" name="MutableVirus.getErrorCopyParent">
+<area shape="rect" id="node1" title="Retorna el pare d&#39;error de còpia." alt="" coords="787,29,984,71"/>
+<area shape="rect" id="node2" href="$class_mutable_virus.html#a279017e9f989991744adcdabe0e18896" title="Genera el nom del nou virus a causa d&#39;error de còpia." alt="" coords="523,29,739,71"/>
+<area shape="rect" id="node3" href="$class_mutable_virus.html#a1be4bb53d260792e7d49f17a992b7cbc" title="Crea una mutació per error de còpia." alt="" coords="264,29,475,71"/>
+<area shape="rect" id="node4" href="$class_mutable_virus.html#a08408424d9af878eeaedf078d037f454" title="Propaga el virus en una regió específica." alt="" coords="5,37,216,63"/>
+</map>

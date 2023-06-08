@@ -1,0 +1,5 @@
+<map id="Affectation.latency" name="Affectation.latency">
+<area shape="rect" id="node1" title=" " alt="" coords="187,31,332,57"/>
+<area shape="rect" id="node2" href="$class_data.html#a7aaf71685440d631ee52fb67e080bc27" title="Constructor que rep un virus i una regió afectada per aquest i carrega i guarda les dades de l&#39;afecta..." alt="" coords="28,5,116,32"/>
+<area shape="rect" id="node3" href="$class_data.html#a544295f9ec81e74daaa7b5df8e1e8508" title="Actualitza la informació actual per la generada en el següent tick." alt="" coords="5,56,139,83"/>
+</map>

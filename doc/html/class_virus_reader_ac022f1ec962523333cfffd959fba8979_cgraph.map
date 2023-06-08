@@ -1,0 +1,5 @@
+<map id="VirusReader.VirusReader" name="VirusReader.VirusReader">
+<area shape="rect" id="node1" title="Llegeix el fitxer FILE_NAME i guarda les dades llegides." alt="" coords="5,31,188,57"/>
+<area shape="rect" id="node2" href="$class_virus_reader.html#a017a8f7f8b61fff0e04c538096171fb7" title="Llegeix a través de read la informació sobre les famílies fins a llegir &quot;virus&quot;." alt="" coords="236,5,423,32"/>
+<area shape="rect" id="node3" href="$class_virus_reader.html#a3cc77a32777e8f12f05965b4ecd80dee" title="Llegeix a través de read la informació sobre els virus fins a acabar el fitxer." alt="" coords="239,56,420,83"/>
+</map>

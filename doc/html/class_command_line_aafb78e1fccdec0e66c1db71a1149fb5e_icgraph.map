@@ -1,0 +1,5 @@
+<map id="CommandLine.nextTick" name="CommandLine.nextTick">
+<area shape="rect" id="node1" title="Si encara és útil, genera el següent tick." alt="" coords="548,31,724,57"/>
+<area shape="rect" id="node2" href="$class_command_line.html#a70b02fa539ac3680151621307af1dd6d" title="Si encara és útil, genera tants ticks com determini l&#39;usuari." alt="" coords="253,5,500,32"/>
+<area shape="rect" id="node3" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,31,205,57"/>
+</map>

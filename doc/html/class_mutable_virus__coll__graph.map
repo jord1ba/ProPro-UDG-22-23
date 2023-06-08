@@ -1,0 +1,7 @@
+<map id="MutableVirus" name="MutableVirus">
+<area shape="rect" id="node1" title="Extensió de la classe Virus que permet al Virus mutar." alt="" coords="175,200,283,227"/>
+<area shape="rect" id="node2" href="$class_virus.html" title="Conté tota la informació relacionada amb els virus i permet gestionar&#45;ne el comportament i la propaga..." alt="" coords="137,102,192,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,169,32"/>
+<area shape="rect" id="node4" href="$class_virus_family.html" title="Família que agrupa diferents virus de la simulació." alt="" coords="194,5,293,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="217,95,371,136"/>
+</map>

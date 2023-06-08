@@ -1,0 +1,14 @@
+<map id="AffectedGroup.immunityNextStep" name="AffectedGroup.immunityNextStep">
+<area shape="rect" id="node1" title="Si escalu, avança un tic en el període d&#39;immunitat." alt="" coords="5,123,248,149"/>
+<area shape="rect" id="node2" href="$class_virus.html#a28e0bf3e096e2f690b5a994944292dd0" title="Retorna la durada en ticks del període d&#39;immunitat." alt="" coords="315,97,494,124"/>
+<area shape="rect" id="node3" href="$class_affectation.html#a7f4b96735dcbce54e104f26cb4014cb2" title="Callback que es crida des d&#39;affected group quan canvia d&#39;estat en el període d&#39;immunitat...." alt="" coords="296,148,513,175"/>
+<area shape="rect" id="node4" href="$class_affectation.html#a629a1d4c0d3ae3ea20739c497b92179a" title=" " alt="" coords="561,148,712,175"/>
+<area shape="rect" id="node7" href="$class_affected_group.html#abc499fd578a976463de333fd2860cde3" title=" " alt="" coords="1246,5,1418,32"/>
+<area shape="rect" id="node11" href="$class_affected_group.html#a5205e962b34ceab08bcadb9956051d3b" title=" " alt="" coords="1250,224,1414,251"/>
+<area shape="rect" id="node5" href="$class_affectation.html#a7c2ad2c02e5e6006579d36a6c17d1963" title="Si escau, compta totes les persones de l&#39;afectació i les classifica." alt="" coords="760,148,893,175"/>
+<area shape="rect" id="node6" href="$class_affectation.html#a9f712a2d66b4e669f8936fb6219e22cc" title="Compta les persones d&#39;un grup." alt="" coords="976,123,1148,149"/>
+<area shape="rect" id="node12" href="$class_affectation_1_1_group_iterator.html#a9115510dedd985cacd4a88892ea252d3" title=" " alt="" coords="941,173,1183,200"/>
+<area shape="rect" id="node8" href="$class_affected_group.html#acec8e31f7003302c498d257297691ee2" title=" " alt="" coords="1237,57,1427,98"/>
+<area shape="rect" id="node9" href="$class_affected_group.html#a2d651690a6190b3d56bdc4776ab1756d" title=" " alt="" coords="1251,123,1413,149"/>
+<area shape="rect" id="node10" href="$class_affected_group.html#ae37ebfd65be4fc23bc4050523ccf53ec" title=" " alt="" coords="1231,173,1433,200"/>
+</map>

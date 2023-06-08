@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['changeleftpiecharttitle_517',['changeLeftPieChartTitle',['../class_u_i.html#aee2ae72b19b477de009488ff4ee1eef6',1,'UI.changeLeftPieChartTitle()'],['../class_graph_chart_data.html#aee7c49514da404a3134b5e7504241e35',1,'GraphChartData.changeLeftPieChartTitle(String s)']]],
+  ['changepiecharttitle_518',['changePieChartTitle',['../class_graph_chart_data.html#abd689adc97a21a7fce1d32c84acda044',1,'GraphChartData.changePieChartTitle()'],['../class_u_i.html#a3cccec9f026924df577be82f31157781',1,'UI.changePieChartTitle()']]],
+  ['changerightpiecharttitle_519',['changeRightPieChartTitle',['../class_graph_chart_data.html#acc8b9285b75a57eb4875526d628b52df',1,'GraphChartData.changeRightPieChartTitle()'],['../class_u_i.html#adf7639db4c175544ba83deed6970f0da',1,'UI.changeRightPieChartTitle()']]],
+  ['checkvaccines_520',['checkVaccines',['../class_region.html#a94249884b5c17e75ffb388b1007616b3',1,'Region']]],
+  ['checkvirusoverlap_521',['checkVirusOverlap',['../class_virus.html#abacf900e1b27a0c42953c33252e2e868',1,'Virus']]],
+  ['clearconsole_522',['clearConsole',['../class_writer.html#a0979e8e371c55512dc07dbb392c8e228',1,'Writer']]],
+  ['clearleftpiechart_523',['clearLeftPieChart',['../class_graph_chart_data.html#a09ee0d9314c707955797d8854246a975',1,'GraphChartData']]],
+  ['clearpiechart_524',['clearPieChart',['../class_graph_chart_data.html#a0c441b7adeb78c416d6351ed42aa2cf0',1,'GraphChartData']]],
+  ['clearrightpiechart_525',['clearRightPieChart',['../class_graph_chart_data.html#ad84455d982be8d75249d59c4833dbd69',1,'GraphChartData']]],
+  ['clone_526',['clone',['../class_affected_group.html#a9dd5033b7e1ba47fe57464ef87f2f4e2',1,'AffectedGroup']]],
+  ['commandline_527',['CommandLine',['../class_command_line.html#a238c8c20d655a4c6475d05afbb5cfb96',1,'CommandLine']]],
+  ['compareto_528',['compareTo',['../class_virus.html#a9ef986dea2534336eedced402b935438',1,'Virus']]],
+  ['contagiated_529',['contagiated',['../class_data.html#abe8e885fdcc0906738be38c1425eb425',1,'Data']]],
+  ['contagious_530',['contagious',['../class_affectation.html#aee44c2cfeff7a9946e7e06b84e61f5d5',1,'Affectation']]],
+  ['contagiousdata_531',['contagiousData',['../class_data.html#a2e3b419c39fbdedc1f523055cb464e60',1,'Data.contagiousData()'],['../class_filter.html#a2d1f768dce09c3e480aa4a959bcffd62',1,'Filter.contagiousData()']]],
+  ['contagiousnextstep_532',['contagiousNextStep',['../class_affected_group.html#ad5f3b281a971f3e96613696deb2f4c05',1,'AffectedGroup']]],
+  ['contagiousnexttime_533',['contagiousNextTime',['../class_affected_group.html#a8edb762ea877111a8a332396f7ba3628',1,'AffectedGroup']]],
+  ['contagiouspopulation_534',['contagiousPopulation',['../class_filter.html#a2a2530a787f940ba4830b395e982f8f4',1,'Filter']]],
+  ['contagiousstate_535',['contagiousState',['../class_affected_group.html#acec8e31f7003302c498d257297691ee2',1,'AffectedGroup']]],
+  ['count_536',['count',['../class_affectation.html#a7c2ad2c02e5e6006579d36a6c17d1963',1,'Affectation']]],
+  ['countgroup_537',['countGroup',['../class_affectation.html#a9f712a2d66b4e669f8936fb6219e22cc',1,'Affectation']]],
+  ['createmutationbyerror_538',['createMutationByError',['../class_mutable_virus.html#a1be4bb53d260792e7d49f17a992b7cbc',1,'MutableVirus']]],
+  ['createmutationbyfamily_539',['createMutationByFamily',['../class_mutable_virus.html#ac3b11e6b08a90bd5e109a85a5c1e72e5',1,'MutableVirus']]]
+];

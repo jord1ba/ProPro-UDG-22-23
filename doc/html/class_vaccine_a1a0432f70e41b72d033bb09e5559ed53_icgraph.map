@@ -1,0 +1,29 @@
+<map id="Vaccine.effectDuration" name="Vaccine.effectDuration">
+<area shape="rect" id="node1" title="Retorna el nombre de ticks que tindrà efecte la vacuna." alt="" coords="2603,134,2772,161"/>
+<area shape="rect" id="node2" href="$class_hard_vaccine.html#a0f768474aaa53fe790d27a07e1356536" title="Constructor." alt="" coords="2339,58,2527,85"/>
+<area shape="rect" id="node3" href="$class_affectation_1_1_vaccine_stepper.html#a0b21bed95ad68309649fe94114f293ad" title=" " alt="" coords="2312,109,2555,135"/>
+<area shape="rect" id="node15" href="$class_soft_vaccine.html#a8b11d88de53d4324323f3514bb067197" title="Constructor." alt="" coords="2345,159,2521,186"/>
+<area shape="rect" id="node16" href="$class_affectation.html#a1bd69bee9667d46dfb19cac8aec2adee" title=" " alt="" coords="2325,228,2542,269"/>
+<area shape="rect" id="node4" href="$class_affectation_1_1_vaccine_stepper.html#a801278a6e071be5cbb224bf8aef2d0a0" title=" " alt="" coords="2053,68,2264,109"/>
+<area shape="rect" id="node5" href="$class_affectation_1_1_vaccine_stepper.html#a48568c3d66f73fdb48bab135c3d92b32" title="Calcula el valor modificat segons la vacuna i la proporció de persones afectades. No cal comprovar si..." alt="" coords="1751,67,2005,94"/>
+<area shape="rect" id="node6" href="$class_affected_group.html#aae549c7c45705f28947317f14f1ebd4d" title="Callback que es crida quan el període de malaltia canvia d&#39;estat. Bifurca els afectats quan arriben a..." alt="" coords="1484,67,1703,94"/>
+<area shape="rect" id="node14" href="$class_affectation.html#a52bac94fadac45ee7ed7891fc737a56d" title="Propaga el virus dins l&#39;afectació." alt="" coords="713,17,909,43"/>
+<area shape="rect" id="node7" href="$class_affected_group.html#a8fc2cb4c7c0e679472e97d2901e4f0c1" title="Si escau, avança un tic en el període de malaltia." alt="" coords="1206,67,1435,94"/>
+<area shape="rect" id="node8" href="$class_affected_group.html#a54c6b1cb7d0eb92b5ea8ba6e30da47f2" title="Contagious actualitza la quantitat de persones emmalaltides, per tant, sempre haurà d&#39;anar abans que ..." alt="" coords="969,67,1146,94"/>
+<area shape="rect" id="node9" href="$class_affectation.html#af5f7026da3080fbe20295dee50e4eee8" title="Avança steps a tots els grups d&#39;afectats. Si un grup d&#39;afectats acaba tots els períodes,..." alt="" coords="734,67,889,94"/>
+<area shape="rect" id="node10" href="$class_region.html#a4d94a3fb6214962bdf5fbdd09edad438" title="Distribueix la proporció de persones malaltes uniformement en la duració dels símptomes del virus en ..." alt="" coords="479,5,665,47"/>
+<area shape="rect" id="node13" href="$class_region.html#adfc1d0c1fd17d13ddb070e5bed408517" title="Propaga els virus en aquesta regió." alt="" coords="503,71,641,98"/>
+<area shape="rect" id="node11" href="$class_simulation.html#a25ce209560f3f2ae23643a6d4fe96198" title="A partir de les dades de les families crea la llista d&#39;objectes de tipus Region." alt="" coords="220,13,431,39"/>
+<area shape="rect" id="node12" href="$class_simulation.html#a84d2e11489e9d0c719e5e2a0bf39e636" title="Constructor de la simulació." alt="" coords="5,13,172,39"/>
+<area shape="rect" id="node17" href="$class_data.html#a7aaf71685440d631ee52fb67e080bc27" title="Constructor que rep un virus i una regió afectada per aquest i carrega i guarda les dades de l&#39;afecta..." alt="" coords="2115,337,2203,363"/>
+<area shape="rect" id="node18" href="$class_data.html#a64ecd336fa2b1addf90f43a941c6703b" title="Retorna en format String les dades més rellevants de l&#39;objecte actual." alt="" coords="2099,185,2218,211"/>
+<area shape="rect" id="node26" href="$class_data.html#a7c190e5a2f3f11629a13a90d05e9e1cf" title="Retorna en format String totes les dades de l&#39;objecte actual ordenades." alt="" coords="2105,235,2213,262"/>
+<area shape="rect" id="node27" href="$class_data.html#a544295f9ec81e74daaa7b5df8e1e8508" title="Actualitza la informació actual per la generada en el següent tick." alt="" coords="2092,286,2225,313"/>
+<area shape="rect" id="node19" href="$class_writer.html#a3db7795a469ac328a599bffcfa4f57f2" title="Mostra per pantalla un resum de l&#39;estat actual i acumulat." alt="" coords="1797,189,1959,215"/>
+<area shape="rect" id="node20" href="$class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="1496,194,1691,221"/>
+<area shape="rect" id="node21" href="$class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="1217,270,1424,297"/>
+<area shape="rect" id="node22" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="957,219,1157,246"/>
+<area shape="rect" id="node23" href="$class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="1233,321,1409,347"/>
+<area shape="rect" id="node24" href="$class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="1231,118,1411,145"/>
+<area shape="rect" id="node25" href="$class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="1205,169,1436,195"/>
+</map>

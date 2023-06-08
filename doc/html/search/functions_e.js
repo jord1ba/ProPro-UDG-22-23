@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['senddatatoui_672',['sendDataToUI',['../class_command_line.html#ae27c25cec300bc847095b5c1f2922083',1,'CommandLine']]],
+  ['setborderstate_673',['setBorderState',['../class_region.html#aa781053d4ffe996700e1ebcd7ebe75b9',1,'Region.setBorderState()'],['../class_simulation.html#ae2b704932f2a3c52e229ddf0187a3d6a',1,'Simulation.setBorderState()']]],
+  ['setfilters_674',['setFilters',['../class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b',1,'CommandLine']]],
+  ['setharshlockdown_675',['setHarshLockdown',['../class_region.html#acefa2df96bb8b0be1ed5610448d5e0d0',1,'Region.setHarshLockdown()'],['../class_simulation.html#ae29d66057deeae8f06110fd6595b1bcc',1,'Simulation.setHarshLockdown()']]],
+  ['showfiltermenu_676',['showFilterMenu',['../class_writer.html#a1c3d8d7d4d6cb434a805fe28575f75e2',1,'Writer']]],
+  ['showlistmenu_677',['showListMenu',['../class_writer.html#aea710eafc2ea0f3714c2ad4dfbf26414',1,'Writer']]],
+  ['showlockdownmenu_678',['showLockdownMenu',['../class_writer.html#aa838b891830cf2302460224e24dfe380',1,'Writer']]],
+  ['showmainmenu_679',['showMainMenu',['../class_writer.html#a9187f8473e3587680a3a44532c09217b',1,'Writer']]],
+  ['simulatenexttick_680',['simulateNextTick',['../class_simulation.html#ad224a3d797191cfd9c32caf75d5c2c07',1,'Simulation']]],
+  ['simulation_681',['Simulation',['../class_simulation.html#a84d2e11489e9d0c719e5e2a0bf39e636',1,'Simulation']]],
+  ['softvaccine_682',['SoftVaccine',['../class_soft_vaccine.html#a8b11d88de53d4324323f3514bb067197',1,'SoftVaccine']]],
+  ['spreadrate_683',['spreadRate',['../class_virus.html#a1c61bb89a329cdc7af7bcbd6cb99af76',1,'Virus']]],
+  ['start_684',['start',['../class_launcher.html#a860930902bd48e8d14f85a9231846454',1,'Launcher']]],
+  ['strongestvirus_685',['strongestVirus',['../class_virus.html#a7f955e1a90ac771a8642f81e3a63e457',1,'Virus']]],
+  ['subgroup_686',['subgroup',['../class_affected_group.html#a1af7a507e1147e3523c221e8ea23408c',1,'AffectedGroup']]],
+  ['summary_687',['summary',['../class_data.html#a64ecd336fa2b1addf90f43a941c6703b',1,'Data.summary()'],['../class_filter.html#affbb305dfb2cbb99ae0370a3ca746972',1,'Filter.summary()']]],
+  ['symptom_688',['symptom',['../class_affectation.html#a680ec97751a37258b0deafc69affef62',1,'Affectation']]],
+  ['symptomduration_689',['symptomDuration',['../class_virus.html#acf31eb9fd53d1bac8f6f2da768c5434d',1,'Virus']]]
+];

@@ -1,0 +1,6 @@
+<map id="Simulation.findVirusByName" name="Simulation.findVirusByName">
+<area shape="rect" id="node1" title="Retorna l&#39;objecte Virus de la llista de virus donat el nom del virus." alt="" coords="484,31,693,57"/>
+<area shape="rect" id="node2" href="$class_simulation.html#a25ce209560f3f2ae23643a6d4fe96198" title="A partir de les dades de les families crea la llista d&#39;objectes de tipus Region." alt="" coords="223,5,433,32"/>
+<area shape="rect" id="node4" href="$class_simulation.html#a65d2fce60fa229109017fb7299d3edfb" title="A partir de les dades de les vacunes crea la llista d&#39;objectes de tipus Vaccine." alt="" coords="220,56,436,83"/>
+<area shape="rect" id="node3" href="$class_simulation.html#a84d2e11489e9d0c719e5e2a0bf39e636" title="Constructor de la simulació." alt="" coords="5,31,172,57"/>
+</map>

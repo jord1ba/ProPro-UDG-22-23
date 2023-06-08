@@ -1,0 +1,8 @@
+<map id="Simulation" name="Simulation">
+<area shape="rect" id="node1" title="Simulació del territori, virus, vacunes, etc. S&#39;encarrega de gestionar els ticks, els nous virus i mu..." alt="" coords="226,184,318,211"/>
+<area shape="rect" id="node2" href="$class_territory.html" title="Classe que engloba totes les regions, simplifica les crides des de simulació." alt="" coords="27,95,103,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="128,95,253,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="278,95,429,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="453,95,561,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Simulation.setHarshLockdown" name="Simulation.setHarshLockdown">
+<area shape="rect" id="node1" title="Estableix el confinament estricte de la regió a l&#39;estat desitjat." alt="" coords="5,5,224,32"/>
+<area shape="rect" id="node2" href="$class_region.html#acefa2df96bb8b0be1ed5610448d5e0d0" title="Determina el confinament intern, si state és fals, la mobilitat es redueix segons new_rate." alt="" coords="272,5,467,32"/>
+</map>

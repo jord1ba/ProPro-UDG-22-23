@@ -1,0 +1,9 @@
+<map id="Launcher.readFiles" name="Launcher.readFiles">
+<area shape="rect" id="node1" title="Genera els readers donat un directori de lectura." alt="" coords="5,147,148,174"/>
+<area shape="rect" id="node2" href="$class_initial_state_reader.html#a7c07c7ef2bf85934b4f8103d81469193" title="Getter de la llista de dades dels estats inicials." alt="" coords="196,5,391,47"/>
+<area shape="rect" id="node3" href="$class_virus_reader.html#ae327e12e68e54a297587ff0f76046bbc" title="Getter de la llista de dades de famílies de virus." alt="" coords="215,71,372,98"/>
+<area shape="rect" id="node4" href="$class_region_reader.html#a05ca55ad662a7e79506b89ac61732f46" title="Getter de la llista de dades de relacions de veïnatge." alt="" coords="199,122,387,149"/>
+<area shape="rect" id="node5" href="$class_region_reader.html#a37ec100bcbbba60ebf96bcf65fd1573e" title="Getter de la llista de dades de regions." alt="" coords="211,173,375,199"/>
+<area shape="rect" id="node6" href="$class_vaccine_reader.html#a91f872c41e7ce5c5848e70569621e81e" title="Getter de la llista de dades de vacunes." alt="" coords="204,223,383,250"/>
+<area shape="rect" id="node7" href="$class_virus_reader.html#a8f21e2f0ef60fa0eb37eed26bd596429" title="Getter de la llista de dades de virus." alt="" coords="218,274,369,301"/>
+</map>

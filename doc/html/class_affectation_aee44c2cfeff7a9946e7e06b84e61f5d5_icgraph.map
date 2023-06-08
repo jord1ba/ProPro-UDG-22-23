@@ -1,0 +1,10 @@
+<map id="Affectation.contagious" name="Affectation.contagious">
+<area shape="rect" id="node1" title=" " alt="" coords="957,56,1125,83"/>
+<area shape="rect" id="node2" href="$class_data.html#a7aaf71685440d631ee52fb67e080bc27" title="Constructor que rep un virus i una regió afectada per aquest i carrega i guarda les dades de l&#39;afecta..." alt="" coords="767,5,855,32"/>
+<area shape="rect" id="node3" href="$class_affectation.html#a52bac94fadac45ee7ed7891fc737a56d" title="Propaga el virus dins l&#39;afectació." alt="" coords="713,56,909,83"/>
+<area shape="rect" id="node8" href="$class_data.html#a544295f9ec81e74daaa7b5df8e1e8508" title="Actualitza la informació actual per la generada en el següent tick." alt="" coords="745,107,878,133"/>
+<area shape="rect" id="node4" href="$class_region.html#a4d94a3fb6214962bdf5fbdd09edad438" title="Distribueix la proporció de persones malaltes uniformement en la duració dels símptomes del virus en ..." alt="" coords="479,19,665,61"/>
+<area shape="rect" id="node7" href="$class_region.html#adfc1d0c1fd17d13ddb070e5bed408517" title="Propaga els virus en aquesta regió." alt="" coords="503,85,641,112"/>
+<area shape="rect" id="node5" href="$class_simulation.html#a25ce209560f3f2ae23643a6d4fe96198" title="A partir de les dades de les families crea la llista d&#39;objectes de tipus Region." alt="" coords="220,27,431,53"/>
+<area shape="rect" id="node6" href="$class_simulation.html#a84d2e11489e9d0c719e5e2a0bf39e636" title="Constructor de la simulació." alt="" coords="5,27,172,53"/>
+</map>

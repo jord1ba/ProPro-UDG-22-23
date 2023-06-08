@@ -1,0 +1,9 @@
+<map id="Virus.isParent" name="Virus.isParent">
+<area shape="rect" id="node1" title="Retorna si v és pare del virus actual." alt="" coords="1124,31,1235,57"/>
+<area shape="rect" id="node2" href="$class_vaccine.html#acec8a2f01cfddfcc1097cc62426d6649" title=" " alt="" coords="932,31,1076,57"/>
+<area shape="rect" id="node3" href="$class_region.html#a4ee89117aff95d0d415a08f1d51b3ba7" title="Aplica la vacuna a la regió." alt="" coords="739,31,884,57"/>
+<area shape="rect" id="node4" href="$class_territory.html#a61efcfef2b87b77c265773cb10379040" title="Afegeix una vacuna a la regió." alt="" coords="523,5,675,32"/>
+<area shape="rect" id="node5" href="$class_simulation.html#a092035231e8846afe5904e90de90454a" title="Aplica una vacuna a un percentatge de població d&#39;una regió." alt="" coords="508,56,691,83"/>
+<area shape="rect" id="node6" href="$class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="253,56,460,83"/>
+<area shape="rect" id="node7" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,56,205,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Affectation.VaccineStepper.modifier" name="Affectation.VaccineStepper.modifier">
+<area shape="rect" id="node1" title="Calcula el valor modificat segons la vacuna i la proporció de persones afectades. No cal comprovar si..." alt="" coords="5,60,260,87"/>
+<area shape="rect" id="node2" href="$class_affectation_1_1_vaccine_stepper.html#a801278a6e071be5cbb224bf8aef2d0a0" title=" " alt="" coords="308,23,519,65"/>
+<area shape="rect" id="node6" href="$class_vaccine.html#a28c13dbe8b38b45519d4b09df989de3b" title="Retorna el valor value modificat segons la vacuna i el paràmetre de la vacuna que es vulgui saber mit..." alt="" coords="348,89,479,116"/>
+<area shape="rect" id="node3" href="$class_vaccine.html#a816c5827a1b8212e3b79dcf42a8b26fc" title="Retorna el nombre de ticks que tarda la vacuna a fer efecte." alt="" coords="886,5,998,32"/>
+<area shape="rect" id="node4" href="$class_affectation_1_1_vaccine_stepper.html#a0b21bed95ad68309649fe94114f293ad" title=" " alt="" coords="567,56,809,83"/>
+<area shape="rect" id="node5" href="$class_vaccine.html#a1a0432f70e41b72d033bb09e5559ed53" title="Retorna el nombre de ticks que tindrà efecte la vacuna." alt="" coords="857,56,1027,83"/>
+</map>

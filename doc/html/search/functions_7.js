@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['immunity_592',['immunity',['../class_affectation.html#a22525300d16d9527524d22308bd9552b',1,'Affectation']]],
+  ['immunityduration_593',['immunityDuration',['../class_virus.html#a28e0bf3e096e2f690b5a994944292dd0',1,'Virus']]],
+  ['immunitynextstep_594',['immunityNextStep',['../class_affected_group.html#a5c1a5376bdeac1006c2f1b1474463354',1,'AffectedGroup']]],
+  ['incontagious_595',['inContagious',['../class_affectation.html#a10c28873ee75a1d6b2a5d44fda83b8f4',1,'Affectation']]],
+  ['incubating_596',['incubating',['../class_affectation.html#aef43ba8b9460b2e41ed90bc02b67e3c0',1,'Affectation']]],
+  ['incubationtime_597',['incubationTime',['../class_virus.html#a2a8d16a122f19b0bfdbdb26906133f4d',1,'Virus']]],
+  ['infect_598',['infect',['../class_region.html#a6052f3a22228217ba7b7569bc5fc8055',1,'Region']]],
+  ['infectionduration_599',['infectionDuration',['../class_virus.html#ab2cb17638d5c9f7851997d1ede032af5',1,'Virus']]],
+  ['inhabitants_600',['inhabitants',['../class_region.html#a6b36684643bfe25a7ad6bd78f585dd1b',1,'Region']]],
+  ['inimmunity_601',['inImmunity',['../class_affectation.html#ab06a7a4be868625c8f90fd8c88ceca5d',1,'Affectation']]],
+  ['inincubating_602',['inIncubating',['../class_affectation.html#a4fd09c5097e7f0b26b51b6e7ea8c505b',1,'Affectation']]],
+  ['initialstatedata_603',['InitialStateData',['../class_initial_state_reader_1_1_initial_state_data.html#a882e4cd541239757495292b36a36e99e',1,'InitialStateReader::InitialStateData']]],
+  ['initialstatereader_604',['InitialStateReader',['../class_initial_state_reader.html#afa63d8431360f696deb2faa2449196e9',1,'InitialStateReader']]],
+  ['inlatency_605',['inLatency',['../class_affectation.html#af69ec2fb52a72c9d82ff798aad150ca7',1,'Affectation']]],
+  ['innullcontagious_606',['inNullContagious',['../class_affectation.html#a6a35bea8b3481858db921ff8bcdbc441',1,'Affectation']]],
+  ['innulldisease_607',['inNullDisease',['../class_affectation.html#ad137bea2c3c39280f7e8ed561b9e4826',1,'Affectation']]],
+  ['insidemobility_608',['insideMobility',['../class_region.html#a68178dc349012ab8d6a80202ab22b640',1,'Region']]],
+  ['insymptom_609',['inSymptom',['../class_affectation.html#a95423729502324ed79f1dc26654aeb62',1,'Affectation']]],
+  ['isactive_610',['isActive',['../class_affectation_1_1_vaccine_stepper.html#a801278a6e071be5cbb224bf8aef2d0a0',1,'Affectation::VaccineStepper']]],
+  ['isdead_611',['isDead',['../class_affected_group.html#a5205e962b34ceab08bcadb9956051d3b',1,'AffectedGroup']]],
+  ['iseffective_612',['isEffective',['../class_vaccine.html#acec8a2f01cfddfcc1097cc62426d6649',1,'Vaccine']]],
+  ['isonlockdown_613',['isOnLockdown',['../class_region.html#aec6a11b660c4968b059e27b6160db2f2',1,'Region']]],
+  ['isover_614',['isOver',['../class_affectation_1_1_vaccine_stepper.html#a0b21bed95ad68309649fe94114f293ad',1,'Affectation::VaccineStepper']]],
+  ['isparent_615',['isParent',['../class_mutable_virus.html#a7f6783e16b21fa0e76ba342a6f802e6d',1,'MutableVirus.isParent()'],['../class_virus.html#a65eb950b1331b5d3c410e55c34dadf8f',1,'Virus.isParent()']]]
+];

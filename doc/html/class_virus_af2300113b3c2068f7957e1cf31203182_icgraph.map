@@ -1,0 +1,24 @@
+<map id="Virus.name" name="Virus.name">
+<area shape="rect" id="node1" title="Retorna el nom del virus." alt="" coords="1313,263,1409,290"/>
+<area shape="rect" id="node2" href="$class_mutable_virus.html#ac3b11e6b08a90bd5e109a85a5c1e72e5" title="Crea una mutació per família donats dos MutableVirus." alt="" coords="795,5,1005,47"/>
+<area shape="rect" id="node4" href="$class_simulation.html#a028b0fbc4989e80f49375a621fe78c55" title="Retorna l&#39;objecte Virus de la llista de virus donat el nom del virus." alt="" coords="1056,187,1265,214"/>
+<area shape="rect" id="node8" href="$class_mutable_virus.html#a012b72808083fefc14e6db7beff8af20" title="Constructor." alt="" coords="1061,78,1260,105"/>
+<area shape="rect" id="node11" href="$class_command_line.html#ae27c25cec300bc847095b5c1f2922083" title="envia la informació generada pels filtres a la UI per fer els PieCharts." alt="" coords="795,289,1005,315"/>
+<area shape="rect" id="node18" href="$class_writer.html#a1c3d8d7d4d6cb434a805fe28575f75e2" title="Mostra el menú de filtres." alt="" coords="1077,339,1245,366"/>
+<area shape="rect" id="node19" href="$class_data.html#a64ecd336fa2b1addf90f43a941c6703b" title="Retorna en format String les dades més rellevants de l&#39;objecte actual." alt="" coords="1101,238,1220,265"/>
+<area shape="rect" id="node21" href="$class_data.html#a7c190e5a2f3f11629a13a90d05e9e1cf" title="Retorna en format String totes les dades de l&#39;objecte actual ordenades." alt="" coords="1107,390,1215,417"/>
+<area shape="rect" id="node22" href="$class_virus.html#a6e27ed9f926044027e3864c36a86ba84" title="Constructor base amb totes les dades." alt="" coords="1115,441,1207,467"/>
+<area shape="rect" id="node3" href="$class_mutable_virus.html#aae72ceb7254d92851e6cf481b39599f7" title="Determina el funcionament en cas de coincidència de virus de la mateixa família en un grup de persone..." alt="" coords="532,13,744,39"/>
+<area shape="rect" id="node5" href="$class_simulation.html#a25ce209560f3f2ae23643a6d4fe96198" title="A partir de les dades de les families crea la llista d&#39;objectes de tipus Region." alt="" coords="795,137,1005,163"/>
+<area shape="rect" id="node7" href="$class_simulation.html#a65d2fce60fa229109017fb7299d3edfb" title="A partir de les dades de les vacunes crea la llista d&#39;objectes de tipus Vaccine." alt="" coords="792,187,1008,214"/>
+<area shape="rect" id="node6" href="$class_simulation.html#a84d2e11489e9d0c719e5e2a0bf39e636" title="Constructor de la simulació." alt="" coords="555,162,721,189"/>
+<area shape="rect" id="node9" href="$class_mutable_virus.html#a1be4bb53d260792e7d49f17a992b7cbc" title="Crea una mutació per error de còpia." alt="" coords="795,71,1005,112"/>
+<area shape="rect" id="node10" href="$class_mutable_virus.html#a08408424d9af878eeaedf078d037f454" title="Propaga el virus en una regió específica." alt="" coords="533,78,743,105"/>
+<area shape="rect" id="node12" href="$class_command_line.html#a5b56a46daa0dfaedc184d053df0e75f9" title="Mostra per consola a través de Writer els continguts pertinents." alt="" coords="541,289,735,315"/>
+<area shape="rect" id="node13" href="$class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95" title="Demana a l&#39;usuari les dades per aplicar una vacuna i l&#39;aplica." alt="" coords="265,187,472,214"/>
+<area shape="rect" id="node14" href="$class_command_line.html#a5d7df3f10092f1ce594e1ae6d8b43483" title="Funció que conté el bucle principal del progrma." alt="" coords="5,289,205,315"/>
+<area shape="rect" id="node15" href="$class_command_line.html#a02723f11a53b6236e9fba8378a6042c8" title="Mostra el menú de llistes dels elements de la simulació." alt="" coords="281,289,457,315"/>
+<area shape="rect" id="node16" href="$class_command_line.html#a928ceccacd0ceee940002ea00ccdc49b" title="Desplega el menú de filtres i permet actualitzar&#45;los." alt="" coords="279,339,459,366"/>
+<area shape="rect" id="node17" href="$class_command_line.html#aafc1467b306ce3e4f1a7fbcafa5a538e" title="Actualitza confinaments i tancaments." alt="" coords="253,390,484,417"/>
+<area shape="rect" id="node20" href="$class_writer.html#a3db7795a469ac328a599bffcfa4f57f2" title="Mostra per pantalla un resum de l&#39;estat actual i acumulat." alt="" coords="819,238,981,265"/>
+</map>

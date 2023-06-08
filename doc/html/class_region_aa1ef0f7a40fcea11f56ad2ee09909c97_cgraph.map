@@ -1,0 +1,9 @@
+<map id="Region.affectationsByFamily" name="Region.affectationsByFamily">
+<area shape="rect" id="node1" title="Filtra les afectacions per família." alt="" coords="5,56,213,83"/>
+<area shape="rect" id="node2" href="$class_region.html#a69de0438019ba358a8c35e4e9c6b27de" title="Si no existeix crea l&#39;afectació" alt="" coords="261,5,403,32"/>
+<area shape="rect" id="node6" href="$class_affectation.html#a145faada1c1ef6ab363dc12b73a6f88a" title=" " alt="" coords="692,56,821,83"/>
+<area shape="rect" id="node7" href="$class_virus.html#a09ee51daad4bf97394ff3331e911edf3" title="Retorna la família a la qual pertany el virus." alt="" coords="281,107,383,133"/>
+<area shape="rect" id="node3" href="$class_region.html#a94249884b5c17e75ffb388b1007616b3" title="Comprova si hi ha alguna vacuna que afectaria aquesta afectació, i si es dona el cas,..." alt="" coords="451,5,617,32"/>
+<area shape="rect" id="node4" href="$class_affectation.html#add4a237b964b27cd6e5fc9cf6b0c1fdb" title="Aplica la vacuna a l&#39;afectació, substituïnt l&#39;anterior." alt="" coords="665,5,848,32"/>
+<area shape="rect" id="node5" href="$class_affectation.html#a06e4ebe2c8b3bd3c528396d7b9fac61f" title=" " alt="" coords="896,5,1043,32"/>
+</map>

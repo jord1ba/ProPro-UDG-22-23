@@ -1,0 +1,7 @@
+<map id="Simulation.addVirus" name="Simulation.addVirus">
+<area shape="rect" id="node1" title="Afegeix el virus v a la llista de virus." alt="" coords="524,46,677,73"/>
+<area shape="rect" id="node2" href="$class_mutable_virus.html#a1be4bb53d260792e7d49f17a992b7cbc" title="Crea una mutació per error de còpia." alt="" coords="265,5,476,47"/>
+<area shape="rect" id="node4" href="$class_mutable_virus.html#ac3b11e6b08a90bd5e109a85a5c1e72e5" title="Crea una mutació per família donats dos MutableVirus." alt="" coords="265,71,476,112"/>
+<area shape="rect" id="node3" href="$class_mutable_virus.html#a08408424d9af878eeaedf078d037f454" title="Propaga el virus en una regió específica." alt="" coords="6,13,217,39"/>
+<area shape="rect" id="node5" href="$class_mutable_virus.html#aae72ceb7254d92851e6cf481b39599f7" title="Determina el funcionament en cas de coincidència de virus de la mateixa família en un grup de persone..." alt="" coords="5,78,217,105"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="Data.Data" name="Data.Data">
+<area shape="rect" id="node1" title="Constructor que rep un iterator d&#39;una collection de Data i realitza i guarda la suma dels valors de c..." alt="" coords="5,157,93,184"/>
+<area shape="rect" id="node2" href="$class_data.html#aca17bb7551fd5abd69bb22975b6365d2" title="Suma les dades de data a les de l&#39;objecte actual." alt="" coords="211,5,323,32"/>
+<area shape="rect" id="node3" href="$class_region.html#a69de0438019ba358a8c35e4e9c6b27de" title="Si no existeix crea l&#39;afectació" alt="" coords="196,56,337,83"/>
+<area shape="rect" id="node6" href="$class_affectation.html#a06e4ebe2c8b3bd3c528396d7b9fac61f" title=" " alt="" coords="888,56,1035,83"/>
+<area shape="rect" id="node8" href="$class_data.html#a86168b4b65c19eb14e7138b62db8cbd9" title="Getter de la regió a la que corresponen les dades de l&#39;objecte actual." alt="" coords="217,157,316,184"/>
+<area shape="rect" id="node9" href="$class_affectation_1_1_vaccine_stepper.html#ae320fcce1e520c977a66024aa1eebb56" title=" " alt="" coords="141,208,392,235"/>
+<area shape="rect" id="node10" href="$class_affectation.html#a1bd69bee9667d46dfb19cac8aec2adee" title=" " alt="" coords="158,259,375,301"/>
+<area shape="rect" id="node12" href="$class_data.html#a9a917827115a7d7087466a44c98fc6bd" title="Getter del virus al que corresponen les dades de l&#39;objecte actual." alt="" coords="222,325,311,352"/>
+<area shape="rect" id="node4" href="$class_region.html#a94249884b5c17e75ffb388b1007616b3" title="Comprova si hi ha alguna vacuna que afectaria aquesta afectació, i si es dona el cas,..." alt="" coords="441,56,608,83"/>
+<area shape="rect" id="node5" href="$class_affectation.html#add4a237b964b27cd6e5fc9cf6b0c1fdb" title="Aplica la vacuna a l&#39;afectació, substituïnt l&#39;anterior." alt="" coords="657,5,840,32"/>
+<area shape="rect" id="node7" href="$class_affectation.html#a145faada1c1ef6ab363dc12b73a6f88a" title=" " alt="" coords="684,56,813,83"/>
+<area shape="rect" id="node11" href="$class_vaccine.html#a1a0432f70e41b72d033bb09e5559ed53" title="Retorna el nombre de ticks que tindrà efecte la vacuna." alt="" coords="440,267,609,293"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="MutableVirus.createMutationByFamily" name="MutableVirus.createMutationByFamily">
+<area shape="rect" id="node1" title="Crea una mutació per família donats dos MutableVirus." alt="" coords="5,251,216,293"/>
+<area shape="rect" id="node2" href="$class_simulation.html#aba363786e329e16fca1296afc4ee04db" title="Afegeix el virus v a la llista de virus." alt="" coords="287,208,440,235"/>
+<area shape="rect" id="node3" href="$class_mutable_virus.html#a012b72808083fefc14e6db7beff8af20" title="Constructor." alt="" coords="264,259,463,285"/>
+<area shape="rect" id="node11" href="$class_virus.html#af2300113b3c2068f7957e1cf31203182" title="Retorna el nom del virus." alt="" coords="552,461,648,488"/>
+<area shape="rect" id="node4" href="$class_virus.html#a9023fe67dae6b13105089fd24d3ea83e" title="Retorna la taxa de mortalitat del virus." alt="" coords="537,5,663,32"/>
+<area shape="rect" id="node5" href="$class_virus.html#a465e90526c449c17f7ee244960170c7a" title="Retorna la probabilitat d&#39;agafar el virus." alt="" coords="511,56,689,83"/>
+<area shape="rect" id="node6" href="$class_virus.html#a09ee51daad4bf97394ff3331e911edf3" title="Retorna la família a la qual pertany el virus." alt="" coords="549,107,651,133"/>
+<area shape="rect" id="node7" href="$class_virus.html#a28e0bf3e096e2f690b5a994944292dd0" title="Retorna la durada en ticks del període d&#39;immunitat." alt="" coords="511,157,689,184"/>
+<area shape="rect" id="node8" href="$class_virus.html#a2a8d16a122f19b0bfdbdb26906133f4d" title="Retorna la durada en ticks que es tarda a incubar el virus." alt="" coords="520,208,680,235"/>
+<area shape="rect" id="node9" href="$class_virus.html#ab2cb17638d5c9f7851997d1ede032af5" title="Retorna la durada en ticks de la infecció." alt="" coords="514,259,686,285"/>
+<area shape="rect" id="node10" href="$class_virus.html#ac140513e7ebb7b877bb9d6ffccd7eba5" title="Retorna la durada en ticks del període de latència." alt="" coords="530,309,670,336"/>
+<area shape="rect" id="node12" href="$class_virus.html#a1c61bb89a329cdc7af7bcbd6cb99af76" title="Retorna la taxa de contagi del virus." alt="" coords="533,360,667,387"/>
+<area shape="rect" id="node13" href="$class_virus.html#acf31eb9fd53d1bac8f6f2da768c5434d" title="Retorna la durada en ticks dels símptomes." alt="" coords="511,411,689,437"/>
+</map>

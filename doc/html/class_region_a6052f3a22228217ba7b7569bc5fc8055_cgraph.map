@@ -1,0 +1,13 @@
+<map id="Region.infect" name="Region.infect">
+<area shape="rect" id="node1" title="Acaba d&#39;afegir els grups a les afectacions." alt="" coords="5,81,113,108"/>
+<area shape="rect" id="node2" href="$class_region.html#a69de0438019ba358a8c35e4e9c6b27de" title="Si no existeix crea l&#39;afectació" alt="" coords="178,56,319,83"/>
+<area shape="rect" id="node7" href="$class_affectation.html#af4548407a0d4c506aace605a0012c82f" title="Acaba d&#39;afegir tots els grups que estaven preparats per afegir." alt="" coords="161,107,336,133"/>
+<area shape="rect" id="node3" href="$class_region.html#a94249884b5c17e75ffb388b1007616b3" title="Comprova si hi ha alguna vacuna que afectaria aquesta afectació, i si es dona el cas,..." alt="" coords="384,56,551,83"/>
+<area shape="rect" id="node4" href="$class_affectation.html#add4a237b964b27cd6e5fc9cf6b0c1fdb" title="Aplica la vacuna a l&#39;afectació, substituïnt l&#39;anterior." alt="" coords="599,5,781,32"/>
+<area shape="rect" id="node6" href="$class_affectation.html#a145faada1c1ef6ab363dc12b73a6f88a" title=" " alt="" coords="625,56,755,83"/>
+<area shape="rect" id="node5" href="$class_affectation.html#a06e4ebe2c8b3bd3c528396d7b9fac61f" title=" " alt="" coords="829,5,976,32"/>
+<area shape="rect" id="node8" href="$class_affected_group.html#ac57992f3a651b5bf34219cedb8b56d72" title="Suma dos grups d&#39;afectats en un de sol." alt="" coords="396,107,539,133"/>
+<area shape="rect" id="node10" href="$class_affectation.html#a4a6611eff1571b1ec535718ed74cf9b2" title="Cerca un grup d&#39;afectats de les mateixes característiques que el grup passat per paràmetre." alt="" coords="387,157,547,184"/>
+<area shape="rect" id="node9" href="$class_affectation.html#af908477cd600397c9cdfc20fee41280a" title="Avisa a l&#39;afectació que el nombre d&#39;afectats ha canviat." alt="" coords="601,107,779,133"/>
+<area shape="rect" id="node11" href="$class_affected_group.html#a2823fc9737f9a359087e2367386ed7ec" title="Determina si ambdós grups són iguals en termes d&#39;estats i períodes." alt="" coords="609,157,771,184"/>
+</map>

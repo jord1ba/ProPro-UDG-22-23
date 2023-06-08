@@ -1,0 +1,5 @@
+<map id="UI.lockEdge" name="UI.lockEdge">
+<area shape="rect" id="node1" title="Tanca visualment una frontera entre dues regions." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$class_graph_chart_data.html#af94fe63c5e0bc418b66097295b701581" title="Canvia el color de l&#39;aresta que connecta r1 i r2 a vermell (bloquejat)." alt="" coords="152,5,343,32"/>
+<area shape="rect" id="node3" href="$class_region.html#ab978540cf53242fccf6e88078e8d56eb" title=" " alt="" coords="391,5,499,32"/>
+</map>

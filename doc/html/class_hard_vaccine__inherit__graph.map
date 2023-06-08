@@ -1,0 +1,4 @@
+<map id="HardVaccine" name="HardVaccine">
+<area shape="rect" id="node1" title="Vacunes que disminueixen la capacitat de transmissió del virus." alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node2" href="$class_vaccine.html" title="Vacunes que disminueixen l&#39;efectivitat dels virus." alt="" coords="21,5,93,32"/>
+</map>

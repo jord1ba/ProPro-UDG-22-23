@@ -1,0 +1,6 @@
+<map id="Region.transfer" name="Region.transfer">
+<area shape="rect" id="node1" title="Transfereix una proporció de persones afectades de la regió from a la regió to." alt="" coords="203,56,325,83"/>
+<area shape="rect" id="node2" href="$class_region.html#ad753e4cc4a905670730726a7a9c432d0" title="Mou les persones a les regions veïnes." alt="" coords="5,5,155,32"/>
+<area shape="rect" id="node3" href="$class_region.html#ab5019c94ac9d442b01756e3d82aa53b9" title="Retorna els habitants que s&#39;han mogut." alt="" coords="15,56,145,83"/>
+<area shape="rect" id="node4" href="$class_region.html#a5f04bf2c6b11e9cfb7c803ef686de6f1" title="Transfereix una proporció de persones afectades de la regió from a la regió to." alt="" coords="19,107,141,133"/>
+</map>

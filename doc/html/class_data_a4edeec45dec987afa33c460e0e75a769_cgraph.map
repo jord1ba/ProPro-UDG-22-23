@@ -1,0 +1,4 @@
+<map id="Data.virusPresence" name="Data.virusPresence">
+<area shape="rect" id="node1" title="Retorna el total d&#39;infectats actual (inclosos els immunes)." alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node2" href="$class_data.html#abe8e885fdcc0906738be38c1425eb425" title="Retorna el total d&#39;infectats actual (sense els immunes)." alt="" coords="201,5,336,32"/>
+</map>

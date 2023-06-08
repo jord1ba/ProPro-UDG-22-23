@@ -1,0 +1,7 @@
+<map id="Territory.addVaccine" name="Territory.addVaccine">
+<area shape="rect" id="node1" title="Afegeix una vacuna a la regió." alt="" coords="5,31,157,57"/>
+<area shape="rect" id="node2" href="$class_region.html#a4ee89117aff95d0d415a08f1d51b3ba7" title="Aplica la vacuna a la regió." alt="" coords="205,5,351,32"/>
+<area shape="rect" id="node5" href="$class_territory.html#aac966210bf72f4b4ddb4e9362af97971" title="Cerca de la regió segons el nom." alt="" coords="206,56,350,83"/>
+<area shape="rect" id="node3" href="$class_vaccine.html#acec8a2f01cfddfcc1097cc62426d6649" title=" " alt="" coords="399,5,543,32"/>
+<area shape="rect" id="node4" href="$class_virus.html#a65eb950b1331b5d3c410e55c34dadf8f" title="Retorna si v és pare del virus actual." alt="" coords="591,5,701,32"/>
+</map>

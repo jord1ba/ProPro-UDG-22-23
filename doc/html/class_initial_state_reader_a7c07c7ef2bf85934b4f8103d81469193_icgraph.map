@@ -1,0 +1,5 @@
+<map id="InitialStateReader.affectedGroups" name="InitialStateReader.affectedGroups">
+<area shape="rect" id="node1" title="Getter de la llista de dades dels estats inicials." alt="" coords="359,5,553,47"/>
+<area shape="rect" id="node2" href="$class_launcher.html#a44bcb687390ca0d7e7daa8b39546e51d" title="Genera els readers donat un directori de lectura." alt="" coords="168,13,311,39"/>
+<area shape="rect" id="node3" href="$class_launcher.html#a860930902bd48e8d14f85a9231846454" title="&quot;Main&quot; del programa. Segueix l&#39;estructura d&#39;una aplicació de JavaFX." alt="" coords="5,13,120,39"/>
+</map>

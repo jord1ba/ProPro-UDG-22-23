@@ -1,0 +1,5 @@
+<map id="Simulation.assemblyVaccines" name="Simulation.assemblyVaccines">
+<area shape="rect" id="node1" title="A partir de les dades de les vacunes crea la llista d&#39;objectes de tipus Vaccine." alt="" coords="5,5,221,32"/>
+<area shape="rect" id="node2" href="$class_simulation.html#a028b0fbc4989e80f49375a621fe78c55" title="Retorna l&#39;objecte Virus de la llista de virus donat el nom del virus." alt="" coords="269,5,479,32"/>
+<area shape="rect" id="node3" href="$class_virus.html#af2300113b3c2068f7957e1cf31203182" title="Retorna el nom del virus." alt="" coords="527,5,623,32"/>
+</map>

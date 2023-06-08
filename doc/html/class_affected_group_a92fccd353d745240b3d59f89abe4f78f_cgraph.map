@@ -1,0 +1,4 @@
+<map id="AffectedGroup.diseaseUpdate" name="AffectedGroup.diseaseUpdate">
+<area shape="rect" id="node1" title="Actualitza les morts i els afectats cada tic." alt="" coords="5,5,221,32"/>
+<area shape="rect" id="node2" href="$class_virus.html#acf31eb9fd53d1bac8f6f2da768c5434d" title="Retorna la durada en ticks dels símptomes." alt="" coords="269,5,447,32"/>
+</map>

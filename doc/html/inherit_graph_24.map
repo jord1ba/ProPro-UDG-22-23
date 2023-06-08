@@ -1,0 +1,5 @@
+<map id="Jerarquia Gràfica de la Classe" name="Jerarquia Gràfica de la Classe">
+<area shape="rect" id="node1" href="$class_vaccine.html" title="Vacunes que disminueixen l&#39;efectivitat dels virus." alt="" coords="5,31,77,57"/>
+<area shape="rect" id="node2" href="$class_hard_vaccine.html" title="Vacunes que disminueixen la capacitat de transmissió del virus." alt="" coords="125,5,228,32"/>
+<area shape="rect" id="node3" href="$class_soft_vaccine.html" title="Vacunes que redueixen les propietats del virus." alt="" coords="128,56,225,83"/>
+</map>

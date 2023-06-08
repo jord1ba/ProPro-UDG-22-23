@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['add_494',['add',['../class_affected_group.html#ac57992f3a651b5bf34219cedb8b56d72',1,'AffectedGroup']]],
+  ['adddata_495',['addData',['../class_data.html#aca17bb7551fd5abd69bb22975b6365d2',1,'Data']]],
+  ['adddatatoleftpiechart_496',['addDataToLeftPieChart',['../class_graph_chart_data.html#afb24fc7f972eb88216dcb85da5e1814c',1,'GraphChartData']]],
+  ['adddatatopiechart_497',['addDataToPieChart',['../class_graph_chart_data.html#a7524d49a7aacd880eba481a309740443',1,'GraphChartData']]],
+  ['adddatatorightpiechart_498',['addDataToRightPieChart',['../class_graph_chart_data.html#a98c4f5b998ba0f4ec24209d6ef8f415a',1,'GraphChartData']]],
+  ['addedges_499',['addEdges',['../class_graph_chart_data.html#aab913bf7136efb9368e00b69fea63601',1,'GraphChartData']]],
+  ['addgroup_500',['addGroup',['../class_affectation.html#a17972803a8d95c085a27844c9ef89048',1,'Affectation']]],
+  ['addneighbour_501',['addNeighbour',['../class_region.html#a2df12df061a3b66e9ddb7861e52a3fa4',1,'Region']]],
+  ['addressedvirus_502',['addressedVirus',['../class_vaccine.html#a4d94134837754924f06588cd704d9eeb',1,'Vaccine']]],
+  ['addvaccine_503',['addVaccine',['../class_region.html#a4ee89117aff95d0d415a08f1d51b3ba7',1,'Region.addVaccine()'],['../class_territory.html#a61efcfef2b87b77c265773cb10379040',1,'Territory.addVaccine()']]],
+  ['addvertexs_504',['addVertexs',['../class_graph_chart_data.html#abc4dd2131217494e39341b1efe5bfdb3',1,'GraphChartData']]],
+  ['addvirus_505',['addVirus',['../class_simulation.html#aba363786e329e16fca1296afc4ee04db',1,'Simulation']]],
+  ['affectation_506',['Affectation',['../class_affectation.html#a012a8413d013307412c28f36e56b408a',1,'Affectation']]],
+  ['affectation_507',['affectation',['../class_region.html#a69de0438019ba358a8c35e4e9c6b27de',1,'Region']]],
+  ['affectationsbyfamily_508',['affectationsByFamily',['../class_region.html#aa1ef0f7a40fcea11f56ad2ee09909c97',1,'Region']]],
+  ['affected_509',['affected',['../class_affectation.html#a629a1d4c0d3ae3ea20739c497b92179a',1,'Affectation.affected()'],['../class_affected_group.html#abc499fd578a976463de333fd2860cde3',1,'AffectedGroup.affected()']]],
+  ['affectedgroup_510',['AffectedGroup',['../class_affected_group.html#a9776a19a98325e879bac3a59a820a19d',1,'AffectedGroup.AffectedGroup(Affectation affectation, Virus virus, int affected)'],['../class_affected_group.html#a945627b9e587c64380aec4dbaabe2a92',1,'AffectedGroup.AffectedGroup(Affectation affectation, Virus virus, int affected, ContagiousState contagious_state, int contagious_tick)']]],
+  ['affectedgroups_511',['affectedGroups',['../class_initial_state_reader.html#a7c07c7ef2bf85934b4f8103d81469193',1,'InitialStateReader']]],
+  ['applyvaccine_512',['applyVaccine',['../class_affectation.html#add4a237b964b27cd6e5fc9cf6b0c1fdb',1,'Affectation.applyVaccine()'],['../class_command_line.html#aa6a6121e6e67a5805e1f9aee5f20be95',1,'CommandLine.applyVaccine()'],['../class_simulation.html#a092035231e8846afe5904e90de90454a',1,'Simulation.applyVaccine(Vaccine vac, Region region, float percentage)']]],
+  ['assemblyfamilies_513',['assemblyFamilies',['../class_simulation.html#ab5ffdf16070150f071dd11073653cab3',1,'Simulation']]],
+  ['assemblyregions_514',['assemblyRegions',['../class_simulation.html#a25ce209560f3f2ae23643a6d4fe96198',1,'Simulation']]],
+  ['assemblyvaccines_515',['assemblyVaccines',['../class_simulation.html#a65d2fce60fa229109017fb7299d3edfb',1,'Simulation']]],
+  ['assemblyviruses_516',['assemblyViruses',['../class_simulation.html#ab4fd38cefd1e27d6d822246db979ab68',1,'Simulation']]]
+];

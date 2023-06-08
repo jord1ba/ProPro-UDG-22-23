@@ -1,0 +1,4 @@
+<map id="Simulation.simulateNextTick" name="Simulation.simulateNextTick">
+<area shape="rect" id="node1" title="Calcula el següent tick." alt="" coords="5,5,216,32"/>
+<area shape="rect" id="node2" href="$class_territory.html#aa15e12a15e1c64680480c61d4a05e1c1" title="Propaga i infecta les regions." alt="" coords="264,5,456,32"/>
+</map>

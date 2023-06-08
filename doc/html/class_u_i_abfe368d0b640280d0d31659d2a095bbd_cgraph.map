@@ -1,0 +1,8 @@
+<map id="UI.updateChartsData" name="UI.updateChartsData">
+<area shape="rect" id="node1" title="Donades tres llistes de dades pels Charts i el conjunt de títolsle, actualitza cadascun dels PieChart..." alt="" coords="5,129,164,156"/>
+<area shape="rect" id="node2" href="$class_graph_chart_data.html#a2ca5d2cd40da91825039b1415ebf12a0" title="Neteja les dades dels PieCharts i les actualitza per les marcades per la posició de la variable índex..." alt="" coords="223,5,431,32"/>
+<area shape="rect" id="node3" href="$class_graph_chart_data.html#a05064fea9cdbd7834d07f1d0b1e0c908" title="Substitueix el pool de dades del PieChart inferior esquerra." alt="" coords="227,57,427,98"/>
+<area shape="rect" id="node4" href="$class_graph_chart_data.html#a188319a3710ecb29756aa4f025ba3c13" title="Substitueix el pool de dades del PieChart inferior dret." alt="" coords="221,122,432,163"/>
+<area shape="rect" id="node5" href="$class_graph_chart_data.html#af94b1b57046efc17ae8f61912e45b886" title="Substitueix el pool de dades del PieChart superior." alt="" coords="227,187,426,229"/>
+<area shape="rect" id="node6" href="$class_graph_chart_data.html#a15fc5c9b8e4bd66758294cc69e18d303" title="Substitueix el pool de títols." alt="" coords="212,253,441,294"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Affectation.pushGroups" name="Affectation.pushGroups">
+<area shape="rect" id="node1" title="Acaba d&#39;afegir tots els grups que estaven preparats per afegir." alt="" coords="713,71,888,98"/>
+<area shape="rect" id="node2" href="$class_region.html#a4d94a3fb6214962bdf5fbdd09edad438" title="Distribueix la proporció de persones malaltes uniformement en la duració dels símptomes del virus en ..." alt="" coords="479,5,665,47"/>
+<area shape="rect" id="node5" href="$class_region.html#a6052f3a22228217ba7b7569bc5fc8055" title="Acaba d&#39;afegir els grups a les afectacions." alt="" coords="518,71,626,98"/>
+<area shape="rect" id="node6" href="$class_region.html#a41d1153d04b5ee6829b9a0479ef5b072" title="Transfereix una proporció de persones afectades de la regió from a la regió to." alt="" coords="511,122,633,149"/>
+<area shape="rect" id="node3" href="$class_simulation.html#a25ce209560f3f2ae23643a6d4fe96198" title="A partir de les dades de les families crea la llista d&#39;objectes de tipus Region." alt="" coords="220,13,431,39"/>
+<area shape="rect" id="node4" href="$class_simulation.html#a84d2e11489e9d0c719e5e2a0bf39e636" title="Constructor de la simulació." alt="" coords="5,13,172,39"/>
+<area shape="rect" id="node7" href="$class_region.html#ad753e4cc4a905670730726a7a9c432d0" title="Mou les persones a les regions veïnes." alt="" coords="251,71,400,98"/>
+<area shape="rect" id="node8" href="$class_region.html#ab5019c94ac9d442b01756e3d82aa53b9" title="Retorna els habitants que s&#39;han mogut." alt="" coords="260,122,391,149"/>
+<area shape="rect" id="node9" href="$class_region.html#a5f04bf2c6b11e9cfb7c803ef686de6f1" title="Transfereix una proporció de persones afectades de la regió from a la regió to." alt="" coords="264,173,387,199"/>
+</map>

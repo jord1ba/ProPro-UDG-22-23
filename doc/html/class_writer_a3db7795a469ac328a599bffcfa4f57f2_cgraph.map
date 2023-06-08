@@ -1,0 +1,18 @@
+<map id="Writer.writeSummary" name="Writer.writeSummary">
+<area shape="rect" id="node1" title="Mostra per pantalla un resum de l&#39;estat actual i acumulat." alt="" coords="5,284,167,311"/>
+<area shape="rect" id="node2" href="$class_data.html#a64ecd336fa2b1addf90f43a941c6703b" title="Retorna en format String les dades més rellevants de l&#39;objecte actual." alt="" coords="215,284,333,311"/>
+<area shape="rect" id="node3" href="$class_region.html#a69de0438019ba358a8c35e4e9c6b27de" title="Si no existeix crea l&#39;afectació" alt="" coords="436,56,577,83"/>
+<area shape="rect" id="node6" href="$class_affectation.html#a06e4ebe2c8b3bd3c528396d7b9fac61f" title=" " alt="" coords="1128,56,1275,83"/>
+<area shape="rect" id="node8" href="$class_region.html#a42d07da546e81746c7dcc4b3e33beca7" title=" " alt="" coords="448,157,565,184"/>
+<area shape="rect" id="node9" href="$class_region.html#a6b36684643bfe25a7ad6bd78f585dd1b" title=" " alt="" coords="435,208,579,235"/>
+<area shape="rect" id="node10" href="$class_region.html#ab978540cf53242fccf6e88078e8d56eb" title=" " alt="" coords="453,259,561,285"/>
+<area shape="rect" id="node11" href="$class_virus.html#af2300113b3c2068f7957e1cf31203182" title="Retorna el nom del virus." alt="" coords="459,309,555,336"/>
+<area shape="rect" id="node12" href="$class_data.html#aa52e17f132e1b6ff066dc4aa8374c950" title="Retorna el total d&#39;infectats en durant tota la simulació." alt="" coords="423,360,590,387"/>
+<area shape="rect" id="node13" href="$class_data.html#a7a7568a394a1a0b8e74a3abe83ca7011" title="Retorna la ràtio de noves infeccions per tots els infectats." alt="" coords="419,411,594,437"/>
+<area shape="rect" id="node14" href="$class_affectation_1_1_vaccine_stepper.html#ae320fcce1e520c977a66024aa1eebb56" title=" " alt="" coords="381,461,632,488"/>
+<area shape="rect" id="node15" href="$class_affectation.html#a1bd69bee9667d46dfb19cac8aec2adee" title=" " alt="" coords="398,513,615,554"/>
+<area shape="rect" id="node4" href="$class_region.html#a94249884b5c17e75ffb388b1007616b3" title="Comprova si hi ha alguna vacuna que afectaria aquesta afectació, i si es dona el cas,..." alt="" coords="681,56,848,83"/>
+<area shape="rect" id="node5" href="$class_affectation.html#add4a237b964b27cd6e5fc9cf6b0c1fdb" title="Aplica la vacuna a l&#39;afectació, substituïnt l&#39;anterior." alt="" coords="897,5,1080,32"/>
+<area shape="rect" id="node7" href="$class_affectation.html#a145faada1c1ef6ab363dc12b73a6f88a" title=" " alt="" coords="924,56,1053,83"/>
+<area shape="rect" id="node16" href="$class_vaccine.html#a1a0432f70e41b72d033bb09e5559ed53" title="Retorna el nombre de ticks que tindrà efecte la vacuna." alt="" coords="680,520,849,547"/>
+</map>
